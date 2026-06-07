@@ -1,0 +1,226 @@
+{
+  "week": 5,
+  "day": 1,
+  "goi": [
+    { "kanji": "長男", "reading": "ちょうなん", "meaning_en": "the eldest son", "meaning_id": "anak laki-laki tertua" },
+    { "kanji": "長女", "reading": "ちょうじょ", "meaning_en": "the eldest daughter", "meaning_id": "anak perempuan tertua" },
+    { "kanji": "次男", "reading": "じなん", "meaning_en": "the second son", "meaning_id": "anak laki-laki kedua" },
+    { "kanji": "次女", "reading": "じじょ", "meaning_en": "the second daughter", "meaning_id": "anak perempuan kedua" },
+    { "kanji": "三男", "reading": "さんなん", "meaning_en": "the third son", "meaning_id": "anak laki-laki ketiga" },
+    { "kanji": "末っ子", "reading": "すえっこ", "meaning_en": "the youngest child", "meaning_id": "anak bungsu" },
+    { "kanji": "伯父/叔父", "reading": "おじ", "meaning_en": "uncle", "meaning_id": "paman" },
+    { "kanji": "伯母/叔母", "reading": "おば", "meaning_en": "aunt", "meaning_id": "bibi" },
+    { "kanji": "職場の同僚", "reading": "しょくばのどうりょう", "meaning_en": "colleague", "meaning_id": "rekan kerja" },
+    { "kanji": "職場の上司", "reading": "しょくばのじょうし", "meaning_en": "boss", "meaning_id": "atasan di tempat kerja" },
+    { "kanji": "部下", "reading": "ぶか", "meaning_en": "subordinate", "meaning_id": "bawahan" },
+    { "kanji": "会社の先輩", "reading": "かいしゃのせんぱい", "meaning_en": "someone has been in company longer than you", "meaning_id": "senior di perusahaan" },
+    { "kanji": "部長", "reading": "ぶちょう", "meaning_en": "manager", "meaning_id": "kepala bagian/manajer" },
+    { "kanji": "課長", "reading": "かちょう", "meaning_en": "chief", "meaning_id": "kepala seksi" },
+    { "kanji": "大学生", "reading": "だいがくせい", "meaning_en": "university student", "meaning_id": "mahasiswa" },
+    { "kanji": "高校生", "reading": "こうこうせい", "meaning_en": "high school student", "meaning_id": "siswa SMA" },
+    { "kanji": "中学生", "reading": "ちゅうがくせい", "meaning_en": "junior high school student", "meaning_id": "siswa SMP" },
+    { "kanji": "小学生", "reading": "しょうがくせい", "meaning_en": "primary school student", "meaning_id": "siswa SD" },
+    { "kanji": "会社員", "reading": "かいしゃいん", "meaning_en": "office worker", "meaning_id": "karyawan kantor" },
+    { "kanji": "サラリーマン", "reading": "さらりーまん", "meaning_en": "business man", "meaning_id": "pekerja kantoran/salaryman" },
+    { "kanji": "主婦", "reading": "しゅふ", "meaning_en": "housewife", "meaning_id": "ibu rumah tangga" },
+    { "kanji": "教師", "reading": "きょうし", "meaning_en": "teacher", "meaning_id": "guru/pengajar" },
+    { "kanji": "6人兄弟の末っ子", "reading": "ろくにんきょうだいのすえっこ", "meaning_en": "the youngest of the six brothers", "meaning_id": "si bungsu dari 6 bersaudara" },
+    { "kanji": "3人姉妹の一番上", "reading": "さんにんしまいのいちばんうえ", "meaning_en": "the oldest of the three sisters", "meaning_id": "yang tertua dari 3 bersaudara perempuan" },
+    { "kanji": "親戚/親類", "reading": "しんせき/しんるい", "meaning_en": "relatives", "meaning_id": "sanak saudara/kerabat" },
+    { "kanji": "孫", "reading": "まご", "meaning_en": "grandchild", "meaning_id": "cucu" },
+    { "kanji": "甥", "reading": "おい", "meaning_en": "nephew", "meaning_id": "keponakan laki-laki" },
+    { "kanji": "姪", "reading": "めい", "meaning_en": "niece", "meaning_id": "keponakan perempuan" },
+    { "kanji": "いとこ", "reading": "いとこ", "meaning_en": "cousin", "meaning_id": "sepupu" },
+    { "kanji": "一人っ子", "reading": "ひとりっこ", "meaning_en": "an only child", "meaning_id": "anak tunggal" },
+    { "kanji": "一人息子", "reading": "ひとりむすこ", "meaning_en": "the only son", "meaning_id": "anak laki-laki satu-satunya" },
+    { "kanji": "一人娘", "reading": "ひとりむすめ", "meaning_en": "the only daughter", "meaning_id": "anak perempuan satu-satunya" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "wa mochiron",
+      "question": "彼は勉強___。",
+      "parts": ["は", "もちろん", "スポーツ[すぽーつ]", "も得意[とくい]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は勉強はもちろんスポーツも得意だ。",
+      "meaning_id": "Dia sudah tentu pintar belajar, olahraga juga jago."
+    },
+    {
+      "pattern": "no wa mochiron",
+      "question": "この店は___。",
+      "parts": ["味[あじ]が良い[よい]", "のはもちろん", "サービス[さーびす]", "もいい"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "この店は味が良いのはもちろんサービスもいい。",
+      "meaning_id": "Toko ini sudah tentu rasanya enak, pelayanannya juga bagus."
+    },
+    {
+      "pattern": "bakarika",
+      "question": "あの人は___。",
+      "parts": ["漢字[かんじ]", "ばかりか", "カタカナ[かたかな]", "も書[か]けない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あの人は漢字ばかりかカタカナも書けない。",
+      "meaning_id": "Orang itu bukan hanya Kanji, Katakana pun tidak bisa tulis."
+    },
+    {
+      "pattern": "ni kurabete",
+      "question": "今年は___。",
+      "parts": ["去年[きょねん]", "に比[くら]べて", "寒[さむ]さが", "厳[きび]しい"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "今年は去年に比べて寒さが厳しい。",
+      "meaning_id": "Tahun ini dibandingkan tahun lalu, dinginnya lebih parah."
+    },
+    {
+      "pattern": "ni taishite",
+      "question": "兄は活発な___。",
+      "parts": ["のに対[たい]して", "弟[おとうと]は", "静[しず]かな", "性格[せいかく]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "兄は活発なのに対して弟は静かな性格だ。",
+      "meaning_id": "Berlawanan dengan kakak yang aktif, adik punya sifat yang pendiam."
+    },
+    {
+      "pattern": "wa mochiron",
+      "question": "日本料理[にほんりょうり]は___。",
+      "parts": ["寿司[すし]", "はもちろん", "天[てん]ぷら", "も有名[ゆうめい]です"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "日本料理は寿司はもちろん天ぷらも有名です。",
+      "meaning_id": "Masakan Jepang tentu saja sushi terkenal, tempura juga terkenal."
+    },
+    {
+      "pattern": "bakaridenaku",
+      "question": "彼女[かのじょ]は___。",
+      "parts": ["英語[えいご]", "ばかりでなく", "中国語[ちゅうごくご]", "も話[はな]せる"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼女は英語ばかりでなく中国語 juga bisa bahasa Mandarin.",
+      "meaning_id": "Dia tidak hanya bisa bahasa Inggris, tapi juga bisa bahasa Mandarin."
+    },
+    {
+      "pattern": "ni taishite",
+      "question": "最近[さいきん]の若者[わかもの]___。",
+      "parts": ["の意見[いけん]", "に対[たい]して", "反対[はんたい]する", "人[ひと]が多い[おおい]"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "最近の若者の意見に対して反対する人が多い。",
+      "meaning_id": "Banyak orang yang menentang pendapat anak muda akhir-akhir ini."
+    },
+    {
+      "pattern": "ni kurabe",
+      "question": "東京[とうきょう]は___。",
+      "parts": ["大阪[おおさか]", "に比[くら]べ", "物価[ぶっか]が", "高い[たかい]"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "東京は大阪に比べ物価が高い。",
+      "meaning_id": "Tokyo dibandingkan Osaka, harga barangnya lebih mahal."
+    },
+    {
+      "pattern": "no wa mochiron",
+      "question": "健康[けんこう]のためには___。",
+      "parts": ["運動[うんどう]する", "のはもちろん", "食事[しょくじ]も", "大切[たいせつ]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "健康のためには運動するのはもちろん食事 juga penting.",
+      "meaning_id": "Untuk kesehatan, olahraga tentu saja penting, makanan juga penting."
+    },
+    {
+      "pattern": "bakarika",
+      "question": "このアパートは___。",
+      "parts": ["狭い[せまい]", "ばかりか", "駅[えき]から", "遠い[とおい]"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "このアパートは狭いばかりか駅から遠i.",
+      "meaning_id": "Apartemen ini bukan hanya sempit, tapi juga jauh dari stasiun."
+    },
+    {
+      "pattern": "ni taishi",
+      "question": "先生[せんせい]の問い[とい]___。",
+      "parts": ["に対[たい]して", "学生[가くせい]は", "誰[だれ]も", "答え[こたえ]なかった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "先生の問いに対して学生は誰も答えなかった。",
+      "meaning_id": "Terhadap pertanyaan guru, tidak ada satu pun siswa yang menjawab."
+    },
+    {
+      "pattern": "wa mochiron",
+      "question": "この映画[えいが]は___。",
+      "parts": ["子供[こども]", "はもちろん", "大人[おとな]", "も楽しめ[たのしめ]ます"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "この映画は子供はもちろん大人も楽しめます。",
+      "meaning_id": "Film ini tentu saja anak-anak, orang dewasa juga bisa menikmati."
+    },
+    {
+      "pattern": "bakaridenaku",
+      "question": "風邪[かぜ]を引いて[ひいて]___。",
+      "parts": ["熱[ねつ]がある", "ばかりでなく", "喉[のど]も", "痛い[いたい]"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "風邪を引いて熱があるばかりでなく喉も痛い。",
+      "meaning_id": "Kena flu bukan hanya demam, tapi tenggorokan juga sakit."
+    },
+    {
+      "pattern": "ni kurabete",
+      "question": "以前[いぜん]___。",
+      "parts": ["に比[くら]べて", "日本語[にほんご]が", "上手[うま]く", "なりましたね"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "以前に比べて日本語が上手くなりましたね。",
+      "meaning_id": "Dibandingkan sebelumnya, bahasa Jepangmu jadi makin pintar ya."
+    },
+    {
+      "pattern": "ni taishite",
+      "question": "女性[じょせい]の進出[しんしゅつ]___。",
+      "parts": ["に対[たい]して", "保守的[ほしゅてき]な", "考え[かんgあえ]を", "持[も]つ人[ひと]がいる"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "女性の進出に対して保守的な考えを持つ人がいる。",
+      "meaning_id": "Terhadap kemajuan wanita, ada orang yang memiliki pemikiran konservatif."
+    },
+    {
+      "pattern": "no wa mochiron",
+      "question": "家[いえ]を買う[かう]のは___。",
+      "parts": ["お金[おかね]がかかる", "のはもちろん", "手続[てつづ]きも", "大変[たいへん]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "家を買うのはお金がかかるのはもちろん手続き juga berat.",
+      "meaning_id": "Membeli rumah tentu saja memakan biaya, prosedurnya juga berat."
+    },
+    {
+      "pattern": "bakarika",
+      "question": "雨[あめ]___。",
+      "parts": ["ばかりか", "風[かぜ]も", "強[つよ]くなって", "きた"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "雨ばかりか風も強くなってきた。",
+      "meaning_id": "Bukan hanya hujan, angin pun mulai kencang."
+    },
+    {
+      "pattern": "ni kurabe",
+      "question": "バス[ばす]___。",
+      "parts": ["に比[くら]べ", "電車[でんしゃ]の方[ほう]が", "時間[じかん]が", "正確[せいかく]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "バスに比べ電車の方が時間が正確だ。",
+      "meaning_id": "Dibandingkan bus, kereta lebih tepat waktu."
+    },
+    {
+      "pattern": "ni taishite",
+      "question": "私[わたし]の意見[いけん]___。",
+      "parts": ["に対[たい]して", "父[ちち]は", "厳[きび]しく", "反対[はんたい]した"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "私の意見に対して父は厳しく反対した。",
+      "meaning_id": "Terhadap pendapatku, ayah menentang dengan keras."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜はもちろ〜も / 〜のはもちろ〜も",
+      "meaning": "Sudah tentu... juga",
+      "structure": "N + はもちろん + N + も / Plain Form + のはもちろん",
+      "example": "日本料理[にほんりょうり]は寿司[すし]はもちろん天[てん]ぷらも有名[ゆうめい]だ。"
+    },
+    {
+      "title": "〜ばかりか〜も / 〜ばかりでなく〜も",
+      "meaning": "Bukan hanya... tapi juga",
+      "structure": "N / Plain Form + ばかりか / ばかりでなく",
+      "example": "彼女[かのじょ]は英語[えいご]ばかりか日本語[にほんご]もペラペラだ。"
+    },
+    {
+      "title": "〜に比べて / 〜に比べ",
+      "meaning": "Dibandingkan dengan",
+      "structure": "N + に比べて / に比べ",
+      "example": "東京[とうきょう]は大阪[おおさか]に比[くら]べて物価[ぶっか]が高い[たかい]。"
+    },
+    {
+      "title": "〜に対して / 〜に対（し）",
+      "meaning": "Berlawanan dengan / Terhadap",
+      "structure": "N / Plain Form + の + に対して",
+      "example": "昨日[きのう]は雨[あめ]だったのに対[たい]して、今日[きょう]は晴[は]れている。"
+    }
+  ]
+}
