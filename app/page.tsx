@@ -1,26 +1,81 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import GoiQuiz from "@/components/GoiQuiz";
 import BunpouQuiz from "@/components/BunpouQuiz";
 import GrammarReview from "@/components/GrammarReview";
 
+// Mapping of available data files
+const dataMap: Record<string, any> = {
+  "n3-w5-d1": () => import("@/data/w5d1.json"),
+  // Future entries:
+  // "n3-w5-d2": () => import("@/data/w5d2.json"),
+};
+
 export default function Home() {
   const [mode, setMode] = useState<"goi" | "bunpou">("goi");
   const [showBunpouQuiz, setShowBunpouQuiz] = useState(false);
+  
+  const [level, setLevel] = useState("n3");
+  const [week, setWeek] = useState(5);
+  const [day, setDay] = useState(1);
+  
+  const [quizData, setQuizData] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+
+  const dataKey = `${level}-w${week}-d${day}`;
+
+  useEffect(() => {
+    const loadData = async () => {
+      setLoading(true);
+      try {
+        if (dataMap[dataKey]) {
+          const module = await dataMap[dataKey]();
+          setQuizData(module.default || module);
+        } else {
+          setQuizData(null);
+        }
+      } catch (error) {
+        console.error("Failed to load data:", error);
+        setQuizData(null);
+      }
+      setLoading(false);
+    };
+    loadData();
+  }, [dataKey]);
 
   const handleModeChange = (newMode: "goi" | "bunpou") => {
     setMode(newMode);
-    setShowBunpouQuiz(false); // Reset Bunpou state when switching modes
+    setShowBunpouQuiz(false);
   };
 
   return (
     <main className="min-h-screen bg-gray-100 py-10 px-4">
       <div className="max-w-md mx-auto mb-8 text-center">
         <h1 className="text-3xl font-extrabold text-gray-900 mb-2">
-          JLPT N3 Quiz
+          JLPT {level.toUpperCase()} Quiz
         </h1>
-        <p className="text-black font-bold">Week 5 Day 1</p>
+        
+        {/* Selection UI */}
+        <div className="flex gap-2 justify-center mt-4">
+          <select 
+            value={week} 
+            onChange={(e) => setWeek(Number(e.target.value))}
+            className="bg-white border border-gray-300 text-black font-bold text-sm rounded-lg p-2"
+          >
+            <option value={5}>Week 5</option>
+            <option value={6}>Week 6</option>
+          </select>
+          <select 
+            value={day} 
+            onChange={(e) => setDay(Number(e.target.value))}
+            className="bg-white border border-gray-300 text-black font-bold text-sm rounded-lg p-2"
+          >
+            {[1, 2, 3, 4, 5, 6, 7].map(d => (
+              <option key={d} value={d}>Day {d}</option>
+            ))}
+          </select>
+        </div>
       </div>
 
       <div className="max-w-md mx-auto mb-6 flex bg-white rounded-lg p-1 shadow-sm">
@@ -47,24 +102,33 @@ export default function Home() {
       </div>
 
       <div className="animate-in fade-in duration-500">
-        {mode === "goi" ? (
-          <GoiQuiz />
-        ) : showBunpouQuiz ? (
-          <div className="space-y-4">
-             <button 
-              onClick={() => setShowBunpouQuiz(false)}
-              className="max-w-md mx-auto block text-blue-600 font-bold text-sm hover:underline mb-2"
-            >
-              ← Kembali ke Materi
-            </button>
-            <BunpouQuiz />
-          </div>
+        {loading ? (
+          <div className="text-center py-20 text-black font-bold">Memuat Data...</div>
+        ) : quizData ? (
+          mode === "goi" ? (
+            <GoiQuiz data={quizData} />
+          ) : showBunpouQuiz ? (
+            <div className="space-y-4">
+               <button 
+                onClick={() => setShowBunpouQuiz(false)}
+                className="max-w-md mx-auto block text-blue-600 font-bold text-sm hover:underline mb-2"
+              >
+                ← Kembali ke Materi
+              </button>
+              <BunpouQuiz data={quizData} />
+            </div>
+          ) : (
+            <GrammarReview data={quizData} onStartQuiz={() => setShowBunpouQuiz(true)} />
+          )
         ) : (
-          <GrammarReview onStartQuiz={() => setShowBunpouQuiz(true)} />
+          <div className="bg-white p-8 rounded-xl shadow-md text-center">
+            <p className="text-black font-bold mb-4">Materi untuk Week {week} Day {day} belum tersedia.</p>
+            <p className="text-gray-500 text-sm">Silakan pilih materi lain atau tambahkan data baru.</p>
+          </div>
         )}
       </div>
 
-      <footer className="max-w-md mx-auto mt-12 text-center text-gray-400 text-xs">
+      <footer className="max-w-md mx-auto mt-12 text-center text-gray-400 text-xs font-bold">
         <p>© 2026 JLPT N3 Study Companion</p>
         <p className="mt-1">Nihongo Sou Matome Prep</p>
       </footer>

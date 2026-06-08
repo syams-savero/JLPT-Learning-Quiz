@@ -2,9 +2,14 @@
 
 import { useState, useEffect } from "react";
 import { GoiItem, shuffleArray } from "@/lib/utils";
-import data from "@/data/w5d1.json";
 
-export default function GoiQuiz() {
+interface GoiQuizProps {
+  data: {
+    goi: GoiItem[];
+  };
+}
+
+export default function GoiQuiz({ data }: GoiQuizProps) {
   const [mounted, setMounted] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [options, setOptions] = useState<string[]>([]);
@@ -12,7 +17,7 @@ export default function GoiQuiz() {
   const [showResult, setShowResult] = useState(false);
   const [score, setScore] = useState(0);
 
-  const currentItem = data.goi[currentIndex] as GoiItem;
+  const currentItem = data.goi[currentIndex];
 
   useEffect(() => {
     setMounted(true);
@@ -26,7 +31,7 @@ export default function GoiQuiz() {
       .map((g) => g.reading);
     const shuffledOthers = shuffleArray(others).slice(0, 3);
     setOptions(shuffleArray([correct, ...shuffledOthers]));
-  }, [currentIndex, mounted, currentItem.reading]);
+  }, [currentIndex, mounted, currentItem.reading, data.goi]);
 
   const handleSelect = (option: string) => {
     if (showResult) return;

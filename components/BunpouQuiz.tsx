@@ -1,10 +1,15 @@
 "use client";
 
-import { useState, useMemo, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { BunpouItem, shuffleArray } from "@/lib/utils";
-import data from "@/data/w5d1.json";
 
-export default function BunpouQuiz() {
+interface BunpouQuizProps {
+  data: {
+    bunpou: BunpouItem[];
+  };
+}
+
+export default function BunpouQuiz({ data }: BunpouQuizProps) {
   const [mounted, setMounted] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [shuffledParts, setShuffledParts] = useState<{ text: string, originalIndex: number }[]>([]);
@@ -13,7 +18,7 @@ export default function BunpouQuiz() {
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [score, setScore] = useState(0);
 
-  const currentItem = data.bunpou[currentIndex] as BunpouItem;
+  const currentItem = data.bunpou[currentIndex];
 
   useEffect(() => {
     setMounted(true);

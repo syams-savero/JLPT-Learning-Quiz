@@ -1,12 +1,18 @@
 "use client";
 
-import data from "@/data/w5d1.json";
-
 interface GrammarReviewProps {
+  data: {
+    grammar_list: {
+      title: string;
+      meaning: string;
+      structure: string;
+      example: string;
+    }[];
+  };
   onStartQuiz: () => void;
 }
 
-export default function GrammarReview({ onStartQuiz }: GrammarReviewProps) {
+export default function GrammarReview({ data, onStartQuiz }: GrammarReviewProps) {
   const renderTextWithFurigana = (text: string) => {
     const regex = /([^\[\]]+)\[([^\[\]]+)\]/g;
     const parts = [];
