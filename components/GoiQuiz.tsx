@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useMemo } from "react";
 import { GoiItem, shuffleArray } from "@/lib/utils";
 
 interface GoiQuizProps {
@@ -10,28 +10,21 @@ interface GoiQuizProps {
 }
 
 export default function GoiQuiz({ data }: GoiQuizProps) {
-  const [mounted, setMounted] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [options, setOptions] = useState<string[]>([]);
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [showResult, setShowResult] = useState(false);
   const [score, setScore] = useState(0);
 
   const currentItem = data.goi[currentIndex];
 
-  useEffect(() => {
-    setMounted(true);
-  }, []);
-
-  useEffect(() => {
-    if (!mounted) return;
+  const options = useMemo(() => {
     const correct = currentItem.reading;
     const others = data.goi
       .filter((g) => g.reading !== correct)
       .map((g) => g.reading);
     const shuffledOthers = shuffleArray(others).slice(0, 3);
-    setOptions(shuffleArray([correct, ...shuffledOthers]));
-  }, [currentIndex, mounted, currentItem.reading, data.goi]);
+    return shuffleArray([correct, ...shuffledOthers]);
+  }, [currentItem.reading, data.goi]);
 
   const handleSelect = (option: string) => {
     if (showResult) return;
@@ -53,8 +46,6 @@ export default function GoiQuiz({ data }: GoiQuizProps) {
       setShowResult(false);
     }
   };
-
-  if (!mounted) return <div className="max-w-md mx-auto p-4 h-64 flex items-center justify-center text-gray-400 font-bold">Loading...</div>;
 
   return (
     <div className="max-w-md mx-auto p-4 bg-white rounded-xl shadow-md space-y-6">

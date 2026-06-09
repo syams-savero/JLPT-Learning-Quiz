@@ -2,6 +2,8 @@
 
 interface GrammarReviewProps {
   data: {
+    week: number;
+    day: number;
     grammar_list: {
       title: string;
       meaning: string;
@@ -42,7 +44,7 @@ export default function GrammarReview({ data, onStartQuiz }: GrammarReviewProps)
   return (
     <div className="max-w-2xl mx-auto p-4 space-y-8 animate-in fade-in duration-500">
       <div className="bg-white rounded-xl shadow-md p-6 border-l-8 border-blue-600">
-        <h2 className="text-2xl font-black text-black mb-4">Materi Bunpou Week 5 Day 1</h2>
+        <h2 className="text-2xl font-black text-black mb-4">Materi Bunpou Week {data.week} Day {data.day}</h2>
         <p className="text-gray-700">Pelajari pola kalimat di bawah ini sebelum memulai kuis.</p>
       </div>
 

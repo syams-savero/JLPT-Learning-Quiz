@@ -89,7 +89,7 @@
       "question": "彼女[かのじょ]は___。",
       "parts": ["英語[えいご]", "ばかりでなく", "中国語[ちゅうごくご]", "も話[はな]せる"],
       "correct_order": [0, 1, 2, 3],
-      "full_sentence": "彼女は英語ばかりでなく中国語 juga bisa bahasa Mandarin.",
+      "full_sentence": "彼女は英語ばかりでなく中国語も話せる。",
       "meaning_id": "Dia tidak hanya bisa bahasa Inggris, tapi juga bisa bahasa Mandarin."
     },
     {
@@ -113,7 +113,7 @@
       "question": "健康[けんこう]のためには___。",
       "parts": ["運動[うんどう]する", "のはもちろん", "食事[しょくじ]も", "大切[たいせつ]だ"],
       "correct_order": [0, 1, 2, 3],
-      "full_sentence": "健康のためには運動するのはもちろん食事 juga penting.",
+      "full_sentence": "健康のためには運動するのはもちろん食事も大切だ。",
       "meaning_id": "Untuk kesehatan, olahraga tentu saja penting, makanan juga penting."
     },
     {
@@ -121,13 +121,13 @@
       "question": "このアパートは___。",
       "parts": ["狭い[せまい]", "ばかりか", "駅[えき]から", "遠い[とおい]"],
       "correct_order": [0, 1, 2, 3],
-      "full_sentence": "このアパートは狭いばかりか駅から遠i.",
+      "full_sentence": "このアパートは狭いばかりか駅から遠い。",
       "meaning_id": "Apartemen ini bukan hanya sempit, tapi juga jauh dari stasiun."
     },
     {
       "pattern": "ni taishi",
       "question": "先生[せんせい]の問い[とい]___。",
-      "parts": ["に対[たい]して", "学生[가くせい]は", "誰[だれ]も", "答え[こたえ]なかった"],
+      "parts": ["に対[たい]して", "学生[がくせい]は", "誰[だれ]も", "答え[こたえ]なかった"],
       "correct_order": [0, 1, 2, 3],
       "full_sentence": "先生の問いに対して学生は誰も答えなかった。",
       "meaning_id": "Terhadap pertanyaan guru, tidak ada satu pun siswa yang menjawab."
@@ -159,7 +159,7 @@
     {
       "pattern": "ni taishite",
       "question": "女性[じょせい]の進出[しんしゅつ]___。",
-      "parts": ["に対[たい]して", "保守的[ほしゅてき]な", "考え[かんgあえ]を", "持[も]つ人[ひと]がいる"],
+      "parts": ["に対[たい]して", "保守的[ほしゅてき]な", "考え[かんがえ]を", "持[も]つ人[ひと]がいる"],
       "correct_order": [0, 1, 2, 3],
       "full_sentence": "女性の進出に対して保守的な考えを持つ人がいる。",
       "meaning_id": "Terhadap kemajuan wanita, ada orang yang memiliki pemikiran konservatif."
@@ -169,7 +169,7 @@
       "question": "家[いえ]を買う[かう]のは___。",
       "parts": ["お金[おかね]がかかる", "のはもちろん", "手続[てつづ]きも", "大変[たいへん]だ"],
       "correct_order": [0, 1, 2, 3],
-      "full_sentence": "家を買うのはお金がかかるのはもちろん手続き juga berat.",
+      "full_sentence": "家を買うのはお金がかかるのはもちろん手続きも大変だ。",
       "meaning_id": "Membeli rumah tentu saja memakan biaya, prosedurnya juga berat."
     },
     {

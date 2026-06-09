@@ -2,25 +2,42 @@
 
 import { useState, useEffect } from "react";
 import GoiQuiz from "@/components/GoiQuiz";
+import type { GoiItem } from "@/lib/utils";
 import BunpouQuiz from "@/components/BunpouQuiz";
+import type { BunpouItem } from "@/lib/utils";
 import GrammarReview from "@/components/GrammarReview";
 
+interface QuizData {
+  week: number;
+  day: number;
+  goi: GoiItem[];
+  bunpou: BunpouItem[];
+  grammar_list: {
+    title: string;
+    meaning: string;
+    structure: string;
+    example: string;
+  }[];
+}
+
 // Mapping of available data files
+type DataLoader = () => Promise<{ default: Record<string, unknown> } | Record<string, unknown>>;
+
 const dataMap: Record<string, any> = {
   "n3-w5-d1": () => import("@/data/w5d1.json"),
-  // Future entries:
-  // "n3-w5-d2": () => import("@/data/w5d2.json"),
+  "n3-w5-d2": () => import("@/data/w5d2.json"),
+  "n3-w5-d3": () => import("@/data/w5d3.json"),
 };
 
 export default function Home() {
   const [mode, setMode] = useState<"goi" | "bunpou">("goi");
   const [showBunpouQuiz, setShowBunpouQuiz] = useState(false);
   
-  const [level, setLevel] = useState("n3");
+  const [level] = useState("n3");
   const [week, setWeek] = useState(5);
   const [day, setDay] = useState(1);
   
-  const [quizData, setQuizData] = useState<any>(null);
+  const [quizData, setQuizData] = useState<QuizData | null>(null);
   const [loading, setLoading] = useState(true);
 
   const dataKey = `${level}-w${week}-d${day}`;
@@ -30,8 +47,8 @@ export default function Home() {
       setLoading(true);
       try {
         if (dataMap[dataKey]) {
-          const module = await dataMap[dataKey]();
-          setQuizData(module.default || module);
+          const mod = await dataMap[dataKey]();
+          setQuizData((mod.default || mod) as QuizData);
         } else {
           setQuizData(null);
         }
@@ -106,7 +123,7 @@ export default function Home() {
           <div className="text-center py-20 text-black font-bold">Memuat Data...</div>
         ) : quizData ? (
           mode === "goi" ? (
-            <GoiQuiz data={quizData} />
+            <GoiQuiz key={dataKey} data={quizData} />
           ) : showBunpouQuiz ? (
             <div className="space-y-4">
                <button 
@@ -115,7 +132,7 @@ export default function Home() {
               >
                 ← Kembali ke Materi
               </button>
-              <BunpouQuiz data={quizData} />
+              <BunpouQuiz key={dataKey} data={quizData} />
             </div>
           ) : (
             <GrammarReview data={quizData} onStartQuiz={() => setShowBunpouQuiz(true)} />

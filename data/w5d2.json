@@ -1,0 +1,214 @@
+{
+  "week": 5,
+  "day": 2,
+  "goi": [
+    { "kanji": "お生まれ", "reading": "おうまれ", "meaning_en": "birth", "meaning_id": "kelahiran" },
+    { "kanji": "お住まい", "reading": "おすまい", "meaning_en": "residence", "meaning_id": "tempat tinggal" },
+    { "kanji": "出身", "reading": "しゅっしん", "meaning_en": "hometown/origin", "meaning_id": "asal daerah" },
+    { "kanji": "先日", "reading": "せんじつ", "meaning_en": "the other day", "meaning_id": "tempo hari" },
+    { "kanji": "とんでもないです", "reading": "とんでもないです", "meaning_en": "not at all/don't mention it", "meaning_id": "sama sekali tidak/jangan sungkan" },
+    { "kanji": "お邪魔します", "reading": "おじゃまします", "meaning_en": "excuse me for disturbing", "meaning_id": "permisi (saat bertamu)" },
+    { "kanji": "おかけになって", "reading": "おかけになって", "meaning_en": "please sit down", "meaning_id": "silakan duduk" },
+    { "kanji": "おかまいなく", "reading": "おかまいなく", "meaning_en": "please don't bother", "meaning_id": "jangan repot-repot" },
+    { "kanji": "お召し上がりください", "reading": "おめしあがりください", "meaning_en": "please eat/drink (honorific)", "meaning_id": "silakan dinikmati/dimakan" },
+    { "kanji": "遠慮なくいただきます", "reading": "えんりょなくいただきます", "meaning_en": "I will accept without hesitation", "meaning_id": "saya terima dengan senang hati" },
+    { "kanji": "ご無沙汰しています", "reading": "ごぶさたしています", "meaning_en": "long time no see", "meaning_id": "sudah lama tidak menyapa" },
+    { "kanji": "おかげさまで", "reading": "おかげさまで", "meaning_en": "thanks to you", "meaning_id": "berkat doa/bantuan Anda" },
+    { "kanji": "ご主人が亡くなった", "reading": "ごしゅじんがなくなった", "meaning_en": "husband passed away", "meaning_id": "suami (Anda) meninggal dunia" },
+    { "kanji": "お気の毒に", "reading": "おきのどくに", "meaning_en": "I'm sorry to hear that", "meaning_id": "turut berduka/kasihan sekali" },
+    { "kanji": "お目にかかる", "reading": "おめにかかる", "meaning_en": "to meet (humble)", "meaning_id": "bertemu (sangat sopan)" },
+    { "kanji": "お先に失礼します", "reading": "おさきにしつれいします", "meaning_en": "excuse me for leaving first", "meaning_id": "permisi pulang duluan" },
+    { "kanji": "ご苦労様", "reading": "ごくろうさま", "meaning_en": "good job (superior to inferior)", "meaning_id": "terima kasih atas kerja kerasnya (atasan ke bawahan)" },
+    { "kanji": "お疲れ様", "reading": "おつかれさま", "meaning_en": "good job (equal or to superior)", "meaning_id": "terima kasih atas kerja kerasnya" },
+    { "kanji": "お先に", "reading": "おさきに", "meaning_en": "ahead/before", "meaning_id": "duluan" },
+    { "kanji": "お疲れ様でした", "reading": "おつかれさまでした", "meaning_en": "thank you for your hard work", "meaning_id": "terima kasih atas kerja kerasnya (selesai kerja)" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V + ageru/agaru",
+      "question": "やっとレポート[れぽーと]を___。",
+      "parts": ["書き[かき]", "上げ[あげ]", "ることが", "できた"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "やっとレポートを書き上げることができた。",
+      "meaning_id": "Akhirnya saya berhasil menyelesaikan penulisan laporan."
+    },
+    {
+      "pattern": "V + kiru/kireru",
+      "question": "こんなにたくさん、一人[ひとり]では___。",
+      "parts": ["食べ[たべ]", "きれ", "ない", "ですよ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "こんなにたくさん、一人では食べきれないですよ。",
+      "meaning_id": "Sebanyak ini, tidak mungkin bisa saya habiskan sendiri."
+    },
+    {
+      "pattern": "V + kakeru",
+      "question": "机[つくえ]の上[うえ]に___コーヒー[こーひー]がある。",
+      "parts": ["飲み[のみ]", "かけ", "の", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "机の上に飲みかけのコーヒーがある。",
+      "meaning_id": "Di atas meja ada kopi yang diminum setengah (belum habis)."
+    },
+    {
+      "pattern": "V + tate",
+      "question": "このパン[ぱん]は___でおいしい。",
+      "parts": ["焼き[やき]", "たて", "な", "ので"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "このパンは焼きたてなのでおいしい。",
+      "meaning_id": "Roti ini enak karena baru saja dipanggang (masih segar)."
+    },
+    {
+      "pattern": "V + agaru",
+      "question": "ケーキ[けーき]が___よ。",
+      "parts": ["焼き[やき]", "あがった", "から", "食べよう"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "ケーキが焼きあがったから食べよう。",
+      "meaning_id": "Karena kuenya sudah selesai dipanggang, mari kita makan."
+    },
+    {
+      "pattern": "V + kiru",
+      "question": "最後[さいご]まで___。",
+      "parts": ["走り[はしり]", "きった", "彼は", "すごい"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "最後まで走りきった彼はすごい。",
+      "meaning_id": "Dia yang berlari sampai akhir (habis-habisan) sungguh hebat."
+    },
+    {
+      "pattern": "V + kakeda",
+      "question": "母[はは]に手紙[てがみ]を___。",
+      "parts": ["書き[かき]", "かけて", "やめた", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "母に手紙を書きかけてやめた。",
+      "meaning_id": "Saya baru mulai menulis surat untuk ibu lalu berhenti."
+    },
+    {
+      "pattern": "V + tate",
+      "question": "___魚[さかな]はうまい。",
+      "parts": ["取り[とり]", "たて", "の", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "取りたての魚はうまい。",
+      "meaning_id": "Ikan yang baru saja ditangkap itu lezat."
+    },
+    {
+      "pattern": "V + ageru",
+      "question": "２０ページ[ぺーじ]も___。",
+      "parts": ["やっと", "書き[かき]", "あげた", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "２０ページもやっと書きあげた。",
+      "meaning_id": "Akhirnya saya menyelesaikan penulisan sampai 20 halaman."
+    },
+    {
+      "pattern": "V + kireru",
+      "question": "一[いち]日でこの本[ほん]を___。",
+      "parts": ["読み[よみ]", "きれる", "とは", "思わない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "一日でこの本を読みきれるとは思わない。",
+      "meaning_id": "Saya rasa tidak bisa menghabiskan bacaan buku ini dalam satu hari."
+    },
+    {
+      "pattern": "V + kake no + N",
+      "question": "そこに___リンゴ[りんご]がある。",
+      "parts": ["食べ[たべ]", "かけ", "の", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "そこに食べかけのリンゴがある。",
+      "meaning_id": "Di sana ada apel yang baru dimakan setengah."
+    },
+    {
+      "pattern": "V + tateda",
+      "question": "あの家[いえ]は___。",
+      "parts": ["ペンキ[ぺんき]を", "塗り[ぬり]", "たて", "だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あの家はペンキを塗りたてだ。",
+      "meaning_id": "Rumah itu baru saja dicat (catnya masih baru)."
+    },
+    {
+      "pattern": "V + agaru",
+      "question": "夕飯[ゆうはん]が___よ。",
+      "parts": ["でき", "あがった", "わ", "よ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "夕飯ができあがったわよ。",
+      "meaning_id": "Makan malamnya sudah jadi (siap saji) lho."
+    },
+    {
+      "pattern": "V + kiru",
+      "question": "信[しん]じ___。",
+      "parts": ["彼を", "信じ", "きって", "いた"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼を信じきっていた。",
+      "meaning_id": "Saya dulu sangat mempercayainya sepenuhnya."
+    },
+    {
+      "pattern": "V + kakeru",
+      "question": "言い[いい]___。",
+      "parts": ["何かを", "言い", "かけて", "黙った"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "何かを言いかけて黙った。",
+      "meaning_id": "Dia baru mau mengatakan sesuatu lalu terdiam."
+    },
+    {
+      "pattern": "V + tate no N",
+      "question": "___料理[りょうり]をどうぞ。",
+      "parts": ["でき", "たて", "の", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "できたての料理をどうぞ。",
+      "meaning_id": "Silakan nikmati masakan yang baru saja matang."
+    },
+    {
+      "pattern": "V + ageru",
+      "question": "宿題[しゅくだい]を___。",
+      "parts": ["早く[はやく]", "やり", "あげなさい", "！"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "早くやりあげなさい！",
+      "meaning_id": "Cepat selesaikan tugasmu!"
+    },
+    {
+      "pattern": "V + kiru",
+      "question": "お金[かね]を___。",
+      "parts": ["全部[ぜんぶ]", "使い[つかい]", "きって", "しまった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "お金を全部使いきってしまった。",
+      "meaning_id": "Uangnya sudah habis dipakai semua (ludes)."
+    },
+    {
+      "pattern": "V + kakeda",
+      "question": "この小説[しょうせつ]は___。",
+      "parts": ["まだ", "読み[よみ]", "かけ", "だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "この小説はまだ読みかけだ。",
+      "meaning_id": "Novel ini masih dalam proses dibaca (belum tamat)."
+    },
+    {
+      "pattern": "V + tateda",
+      "question": "___畳[たたみ]の匂い[におい]がいい。",
+      "parts": ["替え[かえ]", "たて", "の", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "替えたての畳の匂いがいい。",
+      "meaning_id": "Aroma tatami yang baru saja diganti itu enak."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜あげる / 〜あがる",
+      "meaning": "Selesai melakukan / Sesuatu telah selesai",
+      "structure": "V (masu form) + あげる / あがる",
+      "example": "やっとレポート[れぽーと]を書き[かき]上げた[あげた]。"
+    },
+    {
+      "title": "〜切る [きる] / 〜切れる [きれる]",
+      "meaning": "Melakukan sampai habis / Bisa melakukan sampai tuntas",
+      "structure": "V (masu form) + 切る / 切れる",
+      "example": "長[なが]い小説[しょうせつ]を読み[よみ]切った[きった]。"
+    },
+    {
+      "title": "〜かける / 〜かけの / 〜かけだ",
+      "meaning": "Sedang dalam proses / Belum selesai / Baru mulai",
+      "structure": "V (masu form) + かける / かけの / かけだ",
+      "example": "飲み[のみ]かけのコーヒー[こーひー]が置[お]いてある。"
+    },
+    {
+      "title": "〜たて",
+      "meaning": "Baru saja selesai (masih segar/baru)",
+      "structure": "V (masu form) + たて",
+      "example": "焼き[やき]たてのパン[ぱん]はおいしい。"
+    }
+  ]
+}

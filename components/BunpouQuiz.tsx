@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useMemo } from "react";
 import { BunpouItem, shuffleArray } from "@/lib/utils";
 
 interface BunpouQuizProps {
@@ -10,9 +10,7 @@ interface BunpouQuizProps {
 }
 
 export default function BunpouQuiz({ data }: BunpouQuizProps) {
-  const [mounted, setMounted] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [shuffledParts, setShuffledParts] = useState<{ text: string, originalIndex: number }[]>([]);
   const [selectedParts, setSelectedParts] = useState<number[]>([]);
   const [showResult, setShowResult] = useState(false);
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
@@ -20,14 +18,10 @@ export default function BunpouQuiz({ data }: BunpouQuizProps) {
 
   const currentItem = data.bunpou[currentIndex];
 
-  useEffect(() => {
-    setMounted(true);
-  }, []);
-
-  useEffect(() => {
-    if (!mounted) return;
-    setShuffledParts(shuffleArray(currentItem.parts.map((p, i) => ({ text: p, originalIndex: i }))));
-  }, [currentIndex, mounted, currentItem.parts]);
+  const shuffledParts = useMemo(
+    () => shuffleArray(currentItem.parts.map((p, i) => ({ text: p, originalIndex: i }))),
+    [currentItem.parts]
+  );
 
   const handlePartClick = (originalIndex: number) => {
     if (showResult || selectedParts.includes(originalIndex)) return;
@@ -35,7 +29,7 @@ export default function BunpouQuiz({ data }: BunpouQuizProps) {
     setSelectedParts(newSelected);
 
     if (newSelected.length === currentItem.parts.length) {
-      const correct = newSelected.every((val, index) => val === index);
+      const correct = newSelected.every((val, index) => val === currentItem.correct_order[index]);
       setIsCorrect(correct);
       setShowResult(true);
       if (correct) setScore(score + 1);
@@ -93,8 +87,6 @@ export default function BunpouQuiz({ data }: BunpouQuizProps) {
 
     return parts.length > 0 ? parts : text;
   };
-
-  if (!mounted) return <div className="max-w-md mx-auto p-4 h-64 flex items-center justify-center text-black font-bold">Loading...</div>;
 
   return (
     <div className="max-w-md mx-auto p-4 bg-white rounded-xl shadow-md space-y-6">

@@ -1,5 +1,3 @@
-import w5d1 from '../data/w5d1.json';
-
 export type GoiItem = {
   kanji: string;
   reading: string;
@@ -15,10 +13,6 @@ export type BunpouItem = {
   full_sentence: string;
   meaning_id: string;
 };
-
-export function getW5D1Data() {
-  return w5d1;
-}
 
 export function shuffleArray<T>(array: T[]): T[] {
   const newArray = [...array];

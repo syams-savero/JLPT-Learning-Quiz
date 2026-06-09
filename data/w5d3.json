@@ -1,0 +1,225 @@
+{
+  "week": 5,
+  "day": 3,
+  "goi": [
+    { "kanji": "賢い", "reading": "かしこい", "meaning_en": "smart", "meaning_id": "cerdas/pintar" },
+    { "kanji": "礼儀正しい", "reading": "れいぎただしい", "meaning_en": "polite", "meaning_id": "sopan santun" },
+    { "kanji": "正直な", "reading": "しょうじきな", "meaning_en": "honest", "meaning_id": "jujur" },
+    { "kanji": "素直な", "reading": "すなおな", "meaning_en": "gentle/obedient", "meaning_id": "penurut/polos" },
+    { "kanji": "純粋な", "reading": "じゅんすいな", "meaning_en": "innocent/pure", "meaning_id": "murni/polos" },
+    { "kanji": "かっこいい", "reading": "かっこいい", "meaning_en": "cool", "meaning_id": "keren" },
+    { "kanji": "かっこ悪い", "reading": "かっこわるい", "meaning_en": "not cool", "meaning_id": "tidak keren/buruk rupa" },
+    { "kanji": "勇気", "reading": "ゆうき", "meaning_en": "brave", "meaning_id": "keberanian" },
+    { "kanji": "ユーモア", "reading": "ゆーもあ", "meaning_en": "humorous", "meaning_id": "humor" },
+    { "kanji": "積極的な", "reading": "せっきょくてきな", "meaning_en": "positive/active", "meaning_id": "proaktif/positif" },
+    { "kanji": "落ち着いている", "reading": "おちついている", "meaning_en": "self possessed", "meaning_id": "tenang/terkendali" },
+    { "kanji": "消極的な", "reading": "しょうきょくてきな", "meaning_en": "negative/passive", "meaning_id": "pasif/negatif" },
+    { "kanji": "落ち着く", "reading": "おちつく", "meaning_en": "settle down", "meaning_id": "menjadi tenang" },
+    { "kanji": "おとなしい", "reading": "おとなしい", "meaning_en": "quiet", "meaning_id": "pendiam" },
+    { "kanji": "真面目な", "reading": "まじめな", "meaning_en": "diligent", "meaning_id": "rajin/serius" },
+    { "kanji": "のん気な", "reading": "のんきな", "meaning_en": "easy-going", "meaning_id": "santai/bebas beban" },
+    { "kanji": "ハンサムな", "reading": "はんさむな", "meaning_en": "good-looking", "meaning_id": "tampan" },
+    { "kanji": "美人", "reading": "びじん", "meaning_en": "beautiful woman", "meaning_id": "wanita cantik" },
+    { "kanji": "スマートな", "reading": "すまーとな", "meaning_en": "slim", "meaning_id": "langsing/bergaya" },
+    { "kanji": "意地悪な", "reading": "いじわるな", "meaning_en": "mean", "meaning_id": "jahat/licik" },
+    { "kanji": "意地悪をする", "reading": "いじわるをする", "meaning_en": "be nasty", "meaning_id": "berbuat jahat" },
+    { "kanji": "うそをつく", "reading": "うそをつく", "meaning_en": "lie", "meaning_id": "berbohong" },
+    { "kanji": "うそつき", "reading": "うそつき", "meaning_en": "liar", "meaning_id": "pembohong" },
+    { "kanji": "ずるい", "reading": "ずるい", "meaning_en": "dishonest/sly", "meaning_id": "curang/licik" },
+    { "kanji": "図々しい", "reading": "ずうずうしい", "meaning_en": "insolent", "meaning_id": "tidak tahu malu/kurang ajar" },
+    { "kanji": "しつこい", "reading": "しつこい", "meaning_en": "pesky", "meaning_id": "cerewet/mengganggu" },
+    { "kanji": "しつこく注意する", "reading": "しつこくちゅういする", "meaning_en": "warn persistently", "meaning_id": "menasihati terus-menerus" },
+    { "kanji": "だらしない", "reading": "だらしない", "meaning_en": "sloppy", "meaning_id": "tidak rapi/jorok" },
+    { "kanji": "けちな", "reading": "けちな", "meaning_en": "stingy", "meaning_id": "pelit" },
+    { "kanji": "いい加減な", "reading": "いいかげんな", "meaning_en": "irresponsible", "meaning_id": "asal-asalan/tidak bertanggung jawab" },
+    { "kanji": "いい加減なことを言う", "reading": "いいかげんなことをいう", "meaning_en": "talk nonsense", "meaning_id": "bicara sembarangan" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "to ii naa",
+      "question": "明日[あした]晴れる[はれる]___。",
+      "parts": ["と", "いい", "のに", "なあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "明日晴れるといいのになあ。",
+      "meaning_id": "Semoga besok cuacanya cerah ya."
+    },
+    {
+      "pattern": "tara ii noni",
+      "question": "もっとお金[かね]が___。",
+      "parts": ["あれば", "いい", "のに", "なあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "もっとお金があればいいのになあ。",
+      "meaning_id": "Seandainya saja saya punya lebih banyak uang."
+    },
+    {
+      "pattern": "ba yokatta",
+      "question": "あんなこと___。",
+      "parts": ["言わ[いわ]", "なければ", "よかった", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あんなこと言わなければよかった。",
+      "meaning_id": "Seharusnya saya tidak mengatakan hal seperti itu (menyesal)."
+    },
+    {
+      "pattern": "tara yokatta",
+      "question": "もっと早く[はやく]___。",
+      "parts": ["来れ[これ]", "ば", "よかった", "です"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "もっと早く来ればよかったです。",
+      "meaning_id": "Seharusnya saya datang lebih awal."
+    },
+    {
+      "pattern": "kanaa",
+      "question": "バス[ばす]、早く[はやく]___。",
+      "parts": ["来[こ]", "ない", "かな", "あ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "バス、早く来ないかなあ。",
+      "meaning_id": "Kira-kira busnya cepat datang tidak ya?"
+    },
+    {
+      "pattern": "to ii naa",
+      "question": "大学[だいがく]に___。",
+      "parts": ["合格[ごうかく]", "できる", "と", "いいなあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "大学に合格できるといいなあ。",
+      "meaning_id": "Semoga saya bisa lulus masuk universitas."
+    },
+    {
+      "pattern": "ba ii noni",
+      "question": "君[きみ]も___。",
+      "parts": ["行け[いけ]", "れば", "いい", "のに"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "君も行ければいいのに。",
+      "meaning_id": "Andai saja kamu juga bisa pergi (tapi nyatanya tidak)."
+    },
+    {
+      "pattern": "tara yokatta",
+      "question": "昨日[きのう]傘[かさ]を___。",
+      "parts": ["持って[もって]", "いけ", "ば", "よかった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "昨日傘を持って行けばよかった。",
+      "meaning_id": "Kemarin seharusnya saya membawa payung."
+    },
+    {
+      "pattern": "rukana",
+      "question": "明日[あした]雨[あめ]が___。",
+      "parts": ["降る[ふる]", "かな", "あ", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "明日雨が降るかなあ。",
+      "meaning_id": "Kira-kira besok bakal hujan tidak ya?"
+    },
+    {
+      "pattern": "tara ii noni",
+      "question": "パソコン[ぱそこん]が___。",
+      "parts": ["安[やす]", "かったら", "いい", "のに"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "パソコンが安かったらいいのに。",
+      "meaning_id": "Andai saja komputer harganya murah."
+    },
+    {
+      "pattern": "ba yokatta",
+      "question": "パーティー[ぱーてぃー]に___。",
+      "parts": ["行か[いか]", "なきゃ", "よかった", "。"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "パーティーに行かなきゃよかった。",
+      "meaning_id": "Seharusnya saya tidak usah pergi ke pesta itu."
+    },
+    {
+      "pattern": "ba ii noni",
+      "question": "もっとゆっくり___。",
+      "parts": ["話せ[はなせ]", "ば", "いい", "のに"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "もっとゆっくり話せばいいのに。",
+      "meaning_id": "Seharusnya dia bicara lebih pelan saja (tapi nyatanya tidak)."
+    },
+    {
+      "pattern": "to ii naa",
+      "question": "早く[はやく]___。",
+      "parts": ["治る[なおる]", "と", "いい", "ですね"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "早く治るといいですね。",
+      "meaning_id": "Semoga cepat sembuh ya."
+    },
+    {
+      "pattern": "kanaa",
+      "question": "彼[かれ]、元気[げんき]___。",
+      "parts": ["で", "いる", "かな", "あ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼、元気でいるかななあ。",
+      "meaning_id": "Kira-kira dia sehat-sehat saja tidak ya?"
+    },
+    {
+      "pattern": "ba yokatta",
+      "question": "この靴[くつ]___。",
+      "parts": ["買わ[かわ]", "なきゃ", "よかった", "なあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "この靴買わなきゃよかったなあ。",
+      "meaning_id": "Seharusnya saya tidak usah beli sepatu ini."
+    },
+    {
+      "pattern": "tara ii noni",
+      "question": "料理[りょうり]が___。",
+      "parts": ["上手[じょうず]", "だったら", "いい", "のになあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "料理が上手だったらいいのになあ。",
+      "meaning_id": "Andai saja saya pintar memasak."
+    },
+    {
+      "pattern": "to ii naa",
+      "question": "明日[あした]晴れる[はれる]___。",
+      "parts": ["と", "いい", "のに", "なあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "明日晴れるといいのになあ。",
+      "meaning_id": "Semoga besok cerah ya."
+    },
+    {
+      "pattern": "ba yokatta",
+      "question": "宿題[しゅくだい]を___。",
+      "parts": ["ちゃんと", "やれ", "ば", "よかった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "宿題をちゃんとやればよかった。",
+      "meaning_id": "Seharusnya saya mengerjakan PR dengan benar."
+    },
+    {
+      "pattern": "kanaa",
+      "question": "お腹[なか]空いた[すいた]なあ。何か___。",
+      "parts": ["食べ[たべ]", "物[もの]", "ない", "かなあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "お腹空いたなあ。何か食べ物ないかなあ。",
+      "meaning_id": "Lapar ya. Kira-kira ada makanan tidak ya?"
+    },
+    {
+      "pattern": "ba ii noni",
+      "question": "今日[きょう]が日曜日[にちようび]___。",
+      "parts": ["なら", "いい", "のに", "なあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "今日が日曜日ならいいのになあ。",
+      "meaning_id": "Andai saja hari ini hari Minggu."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜といい（のに）なあ / 〜たら〜いいのに",
+      "meaning": "Semoga... / Andai saja...",
+      "structure": "Plain Form + といいなあ / V-tara + いいのに",
+      "example": "明日[あした]晴れる[はれる]といいのになあ。"
+    },
+    {
+      "title": "〜ばよかった / 〜たらよかった",
+      "meaning": "Seharusnya... (Penyesalan)",
+      "structure": "V-ba / V-tara + よかった",
+      "example": "もっと勉強[べんきょう]すればよかった。"
+    },
+    {
+      "title": "〜ば〜のに / 〜たら〜のに",
+      "meaning": "Andai saja... (tapi kenyataannya tidak)",
+      "structure": "V-ba... noni / V-tara... noni",
+      "example": "安[やす]ければ買う[かう]のに。"
+    },
+    {
+      "title": "〜かな（あ）",
+      "meaning": "Kira-kira... ya? (Bertanya pada diri sendiri)",
+      "structure": "Plain Form + かな（あ）",
+      "example": "明日[あした]雨[あめ]が降る[ふる]かなあ。"
+    }
+  ]
+}
