@@ -54,8 +54,8 @@
     {
       "pattern": "ba yokatta",
       "question": "あんなこと___。",
-      "parts": ["言わ[いわ]", "なければ", "よかった", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["言わ[いわ]", "なければ", "よかった"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "あんなこと言わなければよかった。",
       "meaning_id": "Seharusnya saya tidak mengatakan hal seperti itu (menyesal)."
     },
@@ -102,8 +102,8 @@
     {
       "pattern": "rukana",
       "question": "明日[あした]雨[あめ]が___。",
-      "parts": ["降る[ふる]", "かな", "あ", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["降る[ふる]", "かな", "あ"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "明日雨が降るかなあ。",
       "meaning_id": "Kira-kira besok bakal hujan tidak ya?"
     },
@@ -118,8 +118,8 @@
     {
       "pattern": "ba yokatta",
       "question": "パーティー[ぱーてぃー]に___。",
-      "parts": ["行か[いか]", "なきゃ", "よかった", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["行か[いか]", "なきゃ", "よかった"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "パーティーに行かなきゃよかった。",
       "meaning_id": "Seharusnya saya tidak usah pergi ke pesta itu."
     },
@@ -144,7 +144,7 @@
       "question": "彼[かれ]、元気[げんき]___。",
       "parts": ["で", "いる", "かな", "あ"],
       "correct_order": [0, 1, 2, 3],
-      "full_sentence": "彼、元気でいるかななあ。",
+      "full_sentence": "彼、元気でいるかなあ。",
       "meaning_id": "Kira-kira dia sehat-sehat saja tidak ya?"
     },
     {

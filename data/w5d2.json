@@ -43,8 +43,8 @@
     {
       "pattern": "V + kakeru",
       "question": "机[つくえ]の上[うえ]に___コーヒー[こーひー]がある。",
-      "parts": ["飲み[のみ]", "かけ", "の", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["飲み[のみ]", "かけ", "の"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "机の上に飲みかけのコーヒーがある。",
       "meaning_id": "Di atas meja ada kopi yang diminum setengah (belum habis)."
     },
@@ -75,24 +75,24 @@
     {
       "pattern": "V + kakeda",
       "question": "母[はは]に手紙[てがみ]を___。",
-      "parts": ["書き[かき]", "かけて", "やめた", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["書き[かき]", "かけて", "やめた"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "母に手紙を書きかけてやめた。",
       "meaning_id": "Saya baru mulai menulis surat untuk ibu lalu berhenti."
     },
     {
       "pattern": "V + tate",
       "question": "___魚[さかな]はうまい。",
-      "parts": ["取り[とり]", "たて", "の", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["取り[とり]", "たて", "の"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "取りたての魚はうまい。",
       "meaning_id": "Ikan yang baru saja ditangkap itu lezat."
     },
     {
       "pattern": "V + ageru",
       "question": "２０ページ[ぺーじ]も___。",
-      "parts": ["やっと", "書き[かき]", "あげた", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["やっと", "書き[かき]", "あげた"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "２０ページもやっと書きあげた。",
       "meaning_id": "Akhirnya saya menyelesaikan penulisan sampai 20 halaman."
     },
@@ -107,8 +107,8 @@
     {
       "pattern": "V + kake no + N",
       "question": "そこに___リンゴ[りんご]がある。",
-      "parts": ["食べ[たべ]", "かけ", "の", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["食べ[たべ]", "かけ", "の"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "そこに食べかけのリンゴがある。",
       "meaning_id": "Di sana ada apel yang baru dimakan setengah."
     },
@@ -130,25 +130,25 @@
     },
     {
       "pattern": "V + kiru",
-      "question": "信[しん]じ___。",
-      "parts": ["彼を", "信じ", "きって", "いた"],
-      "correct_order": [0, 1, 2, 3],
+      "question": "___信じきっていた。",
+      "parts": ["彼を"],
+      "correct_order": [0],
       "full_sentence": "彼を信じきっていた。",
       "meaning_id": "Saya dulu sangat mempercayainya sepenuhnya."
     },
     {
       "pattern": "V + kakeru",
-      "question": "言い[いい]___。",
-      "parts": ["何かを", "言い", "かけて", "黙った"],
-      "correct_order": [0, 1, 2, 3],
+      "question": "___言いかけて黙った。",
+      "parts": ["何かを"],
+      "correct_order": [0],
       "full_sentence": "何かを言いかけて黙った。",
       "meaning_id": "Dia baru mau mengatakan sesuatu lalu terdiam."
     },
     {
       "pattern": "V + tate no N",
       "question": "___料理[りょうり]をどうぞ。",
-      "parts": ["でき", "たて", "の", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["でき", "たて", "の"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "できたての料理をどうぞ。",
       "meaning_id": "Silakan nikmati masakan yang baru saja matang."
     },
@@ -157,7 +157,7 @@
       "question": "宿題[しゅくだい]を___。",
       "parts": ["早く[はやく]", "やり", "あげなさい", "！"],
       "correct_order": [0, 1, 2, 3],
-      "full_sentence": "早くやりあげなさい！",
+      "full_sentence": "宿題を早くやりあげなさい！",
       "meaning_id": "Cepat selesaikan tugasmu!"
     },
     {
@@ -179,8 +179,8 @@
     {
       "pattern": "V + tateda",
       "question": "___畳[たたみ]の匂い[におい]がいい。",
-      "parts": ["替え[かえ]", "たて", "の", "。"],
-      "correct_order": [0, 1, 2, 3],
+      "parts": ["替え[かえ]", "たて", "の"],
+      "correct_order": [0, 1, 2],
       "full_sentence": "替えたての畳の匂いがいい。",
       "meaning_id": "Aroma tatami yang baru saja diganti itu enak."
     }

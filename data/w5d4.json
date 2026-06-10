@@ -1,0 +1,218 @@
+{
+  "week": 5,
+  "day": 4,
+  "goi": [
+    { "kanji": "身体の調子が悪い", "reading": "からだのちょうしがわるい", "meaning_en": "not feel well", "meaning_id": "kurang enak badan" },
+    { "kanji": "めまいがする", "reading": "めまいがする", "meaning_en": "feel dizzy", "meaning_id": "pusing/keliyengan" },
+    { "kanji": "頭痛がする", "reading": "ずつうがする", "meaning_en": "have a headache", "meaning_id": "sakit kepala" },
+    { "kanji": "胃が痛い", "reading": "いがいたい", "meaning_en": "have a stomachache", "meaning_id": "sakit lambung/perut" },
+    { "kanji": "腰が痛い", "reading": "こしがいたい", "meaning_en": "have a backpain", "meaning_id": "sakit pinggang/punggung" },
+    { "kanji": "息が苦しい", "reading": "いきがくるしい", "meaning_en": "feel suffocated", "meaning_id": "sesak napas" },
+    { "kanji": "鼻が詰まる", "reading": "はながつまる", "meaning_en": "be stuffed up", "meaning_id": "hidung tersumbat" },
+    { "kanji": "吐き気がする", "reading": "はきけがする", "meaning_en": "feel sick/nauseous", "meaning_id": "mual" },
+    { "kanji": "目がかゆい", "reading": "めがかゆい", "meaning_en": "have an itchy eye", "meaning_id": "mata gatal" },
+    { "kanji": "目をこする", "reading": "めをこする", "meaning_en": "rub one's eyes", "meaning_id": "mengucek mata" },
+    { "kanji": "風邪を引いてつらい", "reading": "かぜをひいてつらい", "meaning_en": "feel terrible because of one's cold", "meaning_id": "menderita karena flu" },
+    { "kanji": "アレルギーがある", "reading": "あれるぎーがある", "meaning_en": "be allergic to", "meaning_id": "punya alergi" },
+    { "kanji": "患者", "reading": "かんじゃ", "meaning_en": "patient", "meaning_id": "pasien" },
+    { "kanji": "看護師", "reading": "かんごし", "meaning_en": "nurse", "meaning_id": "perawat" },
+    { "kanji": "専門の医師に診てもらう", "reading": "せんもんのいしにみてもらう", "meaning_en": "see a specialist doctor", "meaning_id": "diperiksa dokter spesialis" },
+    { "kanji": "医師の診察を受ける", "reading": "いしのしんさつをうける", "meaning_en": "see the doctor", "meaning_id": "menerima pemeriksaan dokter" },
+    { "kanji": "歯医者にかかる", "reading": "はいしゃにかかる", "meaning_en": "go to see a dentist", "meaning_id": "pergi ke dokter gigi" },
+    { "kanji": "インフルエンザにかかる", "reading": "いんふるえんざにかかる", "meaning_en": "get a flu", "meaning_id": "terkena influenza" },
+    { "kanji": "病気の症状", "reading": "びょうきのしょうじょう", "meaning_en": "symptoms of a sickness", "meaning_id": "gejala penyakit" },
+    { "kanji": "注射をしてもらう", "reading": "ちゅうしゃをしてもらう", "meaning_en": "get a shot", "meaning_id": "disuntik" },
+    { "kanji": "手術を受ける", "reading": "しゅじゅつをうける", "meaning_en": "have an operation", "meaning_id": "menjalani operasi" },
+    { "kanji": "痛みを我慢する", "reading": "いたみをがまんする", "meaning_en": "endure pain", "meaning_id": "menahan rasa sakit" },
+    { "kanji": "花粉症になる", "reading": "かふんしょうになる", "meaning_en": "suffer from a hay fever", "meaning_id": "menderita alergi serbuk sari" },
+    { "kanji": "うがいをする", "reading": "うがいをする", "meaning_en": "gurgle", "meaning_id": "berkumur" },
+    { "kanji": "けがを治す", "reading": "けがをなおす", "meaning_en": "take care of an injury", "meaning_id": "menyembuhkan luka" },
+    { "kanji": "手の傷", "reading": "てのきず", "meaning_en": "a cut", "meaning_id": "luka di tangan" },
+    { "kanji": "やけどをする", "reading": "やけどをする", "meaning_en": "get burned", "meaning_id": "terkena luka bakar" },
+    { "kanji": "大したことがない", "reading": "だいしたことがない", "meaning_en": "not a big deal", "meaning_id": "tidak parah/bukan masalah besar" },
+    { "kanji": "ましになる", "reading": "ましになる", "meaning_en": "still bad but better", "meaning_id": "mendingan/lebih baik" },
+    { "kanji": "お見舞いに行く", "reading": "おみまいにいく", "meaning_en": "visit a sick person", "meaning_id": "menjenguk orang sakit" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V ru made",
+      "question": "帰る[かえる]___ここで待って[まって]いてください。",
+      "parts": ["まで", "は"],
+      "correct_order": [0, 1],
+      "full_sentence": "帰るまではここで待っていてください。",
+      "meaning_id": "Harap tunggu di sini sampai saya pulang."
+    },
+    {
+      "pattern": "N kara N ni kakete",
+      "question": "明日[あした]は昼[ひる]___雨[あめ]でしょう。",
+      "parts": ["から", "夜[よる]に", "かけて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "明日は昼から夜にかけて雨でしょう。",
+      "meaning_id": "Besok sepertinya akan hujan dari siang sampai malam."
+    },
+    {
+      "pattern": "N ni oite",
+      "question": "会議[かいぎ]は第一[だいいち]会議室[かいぎしつ]___行われる[おこなわれる]。",
+      "parts": ["に", "おいて"],
+      "correct_order": [0, 1],
+      "full_sentence": "会議は第一会議室において行われる。",
+      "meaning_id": "Rapat akan dilaksanakan di ruang rapat pertama."
+    },
+    {
+      "pattern": "N made",
+      "question": "この試験[しけん]は明日[あした]___です。",
+      "parts": ["まで"],
+      "correct_order": [0],
+      "full_sentence": "この試験は明日までです。",
+      "meaning_id": "Ujian ini sampai besok."
+    },
+    {
+      "pattern": "N kara N ni kakete",
+      "question": "このあたりは六月[ろくがつ]___雨[あめ]が多い[おおい]。",
+      "parts": ["から", "七月[しちがつ]に", "かけて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "このあたりは六月から七月にかけて雨が多い。",
+      "meaning_id": "Di sekitar sini banyak hujan dari bulan Juni sampai Juli."
+    },
+    {
+      "pattern": "N ni oite",
+      "question": "現代[げんだい]___コンピューター[こんぴゅーたー]は欠かせ[かかせ]ない。",
+      "parts": ["に", "おいて", "は"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "現代においてはコンピューターは欠かせない。",
+      "meaning_id": "Di zaman sekarang, komputer tidak bisa ditinggalkan."
+    },
+    {
+      "pattern": "V ru made",
+      "question": "雨[あめ]が___図書館[としょかん]にいよう。",
+      "parts": ["やむ", "まで"],
+      "correct_order": [0, 1],
+      "full_sentence": "雨がやむまで図書館にいよう。",
+      "meaning_id": "Mari kita di perpustakaan sampai hujan reda."
+    },
+    {
+      "pattern": "N kara N ni kakete",
+      "question": "関東[かんとう]地方[ちほう]___地震[じしん]があった。",
+      "parts": ["から", "東北[とうほく]に", "かけて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "関東地方から東北にかけて地震があった。",
+      "meaning_id": "Terjadi gempa dari wilayah Kanto sampai Tohoku."
+    },
+    {
+      "pattern": "N ni oite",
+      "question": "結果[けっか]はホームページ[ほーむぺーじ]___発表[はっぴょう]します。",
+      "parts": ["に", "おいて"],
+      "correct_order": [0, 1],
+      "full_sentence": "結果はホームページにおいて発表します。",
+      "meaning_id": "Hasilnya akan diumumkan di situs web."
+    },
+    {
+      "pattern": "V ru made",
+      "question": "成功[せいこう]する___あきらめない。",
+      "parts": ["まで", "決して[けっして]"],
+      "correct_order": [0, 1],
+      "full_sentence": "成功するまで決してあきらめない。",
+      "meaning_id": "Saya tidak akan pernah menyerah sampai berhasil."
+    },
+    {
+      "pattern": "N kara N ni kakete",
+      "question": "去年[きょねん]の年末[ねんまつ]___忙しかった[いそがしかった]。",
+      "parts": ["から", "年始[ねんし]に", "かけて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "去年の年末から年始にかけて忙しかった。",
+      "meaning_id": "Saya sibuk dari akhir tahun lalu sampai awal tahun ini."
+    },
+    {
+      "pattern": "N ni oite",
+      "question": "教育[きょういく]___平等[びょうどう]は大切[たいせつ]だ。",
+      "parts": ["に", "おいて"],
+      "correct_order": [0, 1],
+      "full_sentence": "教育において平等は大切だ。",
+      "meaning_id": "Dalam pendidikan, kesetaraan itu penting."
+    },
+    {
+      "pattern": "N made",
+      "question": "昼休み[ひるやすみ]は十二時[じゅうにじ]から___です。",
+      "parts": ["一時[いちじ]", "まで"],
+      "correct_order": [0, 1],
+      "full_sentence": "昼休みは十二時から一時までです。",
+      "meaning_id": "Istirahat siang dari jam 12 sampai jam 1."
+    },
+    {
+      "pattern": "V ru made",
+      "question": "わかる___説明[せつめい]します。",
+      "parts": ["まで", "何度[なんど]も"],
+      "correct_order": [0, 1],
+      "full_sentence": "わかるまで何度も説明します。",
+      "meaning_id": "Saya akan menjelaskan berkali-kali sampai mengerti."
+    },
+    {
+      "pattern": "N kara N ni kakete",
+      "question": "東京[とうきょう]___雪[ゆき]が降る[ふる]でしょう。",
+      "parts": ["から", "名古屋[なごや]に", "かけて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "東京から名古屋にかけて雪が降るでしょう。",
+      "meaning_id": "Sepertinya akan turun salju dari Tokyo sampai Nagoya."
+    },
+    {
+      "pattern": "N ni oite",
+      "question": "人生[じんせい]___何[なに]が一番[いちばん]大切[たいせつ]ですか。",
+      "parts": ["に", "おいて"],
+      "correct_order": [0, 1],
+      "full_sentence": "人生において何が一番大切ですか。",
+      "meaning_id": "Dalam hidup, apa yang paling penting?"
+    },
+    {
+      "pattern": "V ru made",
+      "question": "子供[こども]が___テレビ[てれび]は見ない[みない]。",
+      "parts": ["寝る[ねる]", "まで"],
+      "correct_order": [0, 1],
+      "full_sentence": "子供が寝るまでテレビは見ない。",
+      "meaning_id": "Saya tidak akan menonton TV sampai anak tidur."
+    },
+    {
+      "pattern": "N made",
+      "question": "一[いち]ページ[ぺーじ]から十[じゅう]ページ[ぺーじ]___読ん[よんで]でください。",
+      "parts": ["まで"],
+      "correct_order": [0],
+      "full_sentence": "一ページから十ページまで読んでください。",
+      "meaning_id": "Harap baca dari halaman 1 sampai halaman 10."
+    },
+    {
+      "pattern": "N kara N ni kakete",
+      "question": "昨日[きのう]の夜[よる]___風[かぜ]が強かっ[つよかった]た。",
+      "parts": ["から", "今朝[けさ]に", "かけて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "昨日の夜から今朝にかけて風が強かった。",
+      "meaning_id": "Angin kencang dari tadi malam sampai tadi pagi."
+    },
+    {
+      "pattern": "N ni oite",
+      "question": "世界[せかい]___有名[ゆうめい]な日本人[にほんじん]は誰[だれ]ですか。",
+      "parts": ["に", "おいて"],
+      "correct_order": [0, 1],
+      "full_sentence": "世界において有名な日本人は誰ですか。",
+      "meaning_id": "Siapa orang Jepang yang terkenal di dunia?"
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜まで / 〜るまで",
+      "meaning": "Sampai / Sampai (melakukan sesuatu)",
+      "structure": "N + まで / V-ru + まで",
+      "example": "雨[あめ]がやむまで待ち[まち]ましょう。"
+    },
+    {
+      "title": "〜から〜にかけて",
+      "meaning": "Dari... sampai... (cakupan waktu/tempat yang tidak kaku)",
+      "structure": "N1 + から + N2 + にかけて",
+      "example": "昨日[きのう]から今日[きょう]にかけて雨[あめ]が降った[ふった]。"
+    },
+    {
+      "title": "〜において",
+      "meaning": "Di / Dalam (konteks formal dari 'de')",
+      "structure": "N + において",
+      "example": "会議[かいぎ]は第一[だいいち]会議室[かいぎしつ]において行われる[おこなわれる]。"
+    }
+  ]
+}

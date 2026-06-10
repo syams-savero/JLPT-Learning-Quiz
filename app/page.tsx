@@ -23,10 +23,11 @@ interface QuizData {
 // Mapping of available data files
 type DataLoader = () => Promise<{ default: Record<string, unknown> } | Record<string, unknown>>;
 
-const dataMap: Record<string, any> = {
+const dataMap: Record<string, DataLoader> = {
   "n3-w5-d1": () => import("@/data/w5d1.json"),
   "n3-w5-d2": () => import("@/data/w5d2.json"),
   "n3-w5-d3": () => import("@/data/w5d3.json"),
+  "n3-w5-d4": () => import("@/data/w5d4.json"),
 };
 
 export default function Home() {
