@@ -1,0 +1,221 @@
+{
+  "week": 5,
+  "day": 5,
+  "goi": [
+    { "kanji": "鼻水", "reading": "はなみず", "meaning_en": "mucus", "meaning_id": "ingus/lendir hidung" },
+    { "kanji": "ため息", "reading": "ためいき", "meaning_en": "sigh", "meaning_id": "helaan napas" },
+    { "kanji": "涙", "reading": "なみだ", "meaning_en": "tear", "meaning_id": "air mata" },
+    { "kanji": "汗", "reading": "あせ", "meaning_en": "sweat", "meaning_id": "keringat" },
+    { "kanji": "よだれ", "reading": "よだれ", "meaning_en": "saliva", "meaning_id": "air liur" },
+    { "kanji": "咳", "reading": "せき", "meaning_en": "cough", "meaning_id": "batuk" },
+    { "kanji": "しゃっくり", "reading": "しゃっくり", "meaning_en": "hiccup", "meaning_id": "cegukan" },
+    { "kanji": "くしゃみ", "reading": "くしゃみ", "meaning_en": "sneeze", "meaning_id": "bersin" },
+    { "kanji": "あくび", "reading": "あくび", "meaning_en": "yawn", "meaning_id": "menguap" },
+    { "kanji": "げっぷ", "reading": "げっぷ", "meaning_en": "burp", "meaning_id": "sendawa" },
+    { "kanji": "おなら", "reading": "おなら", "meaning_en": "gas", "meaning_id": "kentut" },
+    { "kanji": "体重が増える", "reading": "たいじゅうがふえる", "meaning_en": "get fat", "meaning_id": "berat badan naik" },
+    { "kanji": "体重を増やす", "reading": "たいじゅうをふやす", "meaning_en": "gain weight", "meaning_id": "menaikkan berat badan" },
+    { "kanji": "体重が減る", "reading": "たいじゅうがへる", "meaning_en": "get thin", "meaning_id": "berat badan turun" },
+    { "kanji": "体重を減らす", "reading": "たいじゅうをへらす", "meaning_en": "lose weight", "meaning_id": "menurunkan berat badan" },
+    { "kanji": "いびきをかく", "reading": "いびきをかく", "meaning_en": "snore", "meaning_id": "mendengkur" },
+    { "kanji": "足が痺れる", "reading": "あしがしびれる", "meaning_en": "one's leg goes to sleep", "meaning_id": "kaki kesemutan" },
+    { "kanji": "体が震える", "reading": "からだがふるえる", "meaning_en": "one's body is trembling", "meaning_id": "tubuh gemetar" },
+    { "kanji": "肩が凝る", "reading": "かたがこる", "meaning_en": "get a stiff shoulder", "meaning_id": "pundak kaku" },
+    { "kanji": "癖がつく", "reading": "くせがつく", "meaning_en": "fall into the habit of...", "meaning_id": "menjadi kebiasaan" },
+    { "kanji": "ストレスが溜まる", "reading": "すとれすがたまる", "meaning_en": "get stressed out", "meaning_id": "stres menumpuk" },
+    { "kanji": "歳を取る", "reading": "としをとる", "meaning_en": "get old", "meaning_id": "menjadi tua" },
+    { "kanji": "爪が伸びる", "reading": "つめがのびる", "meaning_en": "nails grow", "meaning_id": "kuku tumbuh" },
+    { "kanji": "髭が生える", "reading": "ひげがはえる", "meaning_en": "beard grows", "meaning_id": "kumis/janggut tumbuh" },
+    { "kanji": "歯が生える", "reading": "はがはえる", "meaning_en": "teeth coming in", "meaning_id": "gigi tumbuh" },
+    { "kanji": "髪の毛が抜ける", "reading": "かみのけがぬける", "meaning_en": "lose hair", "meaning_id": "rambut rontok" },
+    { "kanji": "髪を染める", "reading": "かみをそめる", "meaning_en": "dye one's hair", "meaning_id": "mewarnai rambut" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "tatoe V temo/A kutemo/na demo/N demo",
+      "question": "たとえ___あきらめない。",
+      "parts": ["失敗[しっぱい]", "して", "も"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "たとえ失敗してもあきらめない。",
+      "meaning_id": "Bahkan jika gagal pun, saya tidak akan menyerah."
+    },
+    {
+      "pattern": "tatoe V temo/A kutemo/na demo/N demo",
+      "question": "たとえ___出かける[でかける]。",
+      "parts": ["雨[あめ]が", "降って[ふって]", "も"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "たとえ雨が降っても出かける。",
+      "meaning_id": "Bahkan jika hujan pun, saya tetap pergi."
+    },
+    {
+      "pattern": "tatoe V temo/A kutemo/na demo/N demo",
+      "question": "たとえ___日本語[にほんご]を勉強[べんきょう]し続ける[つづける]。",
+      "parts": ["難[むずか]", "しくて", "も"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "たとえ難しくても日本語を勉強し続ける。",
+      "meaning_id": "Bahkan jika sulit pun, saya terus belajar bahasa Jepang."
+    },
+    {
+      "pattern": "tatoe V temo/A kutemo/na demo/N demo",
+      "question": "たとえ___自分[じぶん]の意見[いけん]を言う[いう]。",
+      "parts": ["反対[はんたい]され", "て", "も"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "たとえ反対されても自分の意見を言う。",
+      "meaning_id": "Bahkan jika ditentang pun, saya tetap mengatakan pendapat sendiri."
+    },
+    {
+      "pattern": "tatoe V temo/A kutemo/na demo/N demo",
+      "question": "たとえ___最後[さいご]まで頑張る[がんばる]。",
+      "parts": ["疲[つか]れ", "て", "も"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "たとえ疲れても最後まで頑張る。",
+      "meaning_id": "Bahkan jika lelah pun, saya berusaha sampai akhir."
+    },
+    {
+      "pattern": "moshikasuruto/moshikashitara kamoshirenai",
+      "question": "___明日[あした]は雨[あめ]___。",
+      "parts": ["もしかすると", "が降る[ふる]", "かもしれない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしかすると明日は雨が降るかもしれない。",
+      "meaning_id": "Barangkali besok akan turun hujan."
+    },
+    {
+      "pattern": "moshikasuruto/moshikashitara kamoshirenai",
+      "question": "___彼[かれ]はもう___。",
+      "parts": ["もしかしたら", "帰国[きこく]した", "かもしれない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしかしたら彼はもう帰国したかもしれない。",
+      "meaning_id": "Mungkin dia sudah pulang ke negaranya."
+    },
+    {
+      "pattern": "moshikasuruto/moshikashitara kamoshirenai",
+      "question": "___彼女[かのじょ]の話[はなし]は___。",
+      "parts": ["もしかすると", "本当[ほんとう]", "かもしれない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしかすると彼女の話は本当かもしれない。",
+      "meaning_id": "Barangkali ceritanya benar."
+    },
+    {
+      "pattern": "moshikasuruto/moshikashitara kamoshirenai",
+      "question": "___電車[でんしゃ]に___。",
+      "parts": ["もしかしたら", "間に合[まにあ]う", "かもしれない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしかしたら電車に間に合うかもしれない。",
+      "meaning_id": "Mungkin masih bisa mengejar kereta."
+    },
+    {
+      "pattern": "moshikasuruto/moshikashitara kamoshirenai",
+      "question": "___家[いえ]に___。",
+      "parts": ["もしかすると", "財布[さいふ]を忘れた[わすれた]", "かもしれない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしかすると家に財布を忘れたかもしれない。",
+      "meaning_id": "Mungkin dompet tertinggal di rumah."
+    },
+    {
+      "pattern": "kanarazushimo towa kagiranai",
+      "question": "___。",
+      "parts": ["高い[たかい]ものが", "必[かなら]ずしも", "良[よ]い", "とは限[かぎ]らない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "高いものが必ずしも良いとは限らない。",
+      "meaning_id": "Barang mahal belum tentu bagus."
+    },
+    {
+      "pattern": "kanarazushimo towa kagiranai",
+      "question": "___。",
+      "parts": ["有名[ゆうめい]な", "レストラン[れすとらん]が", "必[かなら]ずしも", "美味[おい]しいとは限[かぎ]らない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "有名なレストランが必ずしも美味しいとは限らない。",
+      "meaning_id": "Restoran terkenal belum tentu enak."
+    },
+    {
+      "pattern": "kanarazushimo towa kagiranai",
+      "question": "___。",
+      "parts": ["日本人[にほんじん]が", "必[かなら]ずしも", "箸[はし]を使[つか]える", "とは限[かぎ]らない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "日本人が必ずしも箸を使えるとは限らない。",
+      "meaning_id": "Orang Jepang belum tentu bisa menggunakan sumpit."
+    },
+    {
+      "pattern": "kanarazushimo towa kagiranai",
+      "question": "___。",
+      "parts": ["大学生[だいがくせい]が", "必[かなら]ずしも", "頭[あたま]が良[よ]い", "とは限[かぎ]らない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "大学生が必ずしも頭が良いとは限らない。",
+      "meaning_id": "Mahasiswa belum tentu pintar."
+    },
+    {
+      "pattern": "kanarazushimo towa kagiranai",
+      "question": "___。",
+      "parts": ["勉強[べんきょう]時間[じかん]が長[なが]い", "人が", "必[かなら]ずしも", "成績[せいせき]が良[よ]いとは限[かぎ]らない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "勉強時間が長い人が必ずしも成績が良いとは限らない。",
+      "meaning_id": "Orang yang belajar lama belum tentu nilainya bagus."
+    },
+    {
+      "pattern": "marude you da/marude mitai da",
+      "question": "___。",
+      "parts": ["この景色[けしき]は", "まるで", "絵[え]の", "ようだ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "この景色はまるで絵のようだ。",
+      "meaning_id": "Pemandangan ini seperti lukisan."
+    },
+    {
+      "pattern": "marude you da/marude mitai da",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "まるで", "人形[にんぎょう]", "みたいだ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼女はまるで人形みたいだ。",
+      "meaning_id": "Dia seperti boneka."
+    },
+    {
+      "pattern": "marude you da/marude mitai da",
+      "question": "___。",
+      "parts": ["彼[かれ]の顔[かお]は", "まるで", "能面[のうめん]の", "ようだ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼の顔はまるで能面のようだ。",
+      "meaning_id": "Wajahnya seperti topeng Noh."
+    },
+    {
+      "pattern": "marude you da/marude mitai da",
+      "question": "___。",
+      "parts": ["子供[こども]なのに", "まるで", "大人[おとな]のように", "話[はな]す"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "子供なのにまるで大人のように話す。",
+      "meaning_id": "Meskipun anak-anak, bicaranya seperti orang dewasa."
+    },
+    {
+      "pattern": "marude you da/marude mitai da",
+      "question": "___。",
+      "parts": ["まるで", "夢[ゆめ]を", "見[み]ている", "ようだ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "まるで夢を見ているようだ。",
+      "meaning_id": "Seperti sedang bermimpi."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "たとえ〜ても / たとえ〜でも",
+      "meaning": "Bahkan jika... pun / Meskipun...",
+      "structure": "たとえ + V-te + も / A-kute + も / Na + でも / N + でも",
+      "example": "たとえ雨[あめ]が降って[ふって]も出かけ[でかけ]る。"
+    },
+    {
+      "title": "もしかすると / もしかしたら〜かもしれない",
+      "meaning": "Barangkali / Mungkin",
+      "structure": "もしかすると/もしかしたら + Plain Form + かもしれない",
+      "example": "もしかすると明日[あした]は雨[あめ]が降る[ふる]かもしれない。"
+    },
+    {
+      "title": "必ずしも〜とは限らない",
+      "meaning": "Belum tentu / Tidak selalu",
+      "structure": "必ずしも + Plain Form + とは限らない",
+      "example": "高い[たかい]ものが必[かなら]ずしも良[よ]いとは限[かぎ]らない。"
+    },
+    {
+      "title": "まるで〜ようだ / まるで〜みたいだ",
+      "meaning": "Seperti / Bagai / Betapa seperti",
+      "structure": "まるで + N + の + ようだ / V + ようだ / まるで + N + みたいだ",
+      "example": "この景色[けしき]はまるで絵[え]のようだ。"
+    }
+  ]
+}
