@@ -1,0 +1,225 @@
+{
+  "week": 5,
+  "day": 6,
+  "goi": [
+    { "kanji": "花が咲く", "reading": "はながさく", "meaning_en": "flowers bloom", "meaning_id": "bunga mekar" },
+    { "kanji": "花が散る", "reading": "はながちる", "meaning_en": "flowers fall down", "meaning_id": "bunga berguguran" },
+    { "kanji": "木が枯れる", "reading": "きがかれる", "meaning_en": "a tree dies", "meaning_id": "pohon mati/mengering" },
+    { "kanji": "山が崩れる", "reading": "やまがくずれる", "meaning_en": "a mountain collapses", "meaning_id": "gunung longsor" },
+    { "kanji": "険しい山", "reading": "けわしいやま", "meaning_en": "a rugged mountain", "meaning_id": "gunung yang terjal" },
+    { "kanji": "なだらかな坂", "reading": "なだらかなさか", "meaning_en": "a gentle slope", "meaning_id": "lereng yang landai" },
+    { "kanji": "箱が潰れる", "reading": "はこがつぶれる", "meaning_en": "a box collapses", "meaning_id": "kotak penyok/rusak" },
+    { "kanji": "潰す", "reading": "つぶす", "meaning_en": "crush", "meaning_id": "menghancurkan" },
+    { "kanji": "浮く", "reading": "うく", "meaning_en": "float", "meaning_id": "mengapung" },
+    { "kanji": "沈む", "reading": "しずむ", "meaning_en": "sink", "meaning_id": "tenggelam" },
+    { "kanji": "蒸し暑い", "reading": "むしあつい", "meaning_en": "humid", "meaning_id": "gerah/lembab panas" },
+    { "kanji": "腐る", "reading": "くさる", "meaning_en": "rot", "meaning_id": "membusuk" },
+    { "kanji": "カビが生える", "reading": "かびがはえる", "meaning_en": "get moldy", "meaning_id": "berjamur" },
+    { "kanji": "変な匂いがする", "reading": "へんなにおいがする", "meaning_en": "it stinks", "meaning_id": "berbau aneh" },
+    { "kanji": "匂う", "reading": "におう", "meaning_en": "smells", "meaning_id": "berbau" },
+    { "kanji": "気持ちが悪い生き物", "reading": "きもちがわるいいきもの", "meaning_en": "a creepy creature", "meaning_id": "makhluk menjijikkan" },
+    { "kanji": "親しい友人", "reading": "したしいゆうじん", "meaning_en": "a close friend", "meaning_id": "teman dekat" },
+    { "kanji": "親友", "reading": "しんゆう", "meaning_en": "a best friend", "meaning_id": "sahabat karib" },
+    { "kanji": "怪しい男", "reading": "あやしいおとこ", "meaning_en": "a suspicious guy", "meaning_id": "laki-laki mencurigakan" },
+    { "kanji": "恐ろしい事件", "reading": "おそろしいじけん", "meaning_en": "a dreadful incident", "meaning_id": "kejadian mengerikan" },
+    { "kanji": "錆びた包丁", "reading": "さびたほうちょう", "meaning_en": "a rusty knife", "meaning_id": "pisau berkarat" },
+    { "kanji": "錆びる", "reading": "さびる", "meaning_en": "rust", "meaning_id": "berkarat" },
+    { "kanji": "鋭い", "reading": "するどい", "meaning_en": "sharp", "meaning_id": "tajam" },
+    { "kanji": "鈍い", "reading": "にぶい", "meaning_en": "dull", "meaning_id": "tumpul" },
+    { "kanji": "のろい車", "reading": "のろいくるま", "meaning_en": "a slow car", "meaning_id": "mobil lambat" },
+    { "kanji": "安全な場所", "reading": "あんぜんなばしょ", "meaning_en": "a safe place", "meaning_id": "tempat yang aman" },
+    { "kanji": "薄暗い部屋", "reading": "うすぐらいへや", "meaning_en": "a dim room", "meaning_id": "ruangan remang-remang" },
+    { "kanji": "詳しい説明書", "reading": "くわしいせつめいしょ", "meaning_en": "a detailed manual", "meaning_id": "buku petunjuk detail" },
+    { "kanji": "詳しく説明する", "reading": "くわしくせつめいする", "meaning_en": "explain in detail", "meaning_id": "menjelaskan secara detail" },
+    { "kanji": "くだらない小説", "reading": "くだらないしょうせつ", "meaning_en": "a worthless novel", "meaning_id": "novel tidak berguna" },
+    { "kanji": "でたらめに答える", "reading": "でたらめにこたえる", "meaning_en": "give a haphazard answer", "meaning_id": "menjawab sembarangan" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "dakedo",
+      "question": "___高いです。",
+      "parts": ["この", "レストラン[れすとらん]は", "美味[おい]しい", "けど"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "このレストランは美味しいけど高いです。",
+      "meaning_id": "Restoran ini enak tapi mahal."
+    },
+    {
+      "pattern": "dakedo",
+      "question": "___時間[じかん]がない。",
+      "parts": ["日本[にほん]に", "行[い]きたい", "けど"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "日本に行きたいけど時間がない。",
+      "meaning_id": "Ingin pergi ke Jepang tapi tidak punya waktu."
+    },
+    {
+      "pattern": "dakedo",
+      "question": "___お金[かね]が足りない[たりない]。",
+      "parts": ["買[か]いたい", "ものがある", "けど"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "買いたいものがあるけどお金が足りない。",
+      "meaning_id": "Ada barang yang ingin dibeli tapi uang tidak cukup."
+    },
+    {
+      "pattern": "dakedo",
+      "question": "___日本[にほん]ではあまり見[み]ない。",
+      "parts": ["この果物[くだもの]は", "美味[おい]しい", "けど"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "この果物は美味しいけど日本ではあまり見ない。",
+      "meaning_id": "Buah ini enak tapi jarang terlihat di Jepang."
+    },
+    {
+      "pattern": "dakedo",
+      "question": "___行[い]かない。",
+      "parts": ["彼[かれ]は", "誘[さそ]われた", "けど"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼は誘われたけど行かない。",
+      "meaning_id": "Dia diundang tapi tidak pergi."
+    },
+    {
+      "pattern": "desukara",
+      "question": "___早く[はやく]寝[ね]ます。",
+      "parts": ["明日[あした]は", "試験[しけん]", "だから"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "明日は試験だから早く寝ます。",
+      "meaning_id": "Karena besok ujian, saya tidur cepat."
+    },
+    {
+      "pattern": "desukara",
+      "question": "___学校[がっこう]を休んだ[やすんだ]。",
+      "parts": ["風邪[かぜ]を", "引いた[ひいた]", "から"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "風邪を引いたから学校を休んだ。",
+      "meaning_id": "Karena masuk angin, saya tidak masuk sekolah."
+    },
+    {
+      "pattern": "desukara",
+      "question": "___よく売れる[うれる]。",
+      "parts": ["この商品[しょうひん]は", "便利[べんり]", "だから"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "この商品は便利だからよく売れる。",
+      "meaning_id": "Karena produk ini praktis, laris manis."
+    },
+    {
+      "pattern": "desukara",
+      "question": "___気[き]をつけてください。",
+      "parts": ["道[みち]が", "滑[すべ]り", "やすい", "から"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "道が滑りやすいから気をつけてください。",
+      "meaning_id": "Karena jalannya licin, harap hati-hati."
+    },
+    {
+      "pattern": "desukara",
+      "question": "___安心[あんしん]した。",
+      "parts": ["彼[かれ]が", "来[く]る", "から"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼が来るから安心した。",
+      "meaning_id": "Karena dia datang, saya lega."
+    },
+    {
+      "pattern": "tokoroga",
+      "question": "___誰[だれ]もいなかった。",
+      "parts": ["急[いそ]いで", "行[い]った", "ところが"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "急いで行ったところが誰もいなかった。",
+      "meaning_id": "Saya buru-buru pergi, ternyata tidak ada siapa pun."
+    },
+    {
+      "pattern": "tokoroga",
+      "question": "___何[なに]も出なかった[でなかった]。",
+      "parts": ["ボタン[ぼたん]を", "押[お]した", "ところが"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "ボタンを押したところが何も出なかった。",
+      "meaning_id": "Saya tekan tombolnya, ternyata tidak keluar apa-apa."
+    },
+    {
+      "pattern": "tokoroga",
+      "question": "___高[たか]かった。",
+      "parts": ["新[あたら]しい", "パソコン[ぱそこん]を", "見[み]た", "ところが"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "新しいパソコンを見たところが高かった。",
+      "meaning_id": "Saya lihat komputer baru, ternyata mahal."
+    },
+    {
+      "pattern": "tokoroga",
+      "question": "___雨[あめ]が降り出した[ふりだした]。",
+      "parts": ["出かけ[でかけ]ようと", "思[おも]った", "ところが"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "出かけようと思ったところが雨が降り出した。",
+      "meaning_id": "Ketika hendak pergi, tiba-tiba hujan turun."
+    },
+    {
+      "pattern": "tokoroga",
+      "question": "___不合格[ふごうかく]だった。",
+      "parts": ["一生懸命[いっしょうけんめい]", "勉強[べんきょう]した", "ところが"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "一生懸命勉強したところが不合格だった。",
+      "meaning_id": "Saya belajar keras, ternyata tidak lulus."
+    },
+    {
+      "pattern": "tokorode",
+      "question": "___、明日[あした]の予定[よてい]は？",
+      "parts": ["ところで"],
+      "correct_order": [0],
+      "full_sentence": "ところで、明日の予定は？",
+      "meaning_id": "Ngomong-ngomong, bagaimana rencana besok?"
+    },
+    {
+      "pattern": "tokorode",
+      "question": "___誰[だれ]も来ない[こない]よ。",
+      "parts": ["電話[でんわ]", "した", "ところで"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "電話したところで誰も来ないよ。",
+      "meaning_id": "Bahkan jika ditelepon pun, tidak ada yang datang."
+    },
+    {
+      "pattern": "tokorode",
+      "question": "___もう遅い[おそい]。",
+      "parts": ["今[いま]から", "行[い]った", "ところで"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "今から行ったところでもう遅い。",
+      "meaning_id": "Bahkan jika pergi sekarang pun, sudah terlambat."
+    },
+    {
+      "pattern": "tokorode",
+      "question": "___、この近[ちか]くにいいレストラン[れすとらん]を知[し]っていますか？",
+      "parts": ["ところで"],
+      "correct_order": [0],
+      "full_sentence": "ところで、この近くにいいレストランを知っていますか？",
+      "meaning_id": "Ngomong-ngomong, apakah Anda tahu restoran bagus di dekat sini?"
+    },
+    {
+      "pattern": "tokorode",
+      "question": "___時間[じかん]の無駄[むだ]だ。",
+      "parts": ["そんなこと", "を", "考[かんが]えた", "ところで"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "そんなことを考えたところで時間の無駄だ。",
+      "meaning_id": "Bahkan jika memikirkan hal itu pun, hanya buang waktu."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜けど / 〜だけど",
+      "meaning": "Tetapi / Namun (kasual)",
+      "structure": "Plain Form + けど / だ + けど / ます + けど",
+      "example": "日本[にほん]に行[い]きたいけど時間[じかん]がない。"
+    },
+    {
+      "title": "〜から / 〜だから / 〜ですから",
+      "meaning": "Karena / Oleh karena itu",
+      "structure": "Plain Form + から / だ + から / ます + から",
+      "example": "風邪[かぜ]を引いた[ひいた]から学校[がっこう]を休んだ[やすんだ]。"
+    },
+    {
+      "title": "ところが",
+      "meaning": "Ternyata / Namun (berlawanan dengan harapan)",
+      "structure": "〜た + ところが / Plain Form + ところが",
+      "example": "急[いそ]いで行[い]ったところが誰[だれ]もいなかった。"
+    },
+    {
+      "title": "ところで / 〜たところで",
+      "meaning": "Ngomong-ngomong / Bahkan jika... pun",
+      "structure": "ところで (topik baru) / V-ta + ところで (meskipun)",
+      "example": "電話[でんわ]したところで誰[だれ]も来ない[こない]。"
+    }
+  ]
+}
