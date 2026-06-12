@@ -1,0 +1,256 @@
+{
+  "week": 5,
+  "day": 7,
+  "goi": [
+    { "kanji": "長男", "reading": "ちょうなん", "meaning_en": "the eldest son", "meaning_id": "anak laki-laki tertua" },
+    { "kanji": "長女", "reading": "ちょうじょ", "meaning_en": "the eldest daughter", "meaning_id": "anak perempuan tertua" },
+    { "kanji": "部下", "reading": "ぶか", "meaning_en": "subordinate", "meaning_id": "bawahan" },
+    { "kanji": "孫", "reading": "まご", "meaning_en": "grandchild", "meaning_id": "cucu" },
+    { "kanji": "一人っ子", "reading": "ひとりっこ", "meaning_en": "an only child", "meaning_id": "anak tunggal" },
+    { "kanji": "お邪魔します", "reading": "おじゃまします", "meaning_en": "excuse me for disturbing", "meaning_id": "permisi (saat bertamu)" },
+    { "kanji": "おかまいなく", "reading": "おかまいなく", "meaning_en": "please don't bother", "meaning_id": "jangan repot-repot" },
+    { "kanji": "ご無沙汰しています", "reading": "ごぶさたしています", "meaning_en": "long time no see", "meaning_id": "sudah lama tidak menyapa" },
+    { "kanji": "お疲れ様でした", "reading": "おつかれさまでした", "meaning_en": "thank you for your hard work", "meaning_id": "terima kasih atas kerja kerasnya" },
+    { "kanji": "お目にかかる", "reading": "おめにかかる", "meaning_en": "to meet (humble)", "meaning_id": "bertemu (sangat sopan)" },
+    { "kanji": "賢い", "reading": "かしこい", "meaning_en": "smart", "meaning_id": "cerdas/pintar" },
+    { "kanji": "真面目な", "reading": "まじめな", "meaning_en": "diligent", "meaning_id": "rajin/serius" },
+    { "kanji": "ずるい", "reading": "ずるい", "meaning_en": "sly", "meaning_id": "curang/licik" },
+    { "kanji": "素直な", "reading": "すなおな", "meaning_en": "gentle/obedient", "meaning_id": "penurut/polos" },
+    { "kanji": "だらしない", "reading": "だらしない", "meaning_en": "sloppy", "meaning_id": "tidak rapi/jorok" },
+    { "kanji": "めまいがする", "reading": "めまいがする", "meaning_en": "feel dizzy", "meaning_id": "pusing/keliyengan" },
+    { "kanji": "吐き気がする", "reading": "はきけがする", "meaning_en": "feel nauseous", "meaning_id": "mual" },
+    { "kanji": "風邪を引いてつらい", "reading": "かぜをひいてつらい", "meaning_en": "feel terrible from a cold", "meaning_id": "menderita karena flu" },
+    { "kanji": "患者", "reading": "かんじゃ", "meaning_en": "patient", "meaning_id": "pasien" },
+    { "kanji": "お見舞いに行く", "reading": "おみまいにいく", "meaning_en": "visit a sick person", "meaning_id": "menjenguk orang sakit" },
+    { "kanji": "鼻水", "reading": "はなみず", "meaning_en": "mucus", "meaning_id": "ingus" },
+    { "kanji": "ため息", "reading": "ためいき", "meaning_en": "sigh", "meaning_id": "helaan napas" },
+    { "kanji": "涙", "reading": "なみだ", "meaning_en": "tear", "meaning_id": "air mata" },
+    { "kanji": "咳", "reading": "せき", "meaning_en": "cough", "meaning_id": "batuk" },
+    { "kanji": "くしゃみ", "reading": "くしゃみ", "meaning_en": "sneeze", "meaning_id": "bersin" },
+    { "kanji": "花が咲く", "reading": "はながさく", "meaning_en": "flowers bloom", "meaning_id": "bunga mekar" },
+    { "kanji": "山が崩れる", "reading": "やまがくずれる", "meaning_en": "a mountain collapses", "meaning_id": "gunung longsor" },
+    { "kanji": "蒸し暑い", "reading": "むしあつい", "meaning_en": "humid", "meaning_id": "gerah" },
+    { "kanji": "親友", "reading": "しんゆう", "meaning_en": "a best friend", "meaning_id": "sahabat karib" },
+    { "kanji": "鋭い", "reading": "するどい", "meaning_en": "sharp", "meaning_id": "tajam" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "wa mochiron",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "勉強[べんきょう]はもちろん", "スポーツ[すぽーつ]も", "優[すぐ]れている"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は勉強はもちろんスポーツも優れている。",
+      "meaning_id": "Dia sudah tentu pandai belajar, olahraga juga unggul."
+    },
+    {
+      "pattern": "wa mochiron",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "英語[えいご]はもちろん", "フランス語[ふらんすご]も", "話[はな]せる"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼女は英語はもちろんフランス語も話せる。",
+      "meaning_id": "Dia sudah tentu bisa bahasa Inggris, Prancis juga bisa."
+    },
+    {
+      "pattern": "bakarika",
+      "question": "___。",
+      "parts": ["あの店[みせ]は", "値段[ねだん]が安[やす]い", "ばかりか", "味[あじ]もいい"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あの店は値段が安いばかりか味もいい。",
+      "meaning_id": "Toko itu bukan hanya murah, rasanya juga enak."
+    },
+    {
+      "pattern": "bakaridenaku",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "優[やさ]しいばかりでなく", "頭[あたま]もいい"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼は優しいばかりでなく頭もいい。",
+      "meaning_id": "Dia tidak hanya baik hati, tapi juga pintar."
+    },
+    {
+      "pattern": "V + ageru",
+      "question": "___。",
+      "parts": ["やっと", "レポート[れぽーと]を", "書[か]き", "あげた"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "やっとレポートを書きあげた。",
+      "meaning_id": "Akhirnya saya selesai menulis laporan."
+    },
+    {
+      "pattern": "V + agaru",
+      "question": "___。",
+      "parts": ["夕飯[ゆうはん]が", "でき", "あがった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "夕飯ができあがった。",
+      "meaning_id": "Makan malam sudah selesai dimasak."
+    },
+    {
+      "pattern": "V + kiru",
+      "question": "___。",
+      "parts": ["最後[さいご]まで", "走[はし]り", "きった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "最後まで走りきった。",
+      "meaning_id": "Berlari sampai akhir."
+    },
+    {
+      "pattern": "V + kireru",
+      "question": "___。",
+      "parts": ["こんなに", "多[おお]くて", "食[た]べ", "きれない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "こんなに多くて食べきれない。",
+      "meaning_id": "Sebanyak ini tidak bisa habis dimakan."
+    },
+    {
+      "pattern": "to ii naa",
+      "question": "___。",
+      "parts": ["明日[あした]が", "いい天気[てんき]", "だといいなあ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "明日がいい天気だといいなあ。",
+      "meaning_id": "Semoga besok cuacanya bagus."
+    },
+    {
+      "pattern": "to ii naa",
+      "question": "___。",
+      "parts": ["試験[しけん]に", "合格[ごうかく]", "できると", "いいなあ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "試験に合格できるといいなあ。",
+      "meaning_id": "Semoga bisa lulus ujian."
+    },
+    {
+      "pattern": "ba yokatta",
+      "question": "___。",
+      "parts": ["もっと", "勉強[べんきょう]", "すれば", "よかった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "もっと勉強すればよかった。",
+      "meaning_id": "Seharusnya saya belajar lebih keras."
+    },
+    {
+      "pattern": "tara yokatta",
+      "question": "___。",
+      "parts": ["病院[びょういん]に", "行け[いけ]", "ば", "よかった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "病院に行けばよかった。",
+      "meaning_id": "Seharusnya saya pergi ke rumah sakit."
+    },
+    {
+      "pattern": "V ru made",
+      "question": "___。",
+      "parts": ["帰[かえ]る", "まで", "待[ま]っています"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "帰るまで待っています。",
+      "meaning_id": "Saya tunggu sampai kamu pulang."
+    },
+    {
+      "pattern": "V ru made",
+      "question": "___。",
+      "parts": ["雨[あめ]が", "やむ", "まで", "ここにいよう"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "雨がやむまでここにいよう。",
+      "meaning_id": "Mari di sini sampai hujan reda."
+    },
+    {
+      "pattern": "N ni oite",
+      "question": "___。",
+      "parts": ["会議[かいぎ]は", "三階[さんかい]の会議室[かいぎしつ]に", "おいて", "行[おこな]われます"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "会議は三階の会議室において行われます。",
+      "meaning_id": "Rapat dilaksanakan di ruang rapat lantai 3."
+    },
+    {
+      "pattern": "N ni oite",
+      "question": "___。",
+      "parts": ["現代[げんだい]の社会[しゃかい]に", "おいて", "大切[たいせつ]なことだ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "現代の社会において大切なことだ。",
+      "meaning_id": "Ini hal yang penting dalam masyarakat modern."
+    },
+    {
+      "pattern": "tatoe V temo",
+      "question": "___。",
+      "parts": ["たとえ", "忙[いそが]しくて", "も", "運動[うんどう]する"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "たとえ忙しくても運動する。",
+      "meaning_id": "Bahkan jika sibuk pun, tetap olahraga."
+    },
+    {
+      "pattern": "tatoe N demo",
+      "question": "___。",
+      "parts": ["たとえ", "子供[こども]", "でも", "分[わ]かる話[はなし]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "たとえ子供でも分かる話だ。",
+      "meaning_id": "Bahkan anak kecil pun mengerti ceritanya."
+    },
+    {
+      "pattern": "marude you da",
+      "question": "___。",
+      "parts": ["あの雲[くも]は", "まるで", "綿菓子[わたがし]の", "ようだ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あの雲はまるで綿菓子のようだ。",
+      "meaning_id": "Awan itu seperti permen kapas."
+    },
+    {
+      "pattern": "marude mitai da",
+      "question": "___。",
+      "parts": ["彼[かれ]の走[はし]り方[かた]は", "まるで", "プロ[ぷろ]みたいだ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼の走り方はまるでプロみたいだ。",
+      "meaning_id": "Cara larinya seperti profesional."
+    },
+    {
+      "pattern": "tokoroga",
+      "question": "___。",
+      "parts": ["新[あたら]しい店[みせ]に", "行[い]った", "ところが", "休[やす]みだった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "新しい店に行ったところが休みだった。",
+      "meaning_id": "Saya pergi ke toko baru, ternyata tutup."
+    },
+    {
+      "pattern": "tokoroga",
+      "question": "___。",
+      "parts": ["薬[くすり]を飲[の]んだ", "ところが", "良[よく]ならなかった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "薬を飲んだところが良くならなかった。",
+      "meaning_id": "Saya minum obat, ternyata tidak membaik."
+    },
+    {
+      "pattern": "kara",
+      "question": "___。",
+      "parts": ["安[やす]い", "から", "たくさん", "買[か]った"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "安いからたくさん買った。",
+      "meaning_id": "Karena murah, saya beli banyak."
+    },
+    {
+      "pattern": "dakara",
+      "question": "___。",
+      "parts": ["電車[でんしゃ]の中[なか]", "だから", "静[しず]かにしてください"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "電車の中だから静かにしてください。",
+      "meaning_id": "Karena di dalam kereta, harap tenang."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜はもちろん / 〜ばかりか / 〜ばかりでなく",
+      "meaning": "Sudah tentu... / Bukan hanya... tapi juga",
+      "structure": "N + はもちろん + N + も / Plain Form + ばかりか + Plain Form + も",
+      "example": "彼女[かのじょ]は英語[えいご]はもちろんフランス語[ふらんすご]も話[はな]せる。"
+    },
+    {
+      "title": "〜あげる / 〜あがる / 〜切る / 〜切れる",
+      "meaning": "Selesai melakukan / Melakukan sampai habis",
+      "structure": "V-masu + あげる / あがる / 切る / 切れる",
+      "example": "やっとレポート[れぽーと]を書[か]きあげた。"
+    },
+    {
+      "title": "〜といいなあ / 〜ばよかった / 〜たらよかった",
+      "meaning": "Semoga... / Seharusnya... (penyesalan)",
+      "structure": "Plain Form + といいなあ / V-ba + よかった / V-tara + よかった",
+      "example": "もっと勉強[べんきょう]すればよかった。"
+    },
+    {
+      "title": "たとえ〜ても / まるで〜ようだ / ところが / 〜から",
+      "meaning": "Meskipun / Seperti / Ternyata / Karena",
+      "structure": "たとえ + V-te/A-kute/Na-demo + も / まるで + N + のようだ / V-ta + ところが / Plain Form + から",
+      "example": "たとえ忙[いそが]しくても運動[うんどう]する。"
+    }
+  ]
+}
