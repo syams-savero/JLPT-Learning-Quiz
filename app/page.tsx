@@ -6,6 +6,7 @@ import type { GoiItem } from "@/lib/utils";
 import BunpouQuiz from "@/components/BunpouQuiz";
 import type { BunpouItem } from "@/lib/utils";
 import GrammarReview from "@/components/GrammarReview";
+import LandingPage from "@/components/LandingPage";
 
 interface QuizData {
   week: number;
@@ -34,6 +35,7 @@ const dataMap: Record<string, DataLoader> = {
 };
 
 export default function Home() {
+  const [isStarted, setIsStarted] = useState(false);
   const [mode, setMode] = useState<"goi" | "bunpou">("goi");
   const [showBunpouQuiz, setShowBunpouQuiz] = useState(false);
   
@@ -69,6 +71,10 @@ export default function Home() {
     setMode(newMode);
     setShowBunpouQuiz(false);
   };
+
+  if (!isStarted) {
+    return <LandingPage onStart={() => setIsStarted(true)} />;
+  }
 
   return (
     <main className="min-h-screen bg-gray-100 py-10 px-4">
