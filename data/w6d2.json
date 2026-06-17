@@ -1,0 +1,216 @@
+{
+  "week": 6,
+  "day": 2,
+  "goi": [
+    { "kanji": "うっかり", "reading": "うっかり", "meaning_en": "carelessly/unintentionally", "meaning_id": "tanpa sengaja" },
+    { "kanji": "すっかり", "reading": "すっかり", "meaning_en": "completely", "meaning_id": "sepenuhnya/sama sekali" },
+    { "kanji": "がっかり", "reading": "がっかり", "meaning_en": "disappointed", "meaning_id": "kecewa" },
+    { "kanji": "やっぱり", "reading": "やっぱり", "meaning_en": "as expected", "meaning_id": "sudah diduga/ternyata" },
+    { "kanji": "やはり", "reading": "やはり", "meaning_en": "as expected (formal)", "meaning_id": "sudah diduga (formal)" },
+    { "kanji": "しっかり", "reading": "しっかり", "meaning_en": "firmly/steadily", "meaning_id": "dengan teguh/keras" },
+    { "kanji": "すっきり", "reading": "すっきり", "meaning_en": "refreshed/clear", "meaning_id": "lega/segar" },
+    { "kanji": "さっぱり", "reading": "さっぱり", "meaning_en": "refreshingly", "meaning_id": "segar/sama sekali (tidak)" },
+    { "kanji": "ぐっすり", "reading": "ぐっすり", "meaning_en": "soundly (asleep)", "meaning_id": "nyenyak (tidur)" },
+    { "kanji": "にっこり", "reading": "にっこり", "meaning_en": "with a smile", "meaning_id": "tersenyum" },
+    { "kanji": "にこにこ", "reading": "にこにこ", "meaning_en": "grinning", "meaning_id": "tersenyum lebar" },
+    { "kanji": "そっくり", "reading": "そっくり", "meaning_en": "exactly alike", "meaning_id": "mirip sekali" },
+    { "kanji": "はっきり", "reading": "はっきり", "meaning_en": "clearly", "meaning_id": "dengan jelas" },
+    { "kanji": "のんびり", "reading": "のんびり", "meaning_en": "leisurely", "meaning_id": "santai/tidak tergesa" },
+    { "kanji": "きちんと", "reading": "きちんと", "meaning_en": "neatly/properly", "meaning_id": "dengan rapi/teratur" },
+    { "kanji": "ちゃんと", "reading": "ちゃんと", "meaning_en": "properly", "meaning_id": "dengan benar/rapi" },
+    { "kanji": "ふと", "reading": "ふと", "meaning_en": "suddenly/unexpectedly", "meaning_id": "tiba-tiba (spontan)" },
+    { "kanji": "わざと", "reading": "わざと", "meaning_en": "on purpose", "meaning_id": "sengaja" },
+    { "kanji": "ほっと", "reading": "ほっと", "meaning_en": "relieved", "meaning_id": "lega" },
+    { "kanji": "じっと", "reading": "じっと", "meaning_en": "still/fixedly", "meaning_id": "diam (tanpa bergerak)" },
+    { "kanji": "ぎっと", "reading": "ぎっと", "meaning_en": "tightly/stiffly", "meaning_id": "dengan kaku/keras" },
+    { "kanji": "そっと", "reading": "そっと", "meaning_en": "gently/silently", "meaning_id": "dengan hati-hati/diam-diam" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V ru koto ni naru",
+      "question": "___。",
+      "parts": ["来年[らいねん]", "日本[にほん]に", "留学[りゅうがく]する", "ことになった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "来年日本に留学することになった。",
+      "meaning_id": "Jadi diputuskan saya akan belajar ke Jepang tahun depan."
+    },
+    {
+      "pattern": "V ru koto ni naru",
+      "question": "___。",
+      "parts": ["明日[あした]", "パーティー[ぱーてぃー]を", "開[ひら]く", "ことになった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "明日パーティーを開くことになった。",
+      "meaning_id": "Jadi akan mengadakan pesta besok."
+    },
+    {
+      "pattern": "V nai koto ni naru",
+      "question": "___。",
+      "parts": ["来年[らいねん]の", "留学[りゅうがく]は", "行[い]かない", "ことになった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "来年の留学は行かないことになった。",
+      "meaning_id": "Jadi diputuskan tidak jadi pergi studi tahun depan."
+    },
+    {
+      "pattern": "V nai koto ni naru",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "今度[こんど]の", "試合[しあい]に", "出[で]ない", "ことになった"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "彼は今度の試合に出ないことになった。",
+      "meaning_id": "Jadi diputuskan dia tidak ikut pertandingan kali ini."
+    },
+    {
+      "pattern": "V ru koto ni suru",
+      "question": "___。",
+      "parts": ["毎日[まいにち]", "運動[うんどう]する", "ことにした"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "毎日運動することにした。",
+      "meaning_id": "Saya putuskan untuk olahraga setiap hari."
+    },
+    {
+      "pattern": "V ru koto ni suru",
+      "question": "___。",
+      "parts": ["今年[ことし]から", "日本語[にほんご]を", "勉強[べんきょう]する", "ことにした"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "今年から日本語を勉強することにした。",
+      "meaning_id": "Saya putuskan mulai belajar bahasa Jepang tahun ini."
+    },
+    {
+      "pattern": "V nai koto ni suru",
+      "question": "___。",
+      "parts": ["高[たか]いので", "買[か]わない", "ことにした"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "高いので買わないことにした。",
+      "meaning_id": "Saya putuskan tidak membeli karena mahal."
+    },
+    {
+      "pattern": "V nai koto ni suru",
+      "question": "___。",
+      "parts": ["彼[かれ]とは", "もう", "会[あ]わない", "ことにした"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼とはもう会わないことにした。",
+      "meaning_id": "Saya putuskan tidak bertemu dia lagi."
+    },
+    {
+      "pattern": "V ru koto wa V ru ga",
+      "question": "___時間[じかん]がない。",
+      "parts": ["行[い]くことは行[い]く"],
+      "correct_order": [0],
+      "full_sentence": "行くことは行くが時間がない。",
+      "meaning_id": "Pergi sih pergi, tapi tidak punya waktu."
+    },
+    {
+      "pattern": "V ru koto wa V ru ga",
+      "question": "___美味しくない。",
+      "parts": ["食[た]べることは食[た]べる"],
+      "correct_order": [0],
+      "full_sentence": "食べることは食べるが美味しくない。",
+      "meaning_id": "Makan sih makan, tapi tidak enak."
+    },
+    {
+      "pattern": "A i koto wa A i kedo",
+      "question": "___値段[ねだん]が高い。",
+      "parts": ["美味[おい]しいことは美味[おい]しい"],
+      "correct_order": [0],
+      "full_sentence": "美味しいことは美味しいけど値段が高い。",
+      "meaning_id": "Enak sih enak, tapi mahal."
+    },
+    {
+      "pattern": "A i koto wa A i kedo",
+      "question": "___品質[ひんしつ]が心配[しんぱい]だ。",
+      "parts": ["安[やす]いことは安[やす]い"],
+      "correct_order": [0],
+      "full_sentence": "安いことは安いけど品質が心配だ。",
+      "meaning_id": "Murah sih murah, tapi kualitas dikhawatirkan."
+    },
+    {
+      "pattern": "na na koto wa na da ga",
+      "question": "___仕事[しごと]をしていない。",
+      "parts": ["元気[げんき]なことは元気[げんき]"],
+      "correct_order": [0],
+      "full_sentence": "元気なことは元気だが仕事をしていない。",
+      "meaning_id": "Sehat sih sehat, tapi tidak bekerja."
+    },
+    {
+      "pattern": "na na koto wa na da ga",
+      "question": "___駅[えき]から遠[とお]い。",
+      "parts": ["静[しず]かなことは静[しず]か"],
+      "correct_order": [0],
+      "full_sentence": "静かなことは静かだが駅から遠い。",
+      "meaning_id": "Sepi sih sepi, tapi jauh dari stasiun."
+    },
+    {
+      "pattern": "A ku nai koto wa nai",
+      "question": "___けど買える値段[ねだん]だ。",
+      "parts": ["高[たか]くないことはない"],
+      "correct_order": [0],
+      "full_sentence": "高くないことはないけど買える値段だ。",
+      "meaning_id": "Tidak bisa dibilang murah, tapi masih terjangkau."
+    },
+    {
+      "pattern": "V nai koto wa nai",
+      "question": "___と思う。",
+      "parts": ["彼[かれ]は来[こ]ないことはない"],
+      "correct_order": [0],
+      "full_sentence": "彼は来ないことはないと思う。",
+      "meaning_id": "Bukan berarti dia tidak datang (pasti datang)."
+    },
+    {
+      "pattern": "V nai koto wa nai",
+      "question": "___けどあまり上手[じょうず]じゃない。",
+      "parts": ["日本語[にほんご]で話[はな]せないことはない"],
+      "correct_order": [0],
+      "full_sentence": "日本語で話せないことはないけどあまり上手じゃない。",
+      "meaning_id": "Bisa sih bicara Jepang, tapi tidak terlalu jago."
+    },
+    {
+      "pattern": "na ja nai koto wa nai",
+      "question": "___。",
+      "parts": ["この町[まち]は", "不便[ふべん]じゃないことはない"],
+      "correct_order": [0, 1],
+      "full_sentence": "この町は不便じゃないことはない。",
+      "meaning_id": "Kota ini tidak bisa dibilang tidak merepotkan."
+    },
+    {
+      "pattern": "V rarenai koto wa nai",
+      "question": "___けど大変[たいへん]だ。",
+      "parts": ["一人[ひとり]でできないことはない"],
+      "correct_order": [0],
+      "full_sentence": "一人でできないことはないけど大変だ。",
+      "meaning_id": "Bisa sih dilakukan sendiri, tapi berat."
+    },
+    {
+      "pattern": "V rarenai koto wa nai",
+      "question": "___けど書[か]けない。",
+      "parts": ["この漢字[かんじ]は読[よ]めないことはない"],
+      "correct_order": [0],
+      "full_sentence": "この漢字は読めないことはないけど書けない。",
+      "meaning_id": "Bisa baca sih kanji ini, tapi tidak bisa nulis."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜ことになる / 〜ないことになる",
+      "meaning": "Jadi diputuskan / Jadi tidak jadi",
+      "structure": "V-dictionary + ことになる / V-nai + ことになる",
+      "example": "来年[らいねん]日本[にほん]に留学[りゅうがく]することになった。"
+    },
+    {
+      "title": "〜ことにする / 〜ないことにする",
+      "meaning": "Memutuskan untuk / Memutuskan untuk tidak",
+      "structure": "V-dictionary + ことにする / V-nai + ことにする",
+      "example": "毎日[まいにち]運動[うんどう]することにした。"
+    },
+    {
+      "title": "〜ことは〜が / 〜ことは〜けど",
+      "meaning": "Memang... tapi (konsesi)",
+      "structure": "V/A/Na + ことは + V/A/Na + が/けど",
+      "example": "美味[おい]しいことは美味[おい]しいけど値段[ねだん]が高[たか]い。"
+    },
+    {
+      "title": "〜ないことはない",
+      "meaning": "Tidak bisa dibilang tidak... (double negative)",
+      "structure": "V-nai / A-ku nai / Na-ja nai + ことはない",
+      "example": "日本語[にほんご]で話[はな]せないことはない。"
+    }
+  ]
+}
