@@ -1,0 +1,227 @@
+{
+  "week": 6,
+  "day": 1,
+  "goi": [
+    { "kanji": "急に", "reading": "きゅうに", "meaning_en": "suddenly", "meaning_id": "tiba-tiba" },
+    { "kanji": "突然", "reading": "とつぜん", "meaning_en": "abruptly", "meaning_id": "secara tiba-tiba" },
+    { "kanji": "いきなり", "reading": "いきなり", "meaning_en": "all of a sudden", "meaning_id": "tiba-tiba (tanpa diduga)" },
+    { "kanji": "途端に", "reading": "とたんに", "meaning_en": "as soon as", "meaning_id": "begitu... tiba-tiba" },
+    { "kanji": "最後に", "reading": "さいごに", "meaning_en": "finally", "meaning_id": "pada akhirnya" },
+    { "kanji": "やっと", "reading": "やっと", "meaning_en": "at last", "meaning_id": "akhirnya (setelah lama)" },
+    { "kanji": "とうとう", "reading": "とうとう", "meaning_en": "eventually", "meaning_id": "akhirnya (setelah penantian)" },
+    { "kanji": "結局", "reading": "けっきょく", "meaning_en": "after all", "meaning_id": "pada akhirnya" },
+    { "kanji": "ついに", "reading": "ついに", "meaning_en": "finally/in the end", "meaning_id": "akhirnya (setelah usaha)" },
+    { "kanji": "大体", "reading": "だいたい", "meaning_en": "generally/mostly", "meaning_id": "kurang lebih/sebagian besar" },
+    { "kanji": "いつも", "reading": "いつも", "meaning_en": "always", "meaning_id": "selalu" },
+    { "kanji": "よく", "reading": "よく", "meaning_en": "often", "meaning_id": "sering" },
+    { "kanji": "大抵", "reading": "たいてい", "meaning_en": "usually", "meaning_id": "biasanya" },
+    { "kanji": "普段", "reading": "ふだん", "meaning_en": "normally", "meaning_id": "biasanya (sehari-hari)" },
+    { "kanji": "普通", "reading": "ふつう", "meaning_en": "ordinarily", "meaning_id": "biasanya (normal)" },
+    { "kanji": "たまに", "reading": "たまに", "meaning_en": "occasionally", "meaning_id": "kadang-kadang" },
+    { "kanji": "とても", "reading": "とても", "meaning_en": "very", "meaning_id": "sangat" },
+    { "kanji": "かなり", "reading": "かなり", "meaning_en": "quite/fairly", "meaning_id": "cukup/agak" },
+    { "kanji": "結構", "reading": "けっこう", "meaning_en": "considerably", "meaning_id": "cukup/lumayan" },
+    { "kanji": "ものすごく", "reading": "ものすごく", "meaning_en": "tremendously", "meaning_id": "sangat luar biasa" },
+    { "kanji": "めちゃくちゃ", "reading": "めちゃくちゃ", "meaning_en": "extremely", "meaning_id": "sangat (gaul)" },
+    { "kanji": "むちゃくちゃ", "reading": "むちゃくちゃ", "meaning_en": "absurdly", "meaning_id": "sangat keterlaluan" },
+    { "kanji": "好調", "reading": "こうちょう", "meaning_en": "good condition", "meaning_id": "kondisi baik" },
+    { "kanji": "是非", "reading": "ぜひ", "meaning_en": "by all means", "meaning_id": "dengan segala cara" },
+    { "kanji": "ぜひとも", "reading": "ぜひとも", "meaning_en": "by all means", "meaning_id": "pasti/dengan sangat" },
+    { "kanji": "どうか", "reading": "どうか", "meaning_en": "please", "meaning_id": "tolong/mohon" },
+    { "kanji": "最初に", "reading": "さいしょに", "meaning_en": "first/at first", "meaning_id": "pertama-tama" },
+    { "kanji": "まず", "reading": "まず", "meaning_en": "first of all", "meaning_id": "pertama-tama" },
+    { "kanji": "とにかく", "reading": "とにかく", "meaning_en": "anyway", "meaning_id": "bagaimanapun juga" },
+    { "kanji": "ともかく", "reading": "ともかく", "meaning_en": "in any case", "meaning_id": "bagaimanapun" },
+    { "kanji": "一緒", "reading": "いっしょ", "meaning_en": "together", "meaning_id": "bersama" },
+    { "kanji": "一度に", "reading": "いちどに", "meaning_en": "all at once", "meaning_id": "sekaligus" },
+    { "kanji": "一遍に", "reading": "いっぺんに", "meaning_en": "at once", "meaning_id": "sekaligus/serempak" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "moshi V tara",
+      "question": "___出かけない。",
+      "parts": ["もし", "明日[あした]", "雨[あめ]が降った[ふった]ら"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もし明日雨が降ったら出かけない。",
+      "meaning_id": "Kalau besok hujan, saya tidak pergi."
+    },
+    {
+      "pattern": "moshi A kattara",
+      "question": "___買いたい。",
+      "parts": ["もし", "安[やす]かったら"],
+      "correct_order": [0, 1],
+      "full_sentence": "もし安かったら買いたい。",
+      "meaning_id": "Kalau murah, saya ingin beli."
+    },
+    {
+      "pattern": "moshi Na dattara",
+      "question": "___あのカフェに行こう。",
+      "parts": ["もし", "静[しず]かだったら"],
+      "correct_order": [0, 1],
+      "full_sentence": "もし静かだったらあのカフェに行こう。",
+      "meaning_id": "Kalau sepi, ayo ke kafe itu."
+    },
+    {
+      "pattern": "moshi N nara",
+      "question": "___手伝ってください。",
+      "parts": ["もし", "暇[ひま]", "なら"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もし暇なら手伝ってください。",
+      "meaning_id": "Kalau ada waktu, tolong bantu."
+    },
+    {
+      "pattern": "moshi V nara",
+      "question": "___合格できる。",
+      "parts": ["もし", "勉強[べんきょう]した", "なら"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もし勉強したなら合格できる。",
+      "meaning_id": "Kalau sudah belajar, bisa lulus."
+    },
+    {
+      "pattern": "moshi N nara",
+      "question": "___この問題が分かるでしょう。",
+      "parts": ["もし", "先生[せんせい]", "なら", "この問題[もんだい]が"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "もし先生ならこの問題が分かるでしょう。",
+      "meaning_id": "Kalau guru, pasti mengerti soal ini."
+    },
+    {
+      "pattern": "moshi V toshitemo",
+      "question": "___出かける。",
+      "parts": ["もし", "雨[あめ]が降る[ふる]", "としても"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もし雨が降るとしても出かける。",
+      "meaning_id": "Bahkan jika hujan pun, saya tetap pergi."
+    },
+    {
+      "pattern": "moshi V toshitatte",
+      "question": "___連絡する。",
+      "parts": ["もし", "間に合[まにあ]わない", "としたって"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もし間に合わないとしたって連絡する。",
+      "meaning_id": "Bahkan jika tidak tepat waktu, tetap menghubungi."
+    },
+    {
+      "pattern": "moshi V toshitemo",
+      "question": "___自分の意見を言う。",
+      "parts": ["もし反対[はんたい]された", "としても"],
+      "correct_order": [0, 1],
+      "full_sentence": "もし反対されたとしても自分の意見を言う。",
+      "meaning_id": "Bahkan jika ditentang pun, tetap bilang pendapat."
+    },
+    {
+      "pattern": "moshi V toshitatte",
+      "question": "___一人じゃ行かない。",
+      "parts": ["もし行[い]く", "としたって"],
+      "correct_order": [0, 1],
+      "full_sentence": "もし行くとしたって一人じゃ行かない。",
+      "meaning_id": "Bahkan jika pergi pun, tidak sendirian."
+    },
+    {
+      "pattern": "moshi Na toshitemo",
+      "question": "___手伝わない。",
+      "parts": ["もし暇[ひま]だ", "としても"],
+      "correct_order": [0, 1],
+      "full_sentence": "もし暇だとしても手伝わない。",
+      "meaning_id": "Bahkan jika ada waktu, tidak akan membantu."
+    },
+    {
+      "pattern": "moshimo N nara",
+      "question": "___空を飛べるのに。",
+      "parts": ["もしも私[わたし]が鳥[とり]なら"],
+      "correct_order": [0],
+      "full_sentence": "もしも私が鳥なら空を飛べるのに。",
+      "meaning_id": "Andai saya burung, bisa terbang di langit."
+    },
+    {
+      "pattern": "moshimo V nara",
+      "question": "___準備しよう。",
+      "parts": ["もしも", "彼[かれ]が来[く]るなら"],
+      "correct_order": [0, 1],
+      "full_sentence": "もしも彼が来るなら準備しよう。",
+      "meaning_id": "Kalau dia datang, mari bersiap."
+    },
+    {
+      "pattern": "moshimo Na nara",
+      "question": "___ここで勉強できる。",
+      "parts": ["もしも静[しず]かなら"],
+      "correct_order": [0],
+      "full_sentence": "もしも静かならここで勉強できる。",
+      "meaning_id": "Kalau sunyi, bisa belajar di sini."
+    },
+    {
+      "pattern": "moshimo N nara",
+      "question": "___一緒に映画を見ない？",
+      "parts": ["もしも", "暇[ひま]", "なら"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしも暇なら一緒に映画を見ない？",
+      "meaning_id": "Kalau luang, mau nonton film bareng?"
+    },
+    {
+      "pattern": "moshimo V nara",
+      "question": "___手伝ってほしい。",
+      "parts": ["もしも時間[じかん]が", "あるなら"],
+      "correct_order": [0, 1],
+      "full_sentence": "もしも時間があるなら手伝ってほしい。",
+      "meaning_id": "Kalau ada waktu, saya minta tolong."
+    },
+    {
+      "pattern": "moshimo N demo",
+      "question": "___試合は行われる。",
+      "parts": ["もしも雨[あめ]でも"],
+      "correct_order": [0],
+      "full_sentence": "もしも雨でも試合は行われる。",
+      "meaning_id": "Bahkan jika hujan, pertandingan tetap jalan."
+    },
+    {
+      "pattern": "moshimo A kutemo",
+      "question": "___これが欲しい。",
+      "parts": ["もしも", "高[たか]", "くても"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしも高くてもこれが欲しい。",
+      "meaning_id": "Bahkan jika mahal pun, saya mau ini."
+    },
+    {
+      "pattern": "moshimo V temo",
+      "question": "___やるつもりだ。",
+      "parts": ["もしも", "反対[はんたい]され", "ても"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしも反対されてもやるつもりだ。",
+      "meaning_id": "Bahkan jika ditentang, tetap akan melakukannya."
+    },
+    {
+      "pattern": "moshimo N demo",
+      "question": "___間違えることはある。",
+      "parts": ["もしも先生[せんせい]でも"],
+      "correct_order": [0],
+      "full_sentence": "もしも先生でも間違えることはある。",
+      "meaning_id": "Bahkan guru pun kadang salah."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "もし〜たら / もし〜なら",
+      "meaning": "Kalau... (pengandaian)",
+      "structure": "もし + V-ta + ら / A-katta + ら / Na + だったら / N + なら",
+      "example": "もし暇[ひま]なら手伝[てつだ]ってください。"
+    },
+    {
+      "title": "もし〜としても / 〜としたって",
+      "meaning": "Bahkan jika... pun (andaikan)",
+      "structure": "もし + Plain Form + としても / としたって",
+      "example": "もし雨[あめ]が降る[ふる]としても出かけ[でかけ]る。"
+    },
+    {
+      "title": "もしも〜なら",
+      "meaning": "Kalau... (andaikan, lebih emphatic)",
+      "structure": "もしも + V / A / Na / N + なら",
+      "example": "もしも私[わたし]が鳥[とり]なら空[そら]を飛べる[とべる]のに。"
+    },
+    {
+      "title": "もしも〜ても / もしも〜でも",
+      "meaning": "Bahkan jika... pun (andaikan)",
+      "structure": "もしも + V-te + も / A-kute + も / Na + でも / N + でも",
+      "example": "もしも雨[あめ]でも試合[しあい]は行[おこな]われる。"
+    }
+  ]
+}
