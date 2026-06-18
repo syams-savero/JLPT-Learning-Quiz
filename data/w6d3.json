@@ -1,0 +1,217 @@
+{
+  "week": 6,
+  "day": 3,
+  "goi": [
+    { "kanji": "気持ち", "reading": "きもち", "meaning_en": "feeling", "meaning_id": "perasaan" },
+    { "kanji": "どきどき", "reading": "どきどき", "meaning_en": "nervously/thrillingly", "meaning_id": "debar-debar jantung" },
+    { "kanji": "いらいら", "reading": "いらいら", "meaning_en": "irritated", "meaning_id": "kesal/gelisah" },
+    { "kanji": "人や物の様子", "reading": "ひとやもののようす", "meaning_en": "state of people and things", "meaning_id": "keadaan orang dan barang" },
+    { "kanji": "はきはき", "reading": "はきはき", "meaning_en": "briskly/clearly", "meaning_id": "dengan tegas/jelas" },
+    { "kanji": "ぶつぶつ", "reading": "ぶつぶつ", "meaning_en": "grumbling", "meaning_id": "bergumam/mengomel" },
+    { "kanji": "うろうろ", "reading": "うろうろ", "meaning_en": "loitering", "meaning_id": "mondar-mandir" },
+    { "kanji": "ぶらぶら", "reading": "ぶらぶら", "meaning_en": "wandering/aimlessly", "meaning_id": "jalan-jalan santai" },
+    { "kanji": "ぎりぎり", "reading": "ぎりぎり", "meaning_en": "just barely", "meaning_id": "pas-pasan/hampir tidak" },
+    { "kanji": "ぴかぴか", "reading": "ぴかぴか", "meaning_en": "shiny", "meaning_id": "berkilau" },
+    { "kanji": "のろのろ", "reading": "のろのろ", "meaning_en": "slowly/sluggishly", "meaning_id": "lambat/pelan sekali" },
+    { "kanji": "ぺらぺら", "reading": "ぺらぺら", "meaning_en": "fluently", "meaning_id": "lancar (bicara)" },
+    { "kanji": "ぺこぺこ", "reading": "ぺこぺこ", "meaning_en": "bowing/hungry", "meaning_id": "lapar/membungkuk" },
+    { "kanji": "変化の程度", "reading": "へんかのていど", "meaning_en": "degree of change", "meaning_id": "tingkat perubahan" },
+    { "kanji": "ますます", "reading": "ますます", "meaning_en": "more and more", "meaning_id": "makin lama makin" },
+    { "kanji": "だんだん", "reading": "だんだん", "meaning_en": "gradually", "meaning_id": "berangsur-angsur" },
+    { "kanji": "どんどん", "reading": "どんどん", "meaning_en": "steadily/rapidly", "meaning_id": "terus-menerus/makin" },
+    { "kanji": "その他", "reading": "そのた", "meaning_en": "others/et cetera", "meaning_id": "lain-lain" },
+    { "kanji": "そろそろ", "reading": "そろそろ", "meaning_en": "soon/gradually", "meaning_id": "sebentar lagi" },
+    { "kanji": "もともと", "reading": "もともと", "meaning_en": "originally", "meaning_id": "aslinya/memang" },
+    { "kanji": "たまたま", "reading": "たまたま", "meaning_en": "by chance", "meaning_id": "kebetulan" },
+    { "kanji": "まあまあ", "reading": "まあまあ", "meaning_en": "so-so", "meaning_id": "lumayan" },
+    { "kanji": "様々", "reading": "さまざま", "meaning_en": "various", "meaning_id": "bermacam-macam" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V ta tokoro",
+      "question": "___誰もいなかった。",
+      "parts": ["彼[かれ]の家[いえ]に", "行[い]った", "ところ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼の家に行ったところ誰もいなかった。",
+      "meaning_id": "Waktu ke rumahnya, ternyata tidak ada siapa pun."
+    },
+    {
+      "pattern": "V ta tokoro",
+      "question": "___雨がやんだ。",
+      "parts": ["起[お]きた", "ところ"],
+      "correct_order": [0, 1],
+      "full_sentence": "起きたところ雨がやんだ。",
+      "meaning_id": "Waktu bangun, ternyata hujan sudah berhenti."
+    },
+    {
+      "pattern": "V ta tokoro",
+      "question": "___大丈夫だった。",
+      "parts": ["検査[けんさ]して", "もらった", "ところ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "検査してもらったところ大丈夫だった。",
+      "meaning_id": "Setelah diperiksa, ternyata tidak apa-apa."
+    },
+    {
+      "pattern": "V ta tokoro",
+      "question": "___満席[まんせき]だった。",
+      "parts": ["新[あたら]しい", "レストラン[れすとらん]に", "行[い]った", "ところ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "新しいレストランに行ったところ満席だった。",
+      "meaning_id": "Waktu pergi ke restoran baru, ternyata penuh."
+    },
+    {
+      "pattern": "V ta tokoro",
+      "question": "___全然違った。",
+      "parts": ["実[じつ]際[さい]に", "見[み]た", "ところ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "実際に見たところ全然違った。",
+      "meaning_id": "Waktu lihat langsung, ternyata benar-benar berbeda."
+    },
+    {
+      "pattern": "V ru tokoro datta",
+      "question": "___。",
+      "parts": ["もう少[すこ]しで", "事故[じこ]に", "会[あ]うところだった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もう少しで事故に会うところだった。",
+      "meaning_id": "Hampir saja mengalami kecelakaan."
+    },
+    {
+      "pattern": "V ru tokoro datta",
+      "question": "___。",
+      "parts": ["電車[でんしゃ]に", "乗[の]り遅[おく]れる", "ところだった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "電車に乗り遅れるところだった。",
+      "meaning_id": "Hampir ketinggalan kereta."
+    },
+    {
+      "pattern": "V ru tokoro datta",
+      "question": "___。",
+      "parts": ["傘[かさ]を", "忘[わす]れる", "ところだった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "傘を忘れるところだった。",
+      "meaning_id": "Hampir lupa bawa payung."
+    },
+    {
+      "pattern": "V ru tokoro datta",
+      "question": "___。",
+      "parts": ["大事[だいじ]な", "書類[しょるい]を", "捨[す]てるところだった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "大事な書類を捨てるところだった。",
+      "meaning_id": "Hampir membuang dokumen penting."
+    },
+    {
+      "pattern": "V ru tokoro datta",
+      "question": "___。",
+      "parts": ["危[あぶ]なく", "寝坊[ねぼう]する", "ところだった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "危なく寝坊するところだった。",
+      "meaning_id": "Hampir bangun kesiangan."
+    },
+    {
+      "pattern": "V te hajimete",
+      "question": "___大切さが分かった。",
+      "parts": ["自分[じぶん]で", "やって", "みて", "初[はじ]めて"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "自分でやってみて初めて大切さが分かった。",
+      "meaning_id": "Baru setelah mencoba sendiri, saya mengerti pentingnya."
+    },
+    {
+      "pattern": "V te hajimete",
+      "question": "___本当の意味が分かった。",
+      "parts": ["社会人[しゃかいじん]に", "なって", "初[はじ]めて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "社会人になって初めて本当の意味が分かった。",
+      "meaning_id": "Baru setelah jadi pekerja, saya mengerti arti sebenarnya."
+    },
+    {
+      "pattern": "V te hajimete",
+      "question": "___親の気持ちが分かった。",
+      "parts": ["親[おや]になって", "初[はじ]めて"],
+      "correct_order": [0, 1],
+      "full_sentence": "親になって初めて親の気持ちが分かった。",
+      "meaning_id": "Baru setelah jadi orang tua, mengerti perasaan orang tua."
+    },
+    {
+      "pattern": "V te hajimete",
+      "question": "___友達の大切さが分かった。",
+      "parts": ["大[おお]きな", "病気[びょうき]を", "して", "初[はじ]めて"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "大きな病気をして初めて友達の大切さが分かった。",
+      "meaning_id": "Baru setelah sakit keras, mengerti pentingnya teman."
+    },
+    {
+      "pattern": "V te hajimete",
+      "question": "___日本語の難しさが分かった。",
+      "parts": ["日本[にほん]に", "来[き]て", "初[はじ]めて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "日本に来て初めて日本語の難しさが分かった。",
+      "meaning_id": "Baru setelah ke Jepang, mengerti sulitnya bahasa Jepang."
+    },
+    {
+      "pattern": "V teiru uchi ni",
+      "question": "___テレビを見てしまう。",
+      "parts": ["勉強[べんきょう]している", "うちに"],
+      "correct_order": [0, 1],
+      "full_sentence": "勉強しているうちにテレビを見てしまう。",
+      "meaning_id": "Sementara belajar, malah nonton TV."
+    },
+    {
+      "pattern": "V teiru uchi ni",
+      "question": "___覚えてしまう。",
+      "parts": ["何度[なんど]も", "読[よ]んでいる", "うちに"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "何度も読んでいるうちに覚えてしまう。",
+      "meaning_id": "Sering baca, jadi hafal dengan sendirinya."
+    },
+    {
+      "pattern": "V teiru uchi ni",
+      "question": "___彼女は泣き出した。",
+      "parts": ["話[はな]している", "うちに"],
+      "correct_order": [0, 1],
+      "full_sentence": "話しているうちに彼女は泣き出した。",
+      "meaning_id": "Sementara bicara, dia tiba-tiba menangis."
+    },
+    {
+      "pattern": "V teiru uchi ni",
+      "question": "___雨が降ってきた。",
+      "parts": ["散歩[さんぽ]している", "うちに"],
+      "correct_order": [0, 1],
+      "full_sentence": "散歩しているうちに雨が降ってきた。",
+      "meaning_id": "Sementara jalan-jalan, tiba-tiba hujan."
+    },
+    {
+      "pattern": "V teiru uchi ni",
+      "question": "___もっと仲良くなった。",
+      "parts": ["一緒[いっしょ]に", "過[す]ごしている", "うちに"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "一緒に過ごしているうちにもっと仲良くなった。",
+      "meaning_id": "Sementara bersama, jadi makin akrab."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜たところ",
+      "meaning": "Waktu... ternyata / Setelah... (menemukan hasil)",
+      "structure": "V-ta + ところ",
+      "example": "行[い]ったところ誰[だれ]もいなかった。"
+    },
+    {
+      "title": "〜るところだった",
+      "meaning": "Hampir saja (hampir terjadi tapi tidak jadi)",
+      "structure": "V-dictionary + ところだった",
+      "example": "電車[でんしゃ]に乗[の]り遅[おく]れるところだった。"
+    },
+    {
+      "title": "〜て初めて",
+      "meaning": "Baru setelah (melakukan sesuatu) akhirnya...",
+      "structure": "V-te + 初めて",
+      "example": "日本[にほん]に来[き]て初[はじ]めて日本語[にほんご]の難[むずか]しさが分[わ]かった。"
+    },
+    {
+      "title": "〜うちに",
+      "meaning": "Sementara / Dalam waktu / Selagi",
+      "structure": "V-teiru / V-nai / A-i / Na + な / N + の + うちに",
+      "example": "勉強[べんきょう]しているうちに眠[ねむ]くなった。"
+    }
+  ]
+}
