@@ -1,0 +1,262 @@
+{
+  "week": 6,
+  "day": 7,
+  "goi": [
+    { "kanji": "急に", "reading": "きゅうに", "meaning_en": "suddenly", "meaning_id": "tiba-tiba" },
+    { "kanji": "突然", "reading": "とつぜん", "meaning_en": "abruptly", "meaning_id": "secara tiba-tiba" },
+    { "kanji": "いきなり", "reading": "いきなり", "meaning_en": "all of a sudden", "meaning_id": "tiba-tiba" },
+    { "kanji": "大体", "reading": "だいたい", "meaning_en": "generally", "meaning_id": "kurang lebih" },
+    { "kanji": "是非", "reading": "ぜひ", "meaning_en": "by all means", "meaning_id": "dengan segala cara" },
+    { "kanji": "うっかり", "reading": "うっかり", "meaning_en": "carelessly", "meaning_id": "tanpa sengaja" },
+    { "kanji": "しっかり", "reading": "しっかり", "meaning_en": "firmly", "meaning_id": "dengan teguh" },
+    { "kanji": "はっきり", "reading": "はっきり", "meaning_en": "clearly", "meaning_id": "dengan jelas" },
+    { "kanji": "のんびり", "reading": "のんびり", "meaning_en": "leisurely", "meaning_id": "santai" },
+    { "kanji": "ちゃんと", "reading": "ちゃんと", "meaning_en": "properly", "meaning_id": "dengan benar" },
+    { "kanji": "どきどき", "reading": "どきどき", "meaning_en": "nervously", "meaning_id": "debar-debar" },
+    { "kanji": "うろうろ", "reading": "うろうろ", "meaning_en": "loitering", "meaning_id": "mondar-mandir" },
+    { "kanji": "ますます", "reading": "ますます", "meaning_en": "more and more", "meaning_id": "makin makin" },
+    { "kanji": "だんだん", "reading": "だんだん", "meaning_en": "gradually", "meaning_id": "berangsur-angsur" },
+    { "kanji": "そろそろ", "reading": "そろそろ", "meaning_en": "soon", "meaning_id": "sebentar lagi" },
+    { "kanji": "出会い", "reading": "であい", "meaning_en": "encounter", "meaning_id": "pertemuan" },
+    { "kanji": "見送る", "reading": "みおくる", "meaning_en": "see off", "meaning_id": "mengantar" },
+    { "kanji": "話しかける", "reading": "はなしかける", "meaning_en": "talk to", "meaning_id": "menyapa" },
+    { "kanji": "待ち合わせる", "reading": "まちあわせる", "meaning_en": "meet up", "meaning_id": "janjian" },
+    { "kanji": "申し込む", "reading": "もうしこむ", "meaning_en": "apply", "meaning_id": "mendaftar" },
+    { "kanji": "大学を出る", "reading": "だいがくをでる", "meaning_en": "graduate", "meaning_id": "lulus kuliah" },
+    { "kanji": "結論を出す", "reading": "けつろんをだす", "meaning_en": "reach conclusion", "meaning_id": "menyimpulkan" },
+    { "kanji": "運転免許を取る", "reading": "うんてんめんきょをとる", "meaning_en": "get license", "meaning_id": "mengambil SIM" },
+    { "kanji": "連絡を取る", "reading": "れんらくをとる", "meaning_en": "get in contact", "meaning_id": "menghubungi" },
+    { "kanji": "声をかける", "reading": "こえをかける", "meaning_en": "call out to", "meaning_id": "menyapa" },
+    { "kanji": "席を立つ", "reading": "せきをたつ", "meaning_en": "leave one's seat", "meaning_id": "berdiri dari kursi" },
+    { "kanji": "時間が経つ", "reading": "じかんがたつ", "meaning_en": "time passes", "meaning_id": "waktu berlalu" },
+    { "kanji": "例を挙げる", "reading": "れいをあげる", "meaning_en": "give an example", "meaning_id": "memberi contoh" },
+    { "kanji": "熱が下がる", "reading": "ねつがさがる", "meaning_en": "fever goes down", "meaning_id": "demam turun" },
+    { "kanji": "日記を付ける", "reading": "にっきをつける", "meaning_en": "keep a diary", "meaning_id": "menulis buku harian" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "moshi V tara",
+      "question": "___出かけない。",
+      "parts": ["もし明日[あした]", "雨[あめ]が降った[ふった]ら"],
+      "correct_order": [0, 1],
+      "full_sentence": "もし明日雨が降ったら出かけない。",
+      "meaning_id": "Kalau besok hujan, saya tidak pergi."
+    },
+    {
+      "pattern": "moshimo V nara",
+      "question": "___知らせてください。",
+      "parts": ["もしも", "何[なに]かあった", "なら"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もしも何かあったなら知らせてください。",
+      "meaning_id": "Kalau ada apa-apa, tolong kabari."
+    },
+    {
+      "pattern": "moshi V temo",
+      "question": "___絶対に行く。",
+      "parts": ["もし", "雨[あめ]が降った[ふった]", "としても"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もし雨が降ったとしても絶対に行く。",
+      "meaning_id": "Meski hujan pun, pasti pergi."
+    },
+    {
+      "pattern": "moshimo N demo",
+      "question": "___優しくするよ。",
+      "parts": ["もしも", "相手[あいて]が", "子供[こども]", "でも"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "もしも相手が子供でも優しくするよ。",
+      "meaning_id": "Meski lawannya anak kecil pun, akan bersikap lembut."
+    },
+    {
+      "pattern": "koto ni naru",
+      "question": "___来月引っ越すことになった。",
+      "parts": ["会社[かいしゃ]が", "決[き]めたんだ"],
+      "correct_order": [0, 1],
+      "full_sentence": "会社が決めたんだけど、来月引っ越すことになった。",
+      "meaning_id": "Perusahaan memutuskan, jadi bulan depan saya pindah."
+    },
+    {
+      "pattern": "koto ni suru",
+      "question": "___毎日運動することにした。",
+      "parts": ["健康[けんこう]の", "ため", "に"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "健康のために毎日運動することにした。",
+      "meaning_id": "Saya putuskan untuk olahraga setiap hari demi kesehatan."
+    },
+    {
+      "pattern": "koto wa ga",
+      "question": "___美味しいことは美味しい。",
+      "parts": ["この", "ラーメン[らーめん]は"],
+      "correct_order": [0, 1],
+      "full_sentence": "このラーメンは美味しいことは美味しい。",
+      "meaning_id": "Mie ini enak sih enak (tapi...)."
+    },
+    {
+      "pattern": "nai koto wa nai",
+      "question": "___できないことはない。",
+      "parts": ["努力[どりょく]すれば"],
+      "correct_order": [0],
+      "full_sentence": "努力すればできないことはない。",
+      "meaning_id": "Kalau berusaha, bukan tidak bisa."
+    },
+    {
+      "pattern": "V ta tokoro",
+      "question": "___誰もいなかった。",
+      "parts": ["彼[かれ]の家[いえ]に", "行[い]った", "ところ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼の家に行ったところ誰もいなかった。",
+      "meaning_id": "Waktu ke rumahnya, ternyata tidak ada siapa pun."
+    },
+    {
+      "pattern": "V ta tokoro",
+      "question": "___ちょうど電車が来た。",
+      "parts": ["駅[えき]に", "着[つ]いた", "ところ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "駅に着いたところちょうど電車が来た。",
+      "meaning_id": "Waktu sampai stasiun, kebetulan kereta datang."
+    },
+    {
+      "pattern": "V ru tokoro datta",
+      "question": "___危なかった。",
+      "parts": ["もう", "少[すこ]しで", "忘[わす]れる", "ところだった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "もう少しで忘れるところだった。",
+      "meaning_id": "Hampir saja lupa."
+    },
+    {
+      "pattern": "V ru tokoro datta",
+      "question": "___事故に遭うところだった。",
+      "parts": ["慌[あわ]てて", "飛[と]び出[だ]したら"],
+      "correct_order": [0, 1],
+      "full_sentence": "慌てて飛び出したら事故に遭うところだった。",
+      "meaning_id": "Buru-buru keluar, hampir kena kecelakaan."
+    },
+    {
+      "pattern": "te hajimete",
+      "question": "___大切さが分かった。",
+      "parts": ["一人[ひとり]で", "暮[く]らして", "初[はじ]めて"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "一人で暮らして初めて大切さが分かった。",
+      "meaning_id": "Baru sadar pentingnya setelah hidup sendiri."
+    },
+    {
+      "pattern": "uchi ni",
+      "question": "___勉強しておこう。",
+      "parts": ["忘[わす]れない", "うちに"],
+      "correct_order": [0, 1],
+      "full_sentence": "忘れないうちに勉強しておこう。",
+      "meaning_id": "Belajar selagi belum lupa."
+    },
+    {
+      "pattern": "wake da",
+      "question": "___とても眠いわけだ。",
+      "parts": ["昨夜[さくや]", "全然[ぜんぜん]", "眠[ねむ]れなかった", "から"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "昨夜全然眠れなかったからとても眠いわけだ。",
+      "meaning_id": "Pantasan ngantuk, karena semalam tidak tidur sama sekali."
+    },
+    {
+      "pattern": "wake dewa nai",
+      "question": "___分からないわけではない。",
+      "parts": ["この", "問題[もんだい]が"],
+      "correct_order": [0, 1],
+      "full_sentence": "この問題が分からないわけではない。",
+      "meaning_id": "Bukan berarti tidak mengerti soal ini."
+    },
+    {
+      "pattern": "wake ga nai",
+      "question": "___そんなはずはない。",
+      "parts": ["彼[かれ]が", "嘘[うそ]を", "つく", "わけがない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼が嘘をつくわけがない。",
+      "meaning_id": "Tidak mungkin dia berbohong."
+    },
+    {
+      "pattern": "wake ni wa ikanai",
+      "question": "___今は遊んでいるわけにはいかない。",
+      "parts": ["試験[しけん]が", "来週[らいしゅう]", "だから"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "試験が来週だから今は遊んでいるわけにはいかない。",
+      "meaning_id": "Karena ujian minggu depan, tidak bisa bermain sekarang."
+    },
+    {
+      "pattern": "kesshite V nai",
+      "question": "___彼女は決して諦めない。",
+      "parts": ["どんなに", "大変[たいへん]", "でも"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "どんなに大変でも彼女は決して諦めない。",
+      "meaning_id": "Bagaimanapun sulitnya, dia tidak pernah menyerah."
+    },
+    {
+      "pattern": "mattaku V nai",
+      "question": "___全く興味がない。",
+      "parts": ["あの", "映画[えいが]には"],
+      "correct_order": [0, 1],
+      "full_sentence": "あの映画には全く興味がない。",
+      "meaning_id": "Sama sekali tidak tertarik pada film itu."
+    },
+    {
+      "pattern": "sore to",
+      "question": "___ジュースもお願い。",
+      "parts": ["お茶[ちゃ]を", "買[か]ってきて", "それと"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "お茶を買ってきて。それとジュースもお願い。",
+      "meaning_id": "Beli teh. Dan juga minta jus."
+    },
+    {
+      "pattern": "ato de",
+      "question": "___メールを送る。",
+      "parts": ["明日[あした]", "また", "後[あと]で"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "また明日後でメールを送る。",
+      "meaning_id": "Nanti besok saya kirim email."
+    },
+    {
+      "pattern": "soretemo",
+      "question": "___毎日頑張っている。",
+      "parts": ["給料[きゅうりょう]は", "安[やす]い", "それでも"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "給料は安い。それでも毎日頑張っている。",
+      "meaning_id": "Gajinya kecil. Meski begitu, tetap berusaha setiap hari."
+    },
+    {
+      "pattern": "sono ue",
+      "question": "___料金も安い。",
+      "parts": ["この", "プラン[ぷらん]は", "使[つか]える", "容量[ようりょう]が", "多[おお]い", "その上"],
+      "correct_order": [0, 1, 2, 3, 4, 5],
+      "full_sentence": "このプランは使える容量が多い。その上料金も安い。",
+      "meaning_id": "Paket ini kapasitasnya besar. Lagipula tarifnya juga murah."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "もし〜たら / もし〜としても / もしも〜なら / もしも〜ても",
+      "meaning": "Kalau... / Meskipun (andaikan)...",
+      "structure": "もし + V-tara, A-kattara / もし + V-ta + としても / もしも + N/Na + なら / もしも + N/Na + でも",
+      "example": "もし明日雨が降ったら出かけない。"
+    },
+    {
+      "title": "〜ことになる / 〜ことにする / 〜ことは〜が / 〜ないことはない",
+      "meaning": "Jadi diputuskan / Memutuskan / Memang... tapi / Bukan tidak bisa",
+      "structure": "V-ru + ことになる / ことにする / N + ことは + N + が / V-nai + ことはない",
+      "example": "健康のために毎日運動することにした。"
+    },
+    {
+      "title": "〜たところ / 〜るところだった / 〜て初めて / 〜うちに",
+      "meaning": "Waktu ternyata... / Hampir saja / Baru setelah / Selagi",
+      "structure": "V-ta + ところ / V-ru + ところだった / V-te + 初めて / V-nai + うちに",
+      "example": "一人で暮らして初めて大切さが分かった。"
+    },
+    {
+      "title": "〜わけだ / 〜わけではない / 〜わけがない / 〜わけにはいかない",
+      "meaning": "Pantasan / Bukan berarti / Tidak mungkin / Tidak bisa (karena sosial)",
+      "structure": "Plain + わけだ / わけではない / わけがない / わけにはいかない",
+      "example": "彼が嘘をつくわけがない。"
+    },
+    {
+      "title": "決して〜ない / 全く〜ない / それと / 〜後(で) / それでも / その上",
+      "meaning": "Tidak pernah / Sama sekali tidak / Dan juga / Setelah / Meski begitu / Lagipula",
+      "structure": "決して + V-nai / 全く + V-nai / それと / V-ta + 後で / それでも / その上",
+      "example": "どんなに大変でも彼女は決して諦めない。"
+    }
+  ]
+}
