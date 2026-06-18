@@ -1,0 +1,219 @@
+{
+  "week": 6,
+  "day": 4,
+  "goi": [
+    { "kanji": "理想の人に出会う", "reading": "りそうのひとにであう", "meaning_en": "meet the ideal person", "meaning_id": "bertemu orang ideal" },
+    { "kanji": "出会い", "reading": "であい", "meaning_en": "encounter", "meaning_id": "pertemuan" },
+    { "kanji": "客を出迎える", "reading": "きゃくをでむかえる", "meaning_en": "welcome a guest", "meaning_id": "menyambut tamu" },
+    { "kanji": "出迎え", "reading": "でむかえ", "meaning_en": "welcome/reception", "meaning_id": "penyambutan" },
+    { "kanji": "見送る", "reading": "みおくる", "meaning_en": "see off", "meaning_id": "mengantar kepergian" },
+    { "kanji": "見送り", "reading": "みおくり", "meaning_en": "sendoff", "meaning_id": "pengantaran kepergian" },
+    { "kanji": "空を見上げる", "reading": "そらをみあげる", "meaning_en": "look up at the sky", "meaning_id": "menengadah ke langit" },
+    { "kanji": "通りを見下ろす", "reading": "とおりをみおろす", "meaning_en": "look down on the street", "meaning_id": "memandang ke bawah jalan" },
+    { "kanji": "急に立ち止まる", "reading": "きゅうにたちどまる", "meaning_en": "suddenly stop", "meaning_id": "tiba-tiba berhenti" },
+    { "kanji": "ソファーから立ち上がる", "reading": "そふぁーからたちあがる", "meaning_en": "stand up from the sofa", "meaning_id": "berdiri dari sofa" },
+    { "kanji": "寺の前を通りかかる", "reading": "てらのまえをとおりかかる", "meaning_en": "pass by in front of a temple", "meaning_id": "lewat di depan kuil" },
+    { "kanji": "郵便局を通り過ぎる", "reading": "ゆうびんきょくをとおりすぎる", "meaning_en": "pass by the post office", "meaning_id": "melewati kantor pos" },
+    { "kanji": "隣の人に話しかける", "reading": "となりのひとにはなしかける", "meaning_en": "talk to the person next to", "meaning_id": "menyapa orang di sebelah" },
+    { "kanji": "田中さんと話し合う", "reading": "たなかさんとはなしあう", "meaning_en": "discuss with Tanaka", "meaning_id": "berdiskusi dengan Tanaka" },
+    { "kanji": "中村さんと知り合う", "reading": "なかむらさんとしりあう", "meaning_en": "get acquainted with Nakamura", "meaning_id": "berkenalan dengan Nakamura" },
+    { "kanji": "駅で待ち合わせる", "reading": "えきでまちあわせる", "meaning_en": "meet up at the station", "meaning_id": "janjian di stasiun" },
+    { "kanji": "旅行会社に申し込む", "reading": "りょこうがいしゃにもうしこむ", "meaning_en": "apply to a travel agency", "meaning_id": "mendaftar ke agen travel" },
+    { "kanji": "申し込みを締め切る", "reading": "もうしこみをしめきる", "meaning_en": "close applications", "meaning_id": "menutup pendaftaran" },
+    { "kanji": "申し込みを受け付ける", "reading": "もうしこみをうけつける", "meaning_en": "accept applications", "meaning_id": "menerima pendaftaran" },
+    { "kanji": "荷物を受け取る", "reading": "にもつをうけとる", "meaning_en": "receive luggage", "meaning_id": "menerima barang" },
+    { "kanji": "電池を取り替える", "reading": "でんちをとりかえる", "meaning_en": "replace batteries", "meaning_id": "mengganti baterai" },
+    { "kanji": "予約を取り消す", "reading": "よやくをとりけす", "meaning_en": "cancel reservation", "meaning_id": "membatalkan reservasi" },
+    { "kanji": "取り消し", "reading": "とりけし", "meaning_en": "cancellation", "meaning_id": "pembatalan" },
+    { "kanji": "子供が飛び出す", "reading": "こどもがとびだす", "meaning_en": "a child dashes out", "meaning_id": "anak melompat keluar" },
+    { "kanji": "プールに飛び込む", "reading": "ぷーるにとびこむ", "meaning_en": "dive into the pool", "meaning_id": "terjun ke kolam renang" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "wake da",
+      "question": "___日本語が上手なわけだ。",
+      "parts": ["日本[にほん]に", "十年[じゅうねん]も", "住[す]んでいた", "から"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "日本に十年も住んでいたから日本語が上手なわけだ。",
+      "meaning_id": "Pantasan jago bahasa Jepang, karena sudah 10 tahun di Jepang."
+    },
+    {
+      "pattern": "wake da",
+      "question": "___成績がいいわけだ。",
+      "parts": ["毎日[まいにち]", "勉強[べんきょう]して", "いる", "から"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "毎日勉強しているから成績がいいわけだ。",
+      "meaning_id": "Pantasan nilainya bagus, karena belajar tiap hari."
+    },
+    {
+      "pattern": "wake da",
+      "question": "___とても眠いわけだ。",
+      "parts": ["昨日[きのう]", "全然[ぜんぜん]", "寝[ね]なかった", "から"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "昨日全然寝なかったからとても眠いわけだ。",
+      "meaning_id": "Pantasan ngantuk, karena semalam tidak tidur."
+    },
+    {
+      "pattern": "wake da",
+      "question": "___痩せたわけだ。",
+      "parts": ["毎日[まいにち]", "一時間[いちじかん]", "走[はし]って", "いる", "から"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "毎日一時間走っているから痩せたわけだ。",
+      "meaning_id": "Pantasan kurus, karena lari 1 jam tiap hari."
+    },
+    {
+      "pattern": "wake da",
+      "question": "___予約でいっぱいなわけだ。",
+      "parts": ["あのレストラン[れすとらん]は", "美味[おい]しいと", "有名[ゆうめい]", "だから"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あのレストランは美味しいと有名だから予約でいっぱいなわけだ。",
+      "meaning_id": "Pantasan penuh, karena restoran itu terkenal enak."
+    },
+    {
+      "pattern": "wake dewa nai",
+      "question": "___。",
+      "parts": ["彼[かれ]の", "ことが", "嫌[きら]いな", "わけではない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼のことが嫌いなわけではない。",
+      "meaning_id": "Bukan berarti tidak suka dia."
+    },
+    {
+      "pattern": "wake dewa nai",
+      "question": "___上手なわけではない。",
+      "parts": ["日本語[にほんご]が", "全然[ぜんぜん]", "できない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "日本語が全然できないわけではない。",
+      "meaning_id": "Bukan berarti sama sekali tidak bisa bahasa Jepang."
+    },
+    {
+      "pattern": "wake dewa nai",
+      "question": "___。",
+      "parts": ["この", "問題[もんだい]は", "難[むずか]しい", "わけではない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "この問題は難しいわけではない。",
+      "meaning_id": "Soal ini bukan berarti sulit."
+    },
+    {
+      "pattern": "wake dewa nai",
+      "question": "___。",
+      "parts": ["彼[かれ]が", "来[こ]なかった", "わけではない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼が来なかったわけではない。",
+      "meaning_id": "Bukan berarti dia tidak datang."
+    },
+    {
+      "pattern": "wake dewa nai",
+      "question": "___。",
+      "parts": ["時間[じかん]が", "ない", "わけではない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "時間がないわけではない。",
+      "meaning_id": "Bukan berarti tidak punya waktu."
+    },
+    {
+      "pattern": "wake ga nai",
+      "question": "___。",
+      "parts": ["彼[かれ]が", "そんな", "ことを", "する", "わけがない"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "彼がそんなことをするわけがない。",
+      "meaning_id": "Mustahil dia melakukan hal seperti itu."
+    },
+    {
+      "pattern": "wake ga nai",
+      "question": "___。",
+      "parts": ["一日[いちにち]で", "終[お]わる", "わけがない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "一日で終わるわけがない。",
+      "meaning_id": "Mustahil selesai dalam sehari."
+    },
+    {
+      "pattern": "wake ga nai",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "そんな", "嘘[うそ]を", "つく", "わけがない"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "彼女はそんな嘘をつくわけがない。",
+      "meaning_id": "Mustahil dia berbohong seperti itu."
+    },
+    {
+      "pattern": "wake ga nai",
+      "question": "___。",
+      "parts": ["あの店[みせ]が", "安[やす]い", "わけがない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "あの店が安いわけがない。",
+      "meaning_id": "Mustahil toko itu murah."
+    },
+    {
+      "pattern": "wake ga nai",
+      "question": "___。",
+      "parts": ["こんなに多[おお]い", "仕事[しごと]が", "一人[ひとり]で", "できる", "わけがない"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "こんなに多い仕事が一人でできるわけがない。",
+      "meaning_id": "Mustahil sebanyak ini bisa sendiri."
+    },
+    {
+      "pattern": "wake ni wa ikanai",
+      "question": "___。",
+      "parts": ["今日[きょう]は", "試験[しけん]が", "ある", "から", "休[やす]む", "わけにはいかない"],
+      "correct_order": [0, 1, 2, 3, 4, 5],
+      "full_sentence": "今日は試験があるから休むわけにはいかない。",
+      "meaning_id": "Karena ada ujian, tidak bisa bolos."
+    },
+    {
+      "pattern": "wake ni wa ikanai",
+      "question": "___。",
+      "parts": ["皆[みな]が", "待[ま]って", "いる", "から", "行[い]かない", "わけにはいかない"],
+      "correct_order": [0, 1, 2, 3, 4, 5],
+      "full_sentence": "皆が待っているから行かないわけにはいかない。",
+      "meaning_id": "Karena semua menunggu, mau tidak mau harus pergi."
+    },
+    {
+      "pattern": "wake ni wa ikanai",
+      "question": "___。",
+      "parts": ["大事[だいじ]な", "約束[やくそく]", "だから", "遅[おく]れる", "わけにはいかない"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "大事な約束だから遅れるわけにはいかない。",
+      "meaning_id": "Karena janji penting, tidak boleh terlambat."
+    },
+    {
+      "pattern": "wake ni wa ikanai",
+      "question": "___。",
+      "parts": ["皆[みな]が働[はたら]いているから", "私[わたし]だけ休[やす]んでいる", "わけにはいかない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "皆が働いているから私だけ休んでいるわけにはいかない。",
+      "meaning_id": "Karena semua bekerja, saya tak bisa tidur saja."
+    },
+    {
+      "pattern": "wake ni wa ikanai",
+      "question": "___。",
+      "parts": ["こんな危[あぶ]ないことを", "彼[かれ]に", "させる", "わけにはいかない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "こんな危ないことを彼にさせるわけにはいかない。",
+      "meaning_id": "Tak bisa membiarkan dia melakukan hal berbahaya ini."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜わけだ",
+      "meaning": "Pantasan / Itu berarti / Itu sebabnya",
+      "structure": "Plain Form + わけだ (Alasan + hasil yang logis)",
+      "example": "日本[にほん]に十年[じゅうねん]も住[す]んでいたから日本語[にほんご]が上手[じょうず]なわけだ。"
+    },
+    {
+      "title": "〜わけではない",
+      "meaning": "Bukan berarti... / Tidak selalu...",
+      "structure": "Plain Form + わけではない",
+      "example": "彼[かれ]のことが嫌[きら]いなわけではない。"
+    },
+    {
+      "title": "〜わけがない / 〜わけはない",
+      "meaning": "Mustahil / Tidak mungkin",
+      "structure": "Plain Form + わけがない",
+      "example": "彼[かれ]がそんなことをするわけがない。"
+    },
+    {
+      "title": "〜わけにはいかない / 〜わけにもいかない",
+      "meaning": "Tidak bisa / Tidak boleh (karena alasan sosial/situasi)",
+      "structure": "V-dict/V-nai/V-teiru/V-saseru + わけにはいかない",
+      "example": "大事[だいじ]な約束[やくそく]だから遅[おく]れるわけにはいかない。"
+    }
+  ]
+}

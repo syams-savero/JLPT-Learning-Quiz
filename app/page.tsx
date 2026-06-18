@@ -35,6 +35,7 @@ const dataMap: Record<string, DataLoader> = {
   "n3-w6-d1": () => import("@/data/w6d1.json"),
   "n3-w6-d2": () => import("@/data/w6d2.json"),
   "n3-w6-d3": () => import("@/data/w6d3.json"),
+  "n3-w6-d4": () => import("@/data/w6d4.json"),
 };
 
 export default function Home() {
