@@ -1,0 +1,230 @@
+{
+  "week": 6,
+  "day": 5,
+  "goi": [
+    { "kanji": "大学を出る", "reading": "だいがくをでる", "meaning_en": "graduate from university", "meaning_id": "lulus kuliah" },
+    { "kanji": "会議に出る", "reading": "かいぎにでる", "meaning_en": "attend a meeting", "meaning_id": "hadir rapat" },
+    { "kanji": "食事が出る", "reading": "しょくじがでる", "meaning_en": "meal is served", "meaning_id": "makanan dihidangkan" },
+    { "kanji": "結論が出る", "reading": "けつろんがでる", "meaning_en": "conclusion is reached", "meaning_id": "kesimpulan tercapai" },
+    { "kanji": "食事を出す", "reading": "しょくじをだす", "meaning_en": "serve a meal", "meaning_id": "menghidangkan makanan" },
+    { "kanji": "結論を出す", "reading": "けつろんをだす", "meaning_en": "reach a conclusion", "meaning_id": "menarik kesimpulan" },
+    { "kanji": "元気が出る", "reading": "げんきがでる", "meaning_en": "get energy", "meaning_id": "muncul semangat" },
+    { "kanji": "元気を出す", "reading": "げんきをだす", "meaning_en": "cheer up", "meaning_id": "bersemangat" },
+    { "kanji": "新製品が出る", "reading": "しんせいひんがでる", "meaning_en": "new product is released", "meaning_id": "produk baru rilis" },
+    { "kanji": "新製品を出す", "reading": "しんせいひんをだす", "meaning_en": "release new product", "meaning_id": "merilis produk baru" },
+    { "kanji": "目が出る", "reading": "めがでる", "meaning_en": "get lucky (dice)", "meaning_id": "beruntung" },
+    { "kanji": "目を出す", "reading": "めをだす", "meaning_en": "stand out/show ability", "meaning_id": "menonjolkan diri" },
+    { "kanji": "ボーナスが出る", "reading": "ぼーなすがでる", "meaning_en": "bonus is paid", "meaning_id": "bonus keluar" },
+    { "kanji": "ボーナスを出す", "reading": "ぼーなすをだす", "meaning_en": "pay a bonus", "meaning_id": "membayarkan bonus" },
+    { "kanji": "ゴキブリが出る", "reading": "ごきぶりがでる", "meaning_en": "a cockroach appears", "meaning_id": "kecoak muncul" },
+    { "kanji": "新聞に名前が出る", "reading": "しんぶんになまえがでる", "meaning_en": "name appears in newspaper", "meaning_id": "nama muncul di koran" },
+    { "kanji": "角を曲がると駅に出る", "reading": "かどをまがるとえきにでる", "meaning_en": "turn corner to reach station", "meaning_id": "belok lalu sampai stasiun" },
+    { "kanji": "財布を取る", "reading": "さいふをとる", "meaning_en": "take a wallet", "meaning_id": "mengambil dompet" },
+    { "kanji": "財布を取りに戻る", "reading": "さいふをとりにもどる", "meaning_en": "go back for wallet", "meaning_id": "kembali ambil dompet" },
+    { "kanji": "運転免許を取る", "reading": "うんてんめんきょをとる", "meaning_en": "get a driver's license", "meaning_id": "mengambil SIM" },
+    { "kanji": "コピーを取る", "reading": "こぴーをとる", "meaning_en": "make a copy", "meaning_id": "memfotokopi" },
+    { "kanji": "新聞を取る", "reading": "しんぶんをとる", "meaning_en": "subscribe to newspaper", "meaning_id": "berlangganan koran" },
+    { "kanji": "睡眠を取る", "reading": "すいみんをとる", "meaning_en": "get some sleep", "meaning_id": "mengambil tidur" },
+    { "kanji": "出席を取る", "reading": "しゅっせきをとる", "meaning_en": "take attendance", "meaning_id": "mengabsen" },
+    { "kanji": "連絡を取る", "reading": "れんらくをとる", "meaning_en": "get in contact", "meaning_id": "menghubungi" },
+    { "kanji": "痛みを取る", "reading": "いたみをとる", "meaning_en": "relieve pain", "meaning_id": "menghilangkan rasa sakit" },
+    { "kanji": "ボタンが取れる", "reading": "ぼたんがとれる", "meaning_en": "a button comes off", "meaning_id": "kancing lepas" },
+    { "kanji": "鍵がかかっている", "reading": "かぎがかかっている", "meaning_en": "is locked", "meaning_id": "terkunci" },
+    { "kanji": "鍵をかける", "reading": "かぎをかける", "meaning_en": "lock", "meaning_id": "mengunci" },
+    { "kanji": "病気にかかる", "reading": "びょうきにかかる", "meaning_en": "catch a disease", "meaning_id": "terkena penyakit" },
+    { "kanji": "医者にかかる", "reading": "いしゃにかかる", "meaning_en": "see a doctor", "meaning_id": "periksa ke dokter" },
+    { "kanji": "ボタンをかける", "reading": "ぼたんをかける", "meaning_en": "button up", "meaning_id": "memasang kancing" },
+    { "kanji": "CDをかける", "reading": "しーでぃーをかける", "meaning_en": "play a CD", "meaning_id": "memutar CD" },
+    { "kanji": "毛布をかける", "reading": "もうふをかける", "meaning_en": "put a blanket over", "meaning_id": "menyelimuti" },
+    { "kanji": "声をかける", "reading": "こえをかける", "meaning_en": "call out to", "meaning_id": "menyapa" },
+    { "kanji": "心配をかける", "reading": "しんぱいをかける", "meaning_en": "cause worry", "meaning_id": "menyebabkan kekhawatiran" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "kesshite V nai",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "決[けっ]して", "嘘[うそ]を", "つかない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は決して嘘をつかない。",
+      "meaning_id": "Dia tidak pernah berbohong."
+    },
+    {
+      "pattern": "kesshite V nai",
+      "question": "___。",
+      "parts": ["私[わたし]は", "決[けっ]して", "あなたを", "忘[わす]れない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "私は決してあなたを忘れない。",
+      "meaning_id": "Saya tidak akan pernah melupakanmu."
+    },
+    {
+      "pattern": "kesshite A kunai",
+      "question": "___。",
+      "parts": ["その", "考[かんが]えは", "決[けっ]して", "正[ただ]しくない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "その考えは決して正しくない。",
+      "meaning_id": "Pemikiran itu tidak benar sama sekali."
+    },
+    {
+      "pattern": "kesshite A kunai",
+      "question": "___。",
+      "parts": ["彼[かれ]の", "料[りょう]理[り]は", "決[けっ]して", "美味[おい]しくない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼の料理は決して美味しくない。",
+      "meaning_id": "Masakannya tidak enak sama sekali."
+    },
+    {
+      "pattern": "mattaku V nai",
+      "question": "___。",
+      "parts": ["私[わたし]は", "そのことを", "全[まった]く", "知[し]らない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "私はそのことを全く知らない。",
+      "meaning_id": "Saya sama sekali tidak tahu tentang itu."
+    },
+    {
+      "pattern": "mattaku A kunai",
+      "question": "___。",
+      "parts": ["この", "問題[もんだい]は", "全[まった]く", "難[むずか]しくない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "この問題は全く難しくない。",
+      "meaning_id": "Soal ini sama sekali tidak sulit."
+    },
+    {
+      "pattern": "mattaku Na janai",
+      "question": "___。",
+      "parts": ["彼[かれ]の", "話[はなし]は", "全[まった]く", "本当[ほんとう]じゃない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼の話は全く本当じゃない。",
+      "meaning_id": "Ceritanya sama sekali tidak benar."
+    },
+    {
+      "pattern": "mattaku N janai",
+      "question": "___。",
+      "parts": ["こんな", "ことは", "全[まった]く", "必要[ひつよう]ない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "こんなことは全く必要ない。",
+      "meaning_id": "Hal seperti ini sama sekali tidak perlu."
+    },
+    {
+      "pattern": "N wa mettaninai",
+      "question": "___。",
+      "parts": ["こんな", "チャンス[ちゃんす]は", "めったに", "ない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "こんなチャンスはめったにない。",
+      "meaning_id": "Kesempatan seperti ini jarang ada."
+    },
+    {
+      "pattern": "N wa mettaninai",
+      "question": "___。",
+      "parts": ["彼[かれ]が", "遅刻[ちこく]する", "ことは", "めったに", "ない"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "彼が遅刻することはめったにない。",
+      "meaning_id": "Jarang dia terlambat."
+    },
+    {
+      "pattern": "N wa mettaninai",
+      "question": "___。",
+      "parts": ["この", "町[まち]で", "事故[じこ]は", "めったに", "ない"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "この町で事故はめったにない。",
+      "meaning_id": "Di kota ini jarang ada kecelakaan."
+    },
+    {
+      "pattern": "N wa mettaninai",
+      "question": "___。",
+      "parts": ["あの", "レストラン[れすとらん]が", "込[こ]んでいる", "ことは", "めったに", "ない"],
+      "correct_order": [0, 1, 2, 3, 4, 5],
+      "full_sentence": "あのレストランが込んでいることはめったにない。",
+      "meaning_id": "Restoran itu jarang penuh."
+    },
+    {
+      "pattern": "metta ni V nai",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "めったに", "外[そと]に", "出[で]ない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼はめったに外に出ない。",
+      "meaning_id": "Dia jarang keluar rumah."
+    },
+    {
+      "pattern": "metta ni V nai",
+      "question": "___。",
+      "parts": ["私[わたし]は", "めったに", "映画[えいが]を", "見[み]ない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "私はめったに映画を見ない。",
+      "meaning_id": "Saya jarang nonton film."
+    },
+    {
+      "pattern": "metta ni V nai",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "めったに", "怒[おこ]らない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼女はめったに怒らない。",
+      "meaning_id": "Dia jarang marah."
+    },
+    {
+      "pattern": "metta ni V nai",
+      "question": "___。",
+      "parts": ["私[わたし]は", "めったに", "朝[あさ]ごはんを", "食[た]べない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "私はめったに朝ごはんを食べない。",
+      "meaning_id": "Saya jarang sarapan."
+    },
+    {
+      "pattern": "sukoshi mo V nai",
+      "question": "___。",
+      "parts": ["私[わたし]は", "そのことを", "少[すこ]しも", "知[し]らない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "私はそのことを少しも知らない。",
+      "meaning_id": "Saya sedikit pun tidak tahu."
+    },
+    {
+      "pattern": "sukoshi mo A kunai",
+      "question": "___。",
+      "parts": ["彼[かれ]の", "説明[せつめい]は", "少[すこ]しも", "分[わ]からない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼の説明は少しも分からない。",
+      "meaning_id": "Penjelasannya sedikit pun tidak dimengerti."
+    },
+    {
+      "pattern": "sukoshi mo A kunai",
+      "question": "___。",
+      "parts": ["この", "料理[りょうり]は", "少[すこ]しも", "美味[おい]しくない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "この料理は少しも美味しくない。",
+      "meaning_id": "Masakan ini sedikit pun tidak enak."
+    },
+    {
+      "pattern": "sukoshi mo A kunai",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "少[すこ]しも", "悪[わる]く", "ない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は少しも悪くない。",
+      "meaning_id": "Dia sedikit pun tidak bersalah."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "決して〜ない",
+      "meaning": "Tidak akan pernah / Sama sekali tidak",
+      "structure": "決して + V-nai / A-kunai / Na-dewa nai",
+      "example": "彼[かれ]は決[けっ]して嘘[うそ]をつかない。"
+    },
+    {
+      "title": "全く〜ない",
+      "meaning": "Sama sekali tidak",
+      "structure": "全く + V-nai / A-kunai / Na-ja nai",
+      "example": "私[わたし]はそのことを全[まった]く知[し]らない。"
+    },
+    {
+      "title": "めったに〜ない / 〜はめったにない",
+      "meaning": "Jarang / Hampir tidak pernah",
+      "structure": "めったに + V-nai / N + はめったにない",
+      "example": "彼[かれ]はめったに外[そと]に出[で]ない。"
+    },
+    {
+      "title": "少しも〜ない",
+      "meaning": "Sedikit pun tidak",
+      "structure": "少しも + V-nai / A-kunai / Na-dewa nai",
+      "example": "この料理[りょうり]は少[すこ]しも美味[おい]しくない。"
+    }
+  ]
+}
