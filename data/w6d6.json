@@ -1,0 +1,228 @@
+{
+  "week": 6,
+  "day": 6,
+  "goi": [
+    { "kanji": "席を立つ", "reading": "せきをたつ", "meaning_en": "leave one's seat", "meaning_id": "berdiri dari kursi" },
+    { "kanji": "座る", "reading": "すわる", "meaning_en": "sit down", "meaning_id": "duduk" },
+    { "kanji": "時間が経つ", "reading": "じかんがたつ", "meaning_en": "time passes", "meaning_id": "waktu berlalu" },
+    { "kanji": "噂が立つ", "reading": "うわさがたつ", "meaning_en": "rumor spreads", "meaning_id": "rumor menyebar" },
+    { "kanji": "予定を立てる", "reading": "よていをたてる", "meaning_en": "make plans", "meaning_id": "membuat rencana" },
+    { "kanji": "音を立てる", "reading": "おとをたてる", "meaning_en": "make a sound", "meaning_id": "membuat suara" },
+    { "kanji": "雨が上がる", "reading": "あめがあがる", "meaning_en": "rain stops", "meaning_id": "hujan reda" },
+    { "kanji": "どうぞお上がりください", "reading": "どうぞおあがりください", "meaning_en": "please come in", "meaning_id": "silakan masuk" },
+    { "kanji": "風呂から上がる", "reading": "ふろからあがる", "meaning_en": "get out of the bath", "meaning_id": "keluar dari bak mandi" },
+    { "kanji": "物価が上がる", "reading": "ぶっかがあがる", "meaning_en": "prices rise", "meaning_id": "harga naik" },
+    { "kanji": "効果が上がる", "reading": "こうかがあがる", "meaning_en": "effect is achieved", "meaning_id": "hasil tercapai" },
+    { "kanji": "初めてのスピーチで上がる", "reading": "はじめてのすぴーちであがる", "meaning_en": "get nervous on first speech", "meaning_id": "gugup pidato pertama" },
+    { "kanji": "例を挙げる", "reading": "れいをあげる", "meaning_en": "give an example", "meaning_id": "memberi contoh" },
+    { "kanji": "結婚式を挙げる", "reading": "けっこんしきをあげる", "meaning_en": "hold a wedding", "meaning_id": "mengadakan pernikahan" },
+    { "kanji": "熱が下がる", "reading": "ねつがさがる", "meaning_en": "fever goes down", "meaning_id": "demam turun" },
+    { "kanji": "黄色い線の内側まで下がる", "reading": "きいろいせんのうちがわまでさがる", "meaning_en": "step back inside yellow line", "meaning_id": "mundur ke dalam garis kuning" },
+    { "kanji": "評判が下がる", "reading": "ひょうばんがさがる", "meaning_en": "reputation drops", "meaning_id": "reputasi turun" },
+    { "kanji": "カーテンが下がる", "reading": "かーてんがさがる", "meaning_en": "curtain hangs down", "meaning_id": "tirai tergantung" },
+    { "kanji": "買い物かごを下げる", "reading": "かいものかごをさげる", "meaning_en": "carry a shopping basket", "meaning_id": "membawa keranjang" },
+    { "kanji": "一字下げて書く", "reading": "いちじさげてかく", "meaning_en": "indent when writing", "meaning_id": "menjorok satu huruf" },
+    { "kanji": "テレビの音を下げる", "reading": "てれびのおとをさげる", "meaning_en": "lower the TV volume", "meaning_id": "kecilkan volume TV" },
+    { "kanji": "泥が付く", "reading": "どろがつく", "meaning_en": "mud sticks", "meaning_id": "terkena lumpur" },
+    { "kanji": "傷が付く", "reading": "きずがつく", "meaning_en": "gets scratched", "meaning_id": "tergores" },
+    { "kanji": "傷を付ける", "reading": "きずをつける", "meaning_en": "scratch", "meaning_id": "menggores" },
+    { "kanji": "連絡が付く", "reading": "れんらくがつく", "meaning_en": "able to reach (contact)", "meaning_id": "berhasil dihubungi" },
+    { "kanji": "連絡を付ける", "reading": "れんらくをつける", "meaning_en": "make contact", "meaning_id": "menghubungi" },
+    { "kanji": "都合が付く", "reading": "つごうがつく", "meaning_en": "schedule works out", "meaning_id": "jadwal cocok" },
+    { "kanji": "都合を付ける", "reading": "つごうをつける", "meaning_en": "arrange the schedule", "meaning_id": "mengatur jadwal" },
+    { "kanji": "おまけが付く", "reading": "おまけがつく", "meaning_en": "bonus comes with", "meaning_id": "bonus ikut" },
+    { "kanji": "おまけを付ける", "reading": "おまけをつける", "meaning_en": "add an extra", "meaning_id": "menambahkan bonus" },
+    { "kanji": "印を付ける", "reading": "しるしをつける", "meaning_en": "put a mark", "meaning_id": "memberi tanda" },
+    { "kanji": "タバコに火を付ける", "reading": "たばこにひをつける", "meaning_en": "light a cigarette", "meaning_id": "menyalakan rokok" },
+    { "kanji": "火が付く", "reading": "ひがつく", "meaning_en": "fire catches", "meaning_id": "api menyala" },
+    { "kanji": "日記を付ける", "reading": "にっきをつける", "meaning_en": "keep a diary", "meaning_id": "menulis buku harian" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "sore to",
+      "question": "___タオルもください。",
+      "parts": ["石鹸[せっけん]をください", "それと"],
+      "correct_order": [0, 1],
+      "full_sentence": "石鹸をください。それとタオルもください。",
+      "meaning_id": "Tolong sabunnya. Dan juga tolong handuknya."
+    },
+    {
+      "pattern": "sore to",
+      "question": "___鉛筆も買った。",
+      "parts": ["ノート[のーと]を買った", "それと"],
+      "correct_order": [0, 1],
+      "full_sentence": "ノートを買った。それと鉛筆も買った。",
+      "meaning_id": "Beli notebook. Dan juga beli pensil."
+    },
+    {
+      "pattern": "sore to",
+      "question": "___ビールも注文した。",
+      "parts": ["ピザ[ぴざ]を注文[ちゅうもん]した", "それと"],
+      "correct_order": [0, 1],
+      "full_sentence": "ピザを注文した。それとビールも注文した。",
+      "meaning_id": "Pesan pizza. Dan juga pesan bir."
+    },
+    {
+      "pattern": "sore to",
+      "question": "___傘も忘れた。",
+      "parts": ["財布[さいふ]を忘[わす]れた", "それと"],
+      "correct_order": [0, 1],
+      "full_sentence": "財布を忘れた。それと傘も忘れた。",
+      "meaning_id": "Lupa dompet. Dan juga lupa payung."
+    },
+    {
+      "pattern": "sore to",
+      "question": "___上着も着ていこう。",
+      "parts": ["コート[こーと]を着[き]ていく", "それと"],
+      "correct_order": [0, 1],
+      "full_sentence": "コートを着ていく。それと上着も着ていこう。",
+      "meaning_id": "Pakai coat. Dan juga pakai jaket."
+    },
+    {
+      "pattern": "ato de",
+      "question": "___宿題をやる。",
+      "parts": ["風呂[ふろ]に", "入[はい]った", "後[あと]で"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "風呂に入った後で宿題をやる。",
+      "meaning_id": "Setelah mandi, akan mengerjakan PR."
+    },
+    {
+      "pattern": "ato de",
+      "question": "___映画を見に行った。",
+      "parts": ["仕事[しごと]が", "終[お]わった", "後[あと]で"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "仕事が終わった後で映画を見に行った。",
+      "meaning_id": "Setelah kerja selesai, pergi nonton film."
+    },
+    {
+      "pattern": "ato de",
+      "question": "___まだお腹いっぱいだ。",
+      "parts": ["さっき", "食[た]べた", "後[あと]だから"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "さっき食べた後だからまだお腹いっぱいだ。",
+      "meaning_id": "Karena baru saja makan, masih kenyang."
+    },
+    {
+      "pattern": "ato de",
+      "question": "___ちゃんと鍵をかけて。",
+      "parts": ["出[で]かけた", "後[あと]で"],
+      "correct_order": [0, 1],
+      "full_sentence": "出かけた後でちゃんと鍵をかけて。",
+      "meaning_id": "Setelah pergi, tolong kunci pintu."
+    },
+    {
+      "pattern": "ato",
+      "question": "___また連絡します。",
+      "parts": ["詳[くわ]しい", "ことは", "後[あと]で"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "詳しいことは後でまた連絡します。",
+      "meaning_id": "Untuk detailnya, nanti saya hubungi lagi."
+    },
+    {
+      "pattern": "soretemo",
+      "question": "___彼は来なかった。",
+      "parts": ["何度[なんど]も", "誘[さそ]った", "それでも"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "何度も誘った。それでも彼は来なかった。",
+      "meaning_id": "Mengajak berkali-kali. Meski begitu, dia tidak datang."
+    },
+    {
+      "pattern": "soretemo",
+      "question": "___彼女に会いたい。",
+      "parts": ["もう", "別[わか]れた", "それでも"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "もう別れた。それでも彼女に会いたい。",
+      "meaning_id": "Sudah putus. Namun tetap ingin bertemu."
+    },
+    {
+      "pattern": "soretemo",
+      "question": "___諦めない。",
+      "parts": ["試合[しあい]に", "負[ま]けた", "それでも"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "試合に負けた。それでも諦めない。",
+      "meaning_id": "Kalah pertandingan. Namun tidak menyerah."
+    },
+    {
+      "pattern": "soretemo",
+      "question": "___前向きに生きている。",
+      "parts": ["大変[たいへん]な", "毎日[まいにち]だ", "それでも"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "大変な毎日だ。それでも前向きに生きている。",
+      "meaning_id": "Hari-hari berat. Meski begitu, tetap positif."
+    },
+    {
+      "pattern": "soretemo",
+      "question": "___宿題をやらなければならない。",
+      "parts": ["眠[ねむ]", "い", "それでも"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "眠い。それでも宿題をやらなければならない。",
+      "meaning_id": "Ngantuk. Meski begitu, harus mengerjakan PR."
+    },
+    {
+      "pattern": "sono ue",
+      "question": "___駅にも近い。",
+      "parts": ["このアパート[あぱーと]は", "家賃[やちん]が安[やす]い", "その上"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "このアパートは家賃が安い。その上駅にも近い。",
+      "meaning_id": "Apartemen ini murah. Lagipula dekat stasiun."
+    },
+    {
+      "pattern": "sono ue",
+      "question": "___性格もいい。",
+      "parts": ["彼女[かのじょ]は", "美人[びじん]だ", "その上"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼女は美人だ。その上性格もいい。",
+      "meaning_id": "Dia cantik. Lagipula karakternya baik."
+    },
+    {
+      "pattern": "sono ue",
+      "question": "___サービスも素晴らしかった。",
+      "parts": ["料理[りょうり]は", "美味[おい]しかった", "その上"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "料理は美味しかった。その上サービスも素晴らしかった。",
+      "meaning_id": "Masakan enak. Lagipula pelayanannya luar biasa."
+    },
+    {
+      "pattern": "sono ue",
+      "question": "___日本語も上手だ。",
+      "parts": ["彼[かれ]は", "英語[えいご]ができる", "その上"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼は英語ができる。その上日本語も上手だ。",
+      "meaning_id": "Dia bisa Inggris. Lagipula Jepangnya jago."
+    },
+    {
+      "pattern": "sono ue",
+      "question": "___雨まで降ってきた。",
+      "parts": ["遅刻[ちこく]した", "その上"],
+      "correct_order": [0, 1],
+      "full_sentence": "遅刻した。その上雨まで降ってきた。",
+      "meaning_id": "Terlambat. Lagipula hujan juga turun."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "それと",
+      "meaning": "Dan juga / Dan lagi",
+      "structure": "Kalimat. それと + Kalimat (menambahkan informasi)",
+      "example": "石鹸[せっけん]をください。それとタオルもください。"
+    },
+    {
+      "title": "〜後（で）",
+      "meaning": "Setelah / Sesudah",
+      "structure": "V-ta + 後で / N + の + 後で",
+      "example": "仕事[しごと]が終[お]わった後[あと]で映画[えいが]を見[み]に行[い]った。"
+    },
+    {
+      "title": "それでも",
+      "meaning": "Meskipun begitu / Namun",
+      "structure": "Kalimat. それでも + Kalimat (kontras)",
+      "example": "何度[なんど]も誘[さそ]った。それでも彼[かれ]は来[こ]なかった。"
+    },
+    {
+      "title": "その上",
+      "meaning": "Lagipula / Lebih dari itu",
+      "structure": "Kalimat. その上 + Kalimat (menambahkan keuntungan/kerugian)",
+      "example": "このアパート[あぱーと]は家賃[やちん]が安[やす]い。その上駅[えき]にも近[ちか]い。"
+    }
+  ]
+}
