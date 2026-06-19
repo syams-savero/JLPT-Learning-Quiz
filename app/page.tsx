@@ -25,6 +25,7 @@ interface QuizData {
 type DataLoader = () => Promise<{ default: Record<string, unknown> } | Record<string, unknown>>;
 
 const dataMap: Record<string, DataLoader> = {
+  "n3-w1-d1": () => import("@/data/w1d1.json"),
   "n3-w5-d1": () => import("@/data/w5d1.json"),
   "n3-w5-d2": () => import("@/data/w5d2.json"),
   "n3-w5-d3": () => import("@/data/w5d3.json"),
@@ -47,7 +48,7 @@ export default function Home() {
   const [showBunpouQuiz, setShowBunpouQuiz] = useState(false);
   
   const [level] = useState("n3");
-  const [week, setWeek] = useState(5);
+  const [week, setWeek] = useState(1);
   const [day, setDay] = useState(1);
   
   const [quizData, setQuizData] = useState<QuizData | null>(null);
@@ -97,6 +98,7 @@ export default function Home() {
             onChange={(e) => setWeek(Number(e.target.value))}
             className="bg-white border border-gray-300 text-black font-bold text-sm rounded-lg p-2"
           >
+            <option value={1}>Week 1</option>
             <option value={5}>Week 5</option>
             <option value={6}>Week 6</option>
           </select>

@@ -1,0 +1,224 @@
+{
+  "week": 1,
+  "day": 1,
+  "goi": [
+    { "kanji": "電子レンジ", "reading": "でんしれんじ", "meaning_en": "microwave", "meaning_id": "microwave" },
+    { "kanji": "お茶碗", "reading": "おちゃわん", "meaning_en": "rice bowl", "meaning_id": "mangkuk nasi" },
+    { "kanji": "ワイングラス", "reading": "わいんぐらす", "meaning_en": "wine glass", "meaning_id": "gelas anggur" },
+    { "kanji": "茶碗", "reading": "ちゃわん", "meaning_en": "tea bowl", "meaning_id": "mangkuk teh" },
+    { "kanji": "コーヒーカップ", "reading": "こーひーかっぷ", "meaning_en": "coffee cup", "meaning_id": "cangkir kopi" },
+    { "kanji": "ガスレンジ", "reading": "がすれんじ", "meaning_en": "gas stove", "meaning_id": "kompor gas" },
+    { "kanji": "ガラスのコップ", "reading": "がらすのこっぷ", "meaning_en": "glass cup", "meaning_id": "gelas kaca" },
+    { "kanji": "レバー", "reading": "ればー", "meaning_en": "lever", "meaning_id": "tuas" },
+    { "kanji": "流し", "reading": "ながし", "meaning_en": "sink", "meaning_id": "wastafel dapur" },
+    { "kanji": "窓ガラス", "reading": "まどがらす", "meaning_en": "window glass", "meaning_id": "kaca jendela" },
+    { "kanji": "雨戸", "reading": "あまど", "meaning_en": "storm shutter", "meaning_id": "daun jendela luar" },
+    { "kanji": "網戸", "reading": "あみど", "meaning_en": "screen door", "meaning_id": "kawat nyamuk" },
+    { "kanji": "コンセント", "reading": "こんせんと", "meaning_en": "electrical outlet", "meaning_id": "stopkontak" },
+    { "kanji": "コード", "reading": "こーど", "meaning_en": "cord", "meaning_id": "kabel" },
+    { "kanji": "エアコン", "reading": "えあこん", "meaning_en": "air conditioner", "meaning_id": "AC" },
+    { "kanji": "ヒーター", "reading": "ひーたー", "meaning_en": "heater", "meaning_id": "pemanas" },
+    { "kanji": "天井", "reading": "てんじょう", "meaning_en": "ceiling", "meaning_id": "langit-langit" },
+    { "kanji": "床", "reading": "ゆか", "meaning_en": "floor", "meaning_id": "lantai" },
+    { "kanji": "絨毯", "reading": "じゅうたん", "meaning_en": "carpet", "meaning_id": "karpet" },
+    { "kanji": "水道の蛇口をひねる", "reading": "すいどうのじゃぐちをひねる", "meaning_en": "turn the faucet", "meaning_id": "memutar keran air" },
+    { "kanji": "水が凍る", "reading": "みずがこおる", "meaning_en": "water freezes", "meaning_id": "air membeku" },
+    { "kanji": "氷になる", "reading": "こおりになる", "meaning_en": "become ice", "meaning_id": "menjadi es" },
+    { "kanji": "冷凍して保存する", "reading": "れいとうしてほぞんする", "meaning_en": "preserve by freezing", "meaning_id": "membekukan untuk disimpan" },
+    { "kanji": "残り物を温める", "reading": "のこりものをあたためる", "meaning_en": "reheat leftovers", "meaning_id": "menghangatkan sisa makanan" },
+    { "kanji": "ビールを冷やす", "reading": "びーるをひやす", "meaning_en": "chill beer", "meaning_id": "mendinginkan bir" },
+    { "kanji": "ビールが冷えている", "reading": "びーるがひえている", "meaning_en": "beer is chilled", "meaning_id": "bir sudah dingin" },
+    { "kanji": "スイッチ", "reading": "すいっち", "meaning_en": "switch", "meaning_id": "sakelar" },
+    { "kanji": "エアコンのリモコン", "reading": "えあこんのりもこん", "meaning_en": "AC remote", "meaning_id": "remote AC" },
+    { "kanji": "電源を入れる", "reading": "でんげんをいれる", "meaning_en": "turn on power", "meaning_id": "menyalakan listrik" },
+    { "kanji": "切る", "reading": "きる", "meaning_en": "turn off", "meaning_id": "mematikan" },
+    { "kanji": "絨毯を敷く", "reading": "じゅうたんをしく", "meaning_en": "lay a carpet", "meaning_id": "memasang karpet" },
+    { "kanji": "部屋を暖める", "reading": "へやをあたためる", "meaning_en": "warm up the room", "meaning_id": "menghangatkan ruangan" },
+    { "kanji": "暖房を付ける", "reading": "だんぼうをつける", "meaning_en": "turn on heating", "meaning_id": "menyalakan pemanas" },
+    { "kanji": "クーラーが効いている", "reading": "くーらーがきいている", "meaning_en": "AC is working well", "meaning_id": "AC sedang dingin" },
+    { "kanji": "日当たりが良い", "reading": "ひあたりがいい", "meaning_en": "sunny spot", "meaning_id": "sinar matahari bagus" },
+    { "kanji": "日当たりが悪い", "reading": "ひあたりがわるい", "meaning_en": "poor sunlight", "meaning_id": "sinar matahari jelek" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["犬[いぬ]に", "噛[か]ま", "れた"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "犬に噛まれた。",
+      "meaning_id": "Digigit anjing."
+    },
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["先生[せんせい]に", "褒[ほ]め", "られた"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "先生に褒められた。",
+      "meaning_id": "Dipuji oleh guru."
+    },
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["母[はは]に", "朝[あさ]早[はや]く", "起こ", "された"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "母に朝早く起こされた。",
+      "meaning_id": "Dibangunkan ibu pagi-pagi."
+    },
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["雨[あめ]に", "降[ふ]ら", "れた"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "雨に降られた。",
+      "meaning_id": "Kehujanan."
+    },
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["電車[でんしゃ]の中[なか]で", "足[あし]を", "踏[ふ]ま", "れた"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "電車の中で足を踏まれた。",
+      "meaning_id": "Kaki diinjak di kereta."
+    },
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["友達[ともだち]に", "来[こ]られて", "勉強[べんきょう]が", "できなかった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "友達に来られて勉強ができなかった。",
+      "meaning_id": "Teman datang jadi tidak bisa belajar."
+    },
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["赤[あか]ちゃんに", "泣[な]かれて", "眠[ねむ]れなかった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "赤ちゃんに泣かれて眠れなかった。",
+      "meaning_id": "Bayi nangis jadi tidak bisa tidur."
+    },
+    {
+      "pattern": "V sasete kudasai",
+      "question": "___。",
+      "parts": ["明日[あした]", "休[やす]ませて", "ください"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "明日休ませてください。",
+      "meaning_id": "Tolong izinkan saya libur besok."
+    },
+    {
+      "pattern": "V sasete kudasai",
+      "question": "___。",
+      "parts": ["少[すこ]し", "考[かんが]え", "させて", "ください"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "少し考えさせてください。",
+      "meaning_id": "Tolong biarkan saya berpikir sebentar."
+    },
+    {
+      "pattern": "V sasete kudasai",
+      "question": "___。",
+      "parts": ["この", "仕事[しごと]を", "やら", "せて", "ください"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "この仕事をやらせてください。",
+      "meaning_id": "Tolong biarkan saya kerjakan ini."
+    },
+    {
+      "pattern": "V sasete moraitai",
+      "question": "___。",
+      "parts": ["今日[きょう]は", "早[はや]く", "帰[かえ]ら", "せて", "もらえませんか"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "今日は早く帰らせてもらえませんか。",
+      "meaning_id": "Boleh saya pulang lebih awal hari ini?"
+    },
+    {
+      "pattern": "V sasete moraitai",
+      "question": "___。",
+      "parts": ["一度[いちど]", "やら", "せて", "もらえますか"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "一度やらせてもらえますか。",
+      "meaning_id": "Boleh saya coba sekali?"
+    },
+    {
+      "pattern": "V sasete kudasai",
+      "question": "___。",
+      "parts": ["すみません", "電話[でんわ]を", "使[つか]わせて", "ください"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "すみません、電話を使わせてください。",
+      "meaning_id": "Maaf, tolong izinkan saya pakai telepon."
+    },
+    {
+      "pattern": "V sasete moraitai",
+      "question": "___。",
+      "parts": ["この", "資料[しりょう]を", "コピー[こぴー]", "させて", "もらえますか"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "この資料をコピーさせてもらえますか。",
+      "meaning_id": "Boleh saya fotokopi dokumen ini?"
+    },
+    {
+      "pattern": "V te moraemasenka",
+      "question": "___。",
+      "parts": ["これ", "ちょっと", "見[み]て", "もらえませんか"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "これちょっと見てもらえませんか。",
+      "meaning_id": "Tolong lihat ini sebentar."
+    },
+    {
+      "pattern": "V te moraemasenka",
+      "question": "___。",
+      "parts": ["日本語[にほんご]を", "教[おし]えて", "もらえませんか"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "日本語を教えてもらえませんか。",
+      "meaning_id": "Bisakah Anda mengajari saya bahasa Jepang?"
+    },
+    {
+      "pattern": "V te moraemasenka",
+      "question": "___。",
+      "parts": ["駅[えき]への", "行[い]き方[かた]を", "教[おし]えて", "もらえますか"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "駅への行き方を教えてもらえますか。",
+      "meaning_id": "Bisakah tunjukkan cara ke stasiun?"
+    },
+    {
+      "pattern": "V te moraemasenka",
+      "question": "___。",
+      "parts": ["荷物[にもつ]を", "持[も]って", "もらえませんか"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "荷物を持ってもらえませんか。",
+      "meaning_id": "Bisakah Anda bawakan barang saya?"
+    },
+    {
+      "pattern": "V te moraemasenka",
+      "question": "___。",
+      "parts": ["写真[しゃしん]を", "撮[と]って", "もらえますか"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "写真を撮ってもらえますか。",
+      "meaning_id": "Bisakah Anda foto saya?"
+    },
+    {
+      "pattern": "V te moraemasenka",
+      "question": "___。",
+      "parts": ["もう", "少[すこ]し", "安[やす]く", "して", "もらえませんか"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "もう少し安くしてもらえませんか。",
+      "meaning_id": "Bisakah sedikit lebih murah?"
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜（ら）れる (Passive)",
+      "meaning": "Dikenai tindakan (dibuat... / di... oleh...)",
+      "structure": "V-nai stem + れる/られる (G1: く→かれる, ぐ→がれる; G2: られる; G3: される/こられる)",
+      "example": "犬[いぬ]に噛[か]まれた。"
+    },
+    {
+      "title": "〜させてください / 〜させてもらえますか",
+      "meaning": "Tolong izinkan saya... / Boleh saya...?",
+      "structure": "V-nai stem + させてください / させてもらえますか (memohon izin melakukan sesuatu)",
+      "example": "明日[あした]休[やす]ませてください。"
+    },
+    {
+      "title": "〜てもらえませんか / 〜てもらえますか",
+      "meaning": "Bisakah Anda... (untuk saya)?",
+      "structure": "V-te + もらえませんか / もらえますか (permintaan halus)",
+      "example": "日本語[にほんご]を教[おし]えてもらえませんか。"
+    }
+  ]
+}
