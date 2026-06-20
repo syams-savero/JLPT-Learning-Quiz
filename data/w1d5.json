@@ -1,0 +1,212 @@
+{
+  "week": 1,
+  "day": 5,
+  "goi": [
+    { "kanji": "溜まる", "reading": "たまる", "meaning_en": "accumulate / pile up (intransitive)", "meaning_id": "menumpuk" },
+    { "kanji": "濡れている", "reading": "ぬれている", "meaning_en": "is wet", "meaning_id": "sedang basah" },
+    { "kanji": "湿っている", "reading": "しめっている", "meaning_en": "is damp / moist", "meaning_id": "sedang lembab" },
+    { "kanji": "乾く", "reading": "かわく", "meaning_en": "get dry (intransitive)", "meaning_id": "menjadi kering" },
+    { "kanji": "真っ白に仕上がる", "reading": "まっしろにしあがる", "meaning_en": "finish perfectly white", "meaning_id": "jadi putih bersih" },
+    { "kanji": "溜める", "reading": "ためる", "meaning_en": "let accumulate (transitive)", "meaning_id": "menumpuk" },
+    { "kanji": "濡らす", "reading": "ぬらす", "meaning_en": "get wet (transitive)", "meaning_id": "membasahi" },
+    { "kanji": "干す", "reading": "ほす", "meaning_en": "hang out to dry", "meaning_id": "menjemur" },
+    { "kanji": "乾燥機で乾かす", "reading": "かんそうきでかわかす", "meaning_en": "dry with a dryer", "meaning_id": "mengeringkan dengan mesin" },
+    { "kanji": "畳む", "reading": "たたむ", "meaning_en": "fold", "meaning_id": "melipat" },
+    { "kanji": "服を汚す", "reading": "ふくをよごす", "meaning_en": "dirty clothes (transitive)", "meaning_id": "mengotori baju" },
+    { "kanji": "袖が真っ黒に汚れる", "reading": "そでがまっくろによごれる", "meaning_en": "sleeves get pitch black dirty", "meaning_id": "lengan baju jadi hitam" },
+    { "kanji": "汚れ", "reading": "よごれ", "meaning_en": "dirt / stain", "meaning_id": "noda" },
+    { "kanji": "洗剤を入れる", "reading": "せんざいをいれる", "meaning_en": "put in detergent", "meaning_id": "menuangkan detergen" },
+    { "kanji": "洗剤", "reading": "せんざい", "meaning_en": "detergent", "meaning_id": "detergen" },
+    { "kanji": "スーツをクリーニングに出す", "reading": "すーつをくりーにんぐにだす", "meaning_en": "take suit to the cleaners", "meaning_id": "membawa jas ke laundry" },
+    { "kanji": "コインランドリーで洗濯をする", "reading": "こいんらんどりーでせんたくをする", "meaning_en": "do laundry at the laundromat", "meaning_id": "mencuci di laundry koin" },
+    { "kanji": "タオルを干す", "reading": "たおるをほす", "meaning_en": "hang towels to dry", "meaning_id": "menjemur handuk" },
+    { "kanji": "服を吊るす", "reading": "ふくをつるす", "meaning_en": "hang clothes", "meaning_id": "menggantung baju" },
+    { "kanji": "ワイシャツにアイロンをかける", "reading": "わいしゃつにあいろんをかける", "meaning_en": "iron a dress shirt", "meaning_id": "menyetrika kemeja" },
+    { "kanji": "しわを伸ばす", "reading": "しわをのばす", "meaning_en": "remove wrinkles", "meaning_id": "merapikan kerutan" },
+    { "kanji": "しわが伸びる", "reading": "しわがのびる", "meaning_en": "wrinkles smooth out", "meaning_id": "kerutan rapi" },
+    { "kanji": "ウールのセーターが縮む", "reading": "うーるのせーたーがちぢむ", "meaning_en": "wool sweater shrinks", "meaning_id": "sweter wol menyusut" },
+    { "kanji": "ジーンズの色が落ちる", "reading": "じーんずのいろがおちる", "meaning_en": "jeans color fades", "meaning_id": "warna jeans luntur" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "N no you ni / you na",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "鳥[とり]の", "ように", "空[そら]を", "飛[と]べる"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "彼は鳥のように空を飛べる。",
+      "meaning_id": "Dia bisa terbang seperti burung."
+    },
+    {
+      "pattern": "N no you ni / you na",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "花[はな]の", "ような", "笑顔[えがお]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼女は花のような笑顔だ。",
+      "meaning_id": "Dia tersenyum seperti bunga."
+    },
+    {
+      "pattern": "N no you ni / you na",
+      "question": "___。",
+      "parts": ["この", "問題[もんだい]は", "山[やま]の", "ように", "難[むずか]しい"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "この問題は山のように難しい。",
+      "meaning_id": "Soal ini susah bagaikan gunung."
+    },
+    {
+      "pattern": "N no you ni / you na",
+      "question": "___。",
+      "parts": ["氷[こおり]の", "ように", "冷[つめ]たい", "水[みず]"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "氷のように冷たい水。",
+      "meaning_id": "Air sedingin es."
+    },
+    {
+      "pattern": "N no you ni / you na",
+      "question": "___。",
+      "parts": ["夢[ゆめ]の", "ような", "話[はなし]"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "夢のような話。",
+      "meaning_id": "Cerita seperti mimpi."
+    },
+    {
+      "pattern": "N no you ni / you na",
+      "question": "___。",
+      "parts": ["時間[じかん]が", "経[た]つのが", "矢[や]の", "ように", "早[はや]い"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "時間が経つのが矢のように早い。",
+      "meaning_id": "Waktu cepat seperti anak panah."
+    },
+    {
+      "pattern": "N no you ni / you na",
+      "question": "___。",
+      "parts": ["赤[あか]ちゃんの", "ような", "肌[はだ]"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "赤ちゃんのような肌。",
+      "meaning_id": "Kulit seperti bayi."
+    },
+    {
+      "pattern": "N no you ni / you na",
+      "question": "___。",
+      "parts": ["芸者[げいしゃ]の", "ように", "着物[きもの]を", "着[き]ている"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "芸者のように着物を着ている。",
+      "meaning_id": "Pakai kimono seperti geisha."
+    },
+    {
+      "pattern": "V ru / V nai you ni (purpose)",
+      "question": "___。",
+      "parts": ["間に合[まにあ]う", "ように", "走[はし]った"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "間に合うように走った。",
+      "meaning_id": "Berlari supaya sampai tepat waktu."
+    },
+    {
+      "pattern": "V ru / V nai you ni (purpose)",
+      "question": "___。",
+      "parts": ["電車[でんしゃ]に", "乗[の]れる", "ように", "急[いそ]いだ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "電車に乗れるように急いだ。",
+      "meaning_id": "Buru-buru supaya naik kereta."
+    },
+    {
+      "pattern": "V ru / V nai you ni (purpose)",
+      "question": "___。",
+      "parts": ["忘[わす]れない", "ように", "書[か]いておく"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "忘れないように書いておく。",
+      "meaning_id": "Tulis dulu supaya tidak lupa."
+    },
+    {
+      "pattern": "V ru / V nai you ni (purpose)",
+      "question": "___。",
+      "parts": ["誰[だれ]にも", "見[み]つからない", "ように", "隠[かく]れた"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "誰にも見つからないように隠れた。",
+      "meaning_id": "Sembunyi supaya tidak ketahuan."
+    },
+    {
+      "pattern": "V ru / V nai you ni (purpose)",
+      "question": "___。",
+      "parts": ["体[からだ]に", "気[き]をつける", "ように", "言[い]われた"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "体に気をつけるように言われた。",
+      "meaning_id": "Disuruh jaga kesehatan."
+    },
+    {
+      "pattern": "V ru / V nai you ni (purpose)",
+      "question": "___。",
+      "parts": ["日本語[にほんご]が", "上手[じょうず]になる", "ように", "毎日[まいにち]", "練習[れんしゅう]する"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "日本語が上手になるように毎日練習する。",
+      "meaning_id": "Latihan tiap hari supaya jago."
+    },
+    {
+      "pattern": "V ru / V nai you ni (purpose)",
+      "question": "___。",
+      "parts": ["友達[ともだち]が", "泊[と]まれる", "ように", "部屋[へや]を", "片付[かたづ]けた"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "友達が泊まれるように部屋を片付けた。",
+      "meaning_id": "Rapikan kamar supaya teman bisa nginep."
+    },
+    {
+      "pattern": "V masu you ni (wish)",
+      "question": "___。",
+      "parts": ["試験[しけん]に", "合格[ごうかく]します", "ように"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "試験に合格しますように。",
+      "meaning_id": "Semoga lulus ujian."
+    },
+    {
+      "pattern": "V masen you ni (wish)",
+      "question": "___。",
+      "parts": ["明日[あした]", "雨[あめ]が", "降[ふ]りません", "ように"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "明日雨が降りませんように。",
+      "meaning_id": "Semoga besok tidak hujan."
+    },
+    {
+      "pattern": "V masu you ni (wish)",
+      "question": "___。",
+      "parts": ["彼[かれ]の", "病気[びょうき]が", "治[なお]ります", "ように"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼の病気が治りますように。",
+      "meaning_id": "Semoga penyakitnya sembuh."
+    },
+    {
+      "pattern": "V masu you ni (wish)",
+      "question": "___。",
+      "parts": ["無事[ぶじ]に", "帰[かえ]って", "来[き]ます", "ように"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "無事に帰って来ますように。",
+      "meaning_id": "Semoga pulang dengan selamat."
+    },
+    {
+      "pattern": "V remasu you ni (wish)",
+      "question": "___。",
+      "parts": ["いい", "仕事[しごと]に", "就[つ]けます", "ように"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "いい仕事に就けますように。",
+      "meaning_id": "Semoga dapat kerja bagus."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜のように / 〜のような",
+      "meaning": "Seperti / Bagaikan (keserupaan, formal)",
+      "structure": "N + のように (adv) / N + のような + N (attr)",
+      "example": "彼[かれ]は鳥[とり]のように空[そら]を飛[と]べる。"
+    },
+    {
+      "title": "〜るように / 〜ないように (tujuan)",
+      "meaning": "Supaya / Agar",
+      "structure": "V-ru + ように / V-nai + ように",
+      "example": "忘[わす]れないように書[か]いておく。"
+    },
+    {
+      "title": "〜ますように / 〜ませんように / 〜れますように",
+      "meaning": "Semoga... / Saya berharap... (doa/harapan)",
+      "structure": "V-masu + ように / V-masen + ように / V-remasu + ように",
+      "example": "試験[しけん]に合格[ごうかく]しますように。"
+    }
+  ]
+}
