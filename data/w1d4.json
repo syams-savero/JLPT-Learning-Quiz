@@ -1,0 +1,216 @@
+{
+  "week": 1,
+  "day": 4,
+  "goi": [
+    { "kanji": "エプロン", "reading": "えぷろん", "meaning_en": "apron", "meaning_id": "celemek" },
+    { "kanji": "ほうき", "reading": "ほうき", "meaning_en": "broom", "meaning_id": "sapu" },
+    { "kanji": "ちりとり", "reading": "ちりとり", "meaning_en": "dustpan", "meaning_id": "pengki" },
+    { "kanji": "雑巾", "reading": "ぞうきん", "meaning_en": "cleaning cloth", "meaning_id": "lap" },
+    { "kanji": "バケツ", "reading": "ばけつ", "meaning_en": "bucket", "meaning_id": "ember" },
+    { "kanji": "エプロンを付ける", "reading": "えぷろんをつける", "meaning_en": "put on an apron", "meaning_id": "memakai celemek" },
+    { "kanji": "ソファーをどける", "reading": "そふぁーをどける", "meaning_en": "move the sofa aside", "meaning_id": "menyingkirkan sofa" },
+    { "kanji": "ソファーがどく", "reading": "そふぁーがどく", "meaning_en": "the sofa gets moved aside", "meaning_id": "sofa tersingkir" },
+    { "kanji": "部屋を散らかす", "reading": "へやをちらかす", "meaning_en": "mess up the room", "meaning_id": "mengotori kamar" },
+    { "kanji": "部屋が散らかる", "reading": "へやがちらかる", "meaning_en": "room gets messy", "meaning_id": "kamar berantakan" },
+    { "kanji": "部屋を片付ける", "reading": "へやをかたづける", "meaning_en": "tidy up the room", "meaning_id": "merapikan kamar" },
+    { "kanji": "部屋が片付く", "reading": "へやがかたづく", "meaning_en": "room gets tidy", "meaning_id": "kamar rapi" },
+    { "kanji": "ジュースをこぼす", "reading": "じゅーすをこぼす", "meaning_en": "spill juice", "meaning_id": "menumpahkan jus" },
+    { "kanji": "ジュースがこぼれる", "reading": "じゅーすがこぼれる", "meaning_en": "juice spills", "meaning_id": "jus tumpah" },
+    { "kanji": "ほこりが溜まる", "reading": "ほこりがたまる", "meaning_en": "dust accumulates", "meaning_id": "debu menumpuk" },
+    { "kanji": "ほこりが積もる", "reading": "ほこりがつもる", "meaning_en": "dust piles up", "meaning_id": "debu bertumpuk" },
+    { "kanji": "雪が積もる", "reading": "ゆきがつもる", "meaning_en": "snow piles up", "meaning_id": "salju menumpuk" },
+    { "kanji": "ほこりを取る", "reading": "ほこりをとる", "meaning_en": "remove dust", "meaning_id": "membersihkan debu" },
+    { "kanji": "掃除機をかける", "reading": "そうじきをかける", "meaning_en": "vacuum", "meaning_id": "menyedot debu" },
+    { "kanji": "床を拭く", "reading": "ゆかをふく", "meaning_en": "wipe the floor", "meaning_id": "mengelap lantai" },
+    { "kanji": "ほうきで掃く", "reading": "ほうきではく", "meaning_en": "sweep with a broom", "meaning_id": "menyapu" },
+    { "kanji": "布巾で食器を拭く", "reading": "ふきんでしょっきをふく", "meaning_en": "wipe dishes with a cloth", "meaning_id": "mengelap piring" },
+    { "kanji": "水をくむ", "reading": "みずをくむ", "meaning_en": "draw water", "meaning_id": "menimba air" },
+    { "kanji": "台布巾でテーブルを拭く", "reading": "だいふきんでてーぶるをふく", "meaning_en": "wipe table with a dishcloth", "meaning_id": "mengelap meja" },
+    { "kanji": "雑巾を濡らす", "reading": "ぞうきんをぬらす", "meaning_en": "wet the cleaning cloth", "meaning_id": "membasahi lap" },
+    { "kanji": "家具を磨く", "reading": "かぐをみがく", "meaning_en": "polish furniture", "meaning_id": "mengilapkan furnitur" },
+    { "kanji": "雑巾を絞る", "reading": "ぞうきんをしぼる", "meaning_en": "wring out the cloth", "meaning_id": "memeras lap" },
+    { "kanji": "ブラシでこする", "reading": "ぶらしでこする", "meaning_en": "scrub with a brush", "meaning_id": "menggosok dengan sikat" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V ru you ni suru",
+      "question": "___。",
+      "parts": ["毎日[まいにち]", "運動[うんどう]する", "ようにしている"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "毎日運動するようにしている。",
+      "meaning_id": "Saya usahakan olahraga setiap hari."
+    },
+    {
+      "pattern": "V ru you ni suru",
+      "question": "___。",
+      "parts": ["野菜[やさい]を", "多[おお]く", "食[た]べる", "ようにしている"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "野菜を多く食べるようにしている。",
+      "meaning_id": "Saya usahakan makan banyak sayur."
+    },
+    {
+      "pattern": "V nai you ni suru",
+      "question": "___。",
+      "parts": ["遅刻[ちこく]しない", "ようにしている"],
+      "correct_order": [0, 1],
+      "full_sentence": "遅刻しないようにしている。",
+      "meaning_id": "Saya usahakan tidak terlambat."
+    },
+    {
+      "pattern": "V nai you ni",
+      "question": "___。",
+      "parts": ["忘[わす]れない", "ように", "メモ[めも]を", "取[と]る"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "忘れないようにメモを取る。",
+      "meaning_id": "Catat supaya tidak lupa."
+    },
+    {
+      "pattern": "V ru you ni suru",
+      "question": "___。",
+      "parts": ["日本語[にほんご]で", "話[はな]す", "ようにしている"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "日本語で話すようにしている。",
+      "meaning_id": "Saya usahakan bicara bahasa Jepang."
+    },
+    {
+      "pattern": "V nai you ni suru",
+      "question": "___。",
+      "parts": ["夜[よる]", "コーヒー[こーひー]を", "飲[の]まない", "ようにしている"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "夜コーヒーを飲まないようにしている。",
+      "meaning_id": "Saya usahakan tidak minum kopi malam."
+    },
+    {
+      "pattern": "V ru you ni suru",
+      "question": "___。",
+      "parts": ["部屋[へや]を", "片付[かたづ]ける", "ようにしている"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "部屋を片付けるようにしている。",
+      "meaning_id": "Saya usahakan merapikan kamar."
+    },
+    {
+      "pattern": "V ru you ni",
+      "question": "___。",
+      "parts": ["合格[ごうかく]できる", "ように", "毎日[まいにち]", "勉強[べんきょう]する"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "合格できるように毎日勉強する。",
+      "meaning_id": "Belajar setiap hari supaya bisa lulus."
+    },
+    {
+      "pattern": "V ru you ni",
+      "question": "___。",
+      "parts": ["よく", "見[み]える", "ように", "前[まえ]に", "出[で]た"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "よく見えるように前に出た。",
+      "meaning_id": "Maju ke depan supaya bisa lihat jelas."
+    },
+    {
+      "pattern": "V nai you ni",
+      "question": "___。",
+      "parts": ["電車[でんしゃ]に", "遅[おく]れない", "ように", "早[はや]く", "家[いえ]を出[で]た"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "電車に遅れないように早く家を出た。",
+      "meaning_id": "Berangkat pagi supaya tidak ketinggalan kereta."
+    },
+    {
+      "pattern": "V ru you ni",
+      "question": "___。",
+      "parts": ["赤[あか]ちゃんが", "眠[ねむ]れる", "ように", "静[しず]かにしている"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "赤ちゃんが眠れるように静かにしている。",
+      "meaning_id": "Diam supaya bayi bisa tidur."
+    },
+    {
+      "pattern": "V ru you ni",
+      "question": "___。",
+      "parts": ["誰[だれ]でも", "分[わ]かる", "ように", "簡単[かんたん]に", "説明[せつめい]した"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "誰でも分かるように簡単に説明した。",
+      "meaning_id": "Jelaskan sederhana supaya semua mengerti."
+    },
+    {
+      "pattern": "V nai you ni",
+      "question": "___。",
+      "parts": ["風邪[かぜ]を", "引[ひ]かない", "ように", "気[き]をつける"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "風邪を引かないように気をつける。",
+      "meaning_id": "Hati-hati supaya tidak masuk angin."
+    },
+    {
+      "pattern": "V ru you ni",
+      "question": "___。",
+      "parts": ["子供[こども]に", "読[よ]める", "ように", "ふりがな[ふりがな]を", "振[ふ]った"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "子供に読めるようにふりがなを振った。",
+      "meaning_id": "Memberi furigana supaya anak bisa baca."
+    },
+    {
+      "pattern": "V ru you ni naru",
+      "question": "___。",
+      "parts": ["日本語[にほんご]が", "少[すこ]し", "話[はな]せる", "ようになった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "日本語が少し話せるようになった。",
+      "meaning_id": "Jadi bisa bicara bahasa Jepang sedikit."
+    },
+    {
+      "pattern": "V ru you ni naru",
+      "question": "___。",
+      "parts": ["一人[ひとり]で", "料理[りょうり]が", "できる", "ようになった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "一人で料理ができるようになった。",
+      "meaning_id": "Jadi bisa masak sendiri."
+    },
+    {
+      "pattern": "V ru you ni naru",
+      "question": "___。",
+      "parts": ["最近[さいきん]", "早[はや]く", "起[お]きられる", "ようになった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "最近早く起きられるようになった。",
+      "meaning_id": "Akhir-akhir ini jadi bisa bangun pagi."
+    },
+    {
+      "pattern": "V ru you ni naru",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "野菜[やさい]を", "食[た]べる", "ようになった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は野菜を食べるようになった。",
+      "meaning_id": "Dia jadi mau makan sayur."
+    },
+    {
+      "pattern": "V ru you ni naru",
+      "question": "___。",
+      "parts": ["娘[むすめ]は", "自分[じぶん]で", "服[ふく]を", "選[えら]ぶ", "ようになった"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "娘は自分で服を選ぶようになった。",
+      "meaning_id": "Anak perempuan jadi pilih baju sendiri."
+    },
+    {
+      "pattern": "V ru you ni naru",
+      "question": "___。",
+      "parts": ["毎朝[まいあさ]", "散歩[さんぽ]する", "ようになった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "毎朝散歩するようになった。",
+      "meaning_id": "Jadi jalan-jalan setiap pagi."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜ようにする / 〜ないようにする",
+      "meaning": "Berusaha / Memastikan untuk (melakukan / tidak melakukan)",
+      "structure": "V-ru + ようにする / V-nai + ようにする",
+      "example": "毎日[まいにち]運動[うんどう]するようにしている。"
+    },
+    {
+      "title": "〜ように (tujuan)",
+      "meaning": "Supaya / Agar (menyatakan tujuan)",
+      "structure": "V-ru/V-nai/V-potential + ように + klausa",
+      "example": "合格[ごうかく]できるように毎日[まいにち]勉強[べんきょう]する。"
+    },
+    {
+      "title": "〜ようになる",
+      "meaning": "Menjadi... / Sampai pada tahap... (perubahan kemampuan/kebiasaan)",
+      "structure": "V-ru + ようになる (perubahan ke keadaan baru)",
+      "example": "日本語[にほんご]が少[すこ]し話[はな]せるようになった。"
+    }
+  ]
+}
