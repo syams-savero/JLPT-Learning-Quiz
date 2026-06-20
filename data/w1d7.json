@@ -1,0 +1,262 @@
+{
+  "week": 1,
+  "day": 7,
+  "goi": [
+    { "kanji": "電子レンジ", "reading": "でんしれんじ", "meaning_en": "microwave", "meaning_id": "microwave" },
+    { "kanji": "コーヒーカップ", "reading": "こーひーかっぷ", "meaning_en": "coffee cup", "meaning_id": "cangkir kopi" },
+    { "kanji": "天井", "reading": "てんじょう", "meaning_en": "ceiling", "meaning_id": "langit-langit" },
+    { "kanji": "床", "reading": "ゆか", "meaning_en": "floor", "meaning_id": "lantai" },
+    { "kanji": "電源を入れる", "reading": "でんげんをいれる", "meaning_en": "turn on power", "meaning_id": "menyalakan listrik" },
+    { "kanji": "大さじ", "reading": "おおさじ", "meaning_en": "tablespoon", "meaning_id": "sendok besar" },
+    { "kanji": "包丁", "reading": "ほうちょう", "meaning_en": "kitchen knife", "meaning_id": "pisau dapur" },
+    { "kanji": "調味料", "reading": "ちょうみりょう", "meaning_en": "seasoning", "meaning_id": "bumbu dapur" },
+    { "kanji": "材料を刻む", "reading": "ざいりょうをきざむ", "meaning_en": "chop ingredients", "meaning_id": "mencincang bahan" },
+    { "kanji": "アルミホイル", "reading": "あるみほいる", "meaning_en": "aluminum foil", "meaning_id": "aluminium foil" },
+    { "kanji": "蓋", "reading": "ふた", "meaning_en": "lid", "meaning_id": "tutup" },
+    { "kanji": "フライパン", "reading": "ふらいぱん", "meaning_en": "frying pan", "meaning_id": "teflon" },
+    { "kanji": "混ぜる", "reading": "まぜる", "meaning_en": "mix", "meaning_id": "mengaduk" },
+    { "kanji": "炒める", "reading": "いためる", "meaning_en": "stir-fry", "meaning_id": "menumis" },
+    { "kanji": "焦げる", "reading": "こげる", "meaning_en": "burn / scorch", "meaning_id": "gosong" },
+    { "kanji": "掃除機をかける", "reading": "そうじきをかける", "meaning_en": "vacuum", "meaning_id": "menyedot debu" },
+    { "kanji": "床を拭く", "reading": "ゆかをふく", "meaning_en": "wipe the floor", "meaning_id": "mengelap lantai" },
+    { "kanji": "部屋を片付ける", "reading": "へやをかたづける", "meaning_en": "tidy up the room", "meaning_id": "merapikan kamar" },
+    { "kanji": "雑巾を絞る", "reading": "ぞうきんをしぼる", "meaning_en": "wring out the cloth", "meaning_id": "memeras lap" },
+    { "kanji": "ブラシでこする", "reading": "ぶらしでこする", "meaning_en": "scrub with a brush", "meaning_id": "menggosok dengan sikat" },
+    { "kanji": "服を汚す", "reading": "ふくをよごす", "meaning_en": "dirty clothes", "meaning_id": "mengotori baju" },
+    { "kanji": "洗剤", "reading": "せんざい", "meaning_en": "detergent", "meaning_id": "detergen" },
+    { "kanji": "タオルを干す", "reading": "たおるをほす", "meaning_en": "hang towels to dry", "meaning_id": "menjemur handuk" },
+    { "kanji": "しわを伸ばす", "reading": "しわをのばす", "meaning_en": "remove wrinkles", "meaning_id": "merapikan kerutan" },
+    { "kanji": "ウールのセーターが縮む", "reading": "うーるのせーたーがちぢむ", "meaning_en": "wool sweater shrinks", "meaning_id": "sweter wol menyusut" },
+    { "kanji": "可哀想な", "reading": "かわいそうな", "meaning_en": "pitiful", "meaning_id": "kasihan" },
+    { "kanji": "わがままな", "reading": "わがままな", "meaning_en": "selfish / spoiled", "meaning_id": "manja" },
+    { "kanji": "吠える", "reading": "ほえる", "meaning_en": "bark", "meaning_id": "menggonggong" },
+    { "kanji": "尻尾を振る", "reading": "しっぽをふる", "meaning_en": "wag the tail", "meaning_id": "mengibas-ngibaskan ekor" },
+    { "kanji": "甘やかす", "reading": "あまやかす", "meaning_en": "spoil / pamper", "meaning_id": "memanjakan" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["先生[せんせい]に", "褒[ほ]め", "られた"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "先生に褒められた。",
+      "meaning_id": "Dipuji oleh guru."
+    },
+    {
+      "pattern": "V reru (passive)",
+      "question": "___。",
+      "parts": ["友達[ともだち]に", "来[こ]られて", "勉強[べんきょう]が", "できなかった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "友達に来られて勉強ができなかった。",
+      "meaning_id": "Teman datang jadi tidak bisa belajar."
+    },
+    {
+      "pattern": "V sasete kudasai",
+      "question": "___。",
+      "parts": ["明日[あした]", "休[やす]ませて", "ください"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "明日休ませてください。",
+      "meaning_id": "Tolong izinkan libur besok."
+    },
+    {
+      "pattern": "V sasete moraitai",
+      "question": "___。",
+      "parts": ["少[すこ]し", "考[かんが]え", "させて", "もらえますか"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "少し考えさせてもらえますか。",
+      "meaning_id": "Boleh saya pikir sebentar?"
+    },
+    {
+      "pattern": "V te moraemasenka",
+      "question": "___。",
+      "parts": ["写真[しゃしん]を", "撮[と]って", "もらえますか"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "写真を撮ってもらえますか。",
+      "meaning_id": "Bisa foto saya?"
+    },
+    {
+      "pattern": "V te moraemasenka",
+      "question": "___。",
+      "parts": ["もう", "少[すこ]し", "安[やす]く", "して", "もらえませんか"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "もう少し安くしてもらえませんか。",
+      "meaning_id": "Bisa lebih murah?"
+    },
+    {
+      "pattern": "V naito",
+      "question": "___。",
+      "parts": ["宿題[しゅくだい]を", "出[だ]さないと"],
+      "correct_order": [0, 1],
+      "full_sentence": "宿題を出さないと。",
+      "meaning_id": "Harus kumpulin PR."
+    },
+    {
+      "pattern": "V nakucha",
+      "question": "___。",
+      "parts": ["ご飯[はん]を", "食[た]べ", "なくちゃ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "ご飯を食べなくちゃ。",
+      "meaning_id": "Harus makan."
+    },
+    {
+      "pattern": "V chau / V jau",
+      "question": "___。",
+      "parts": ["ケーキ[けーき]を", "全部[ぜんぶ]", "食[た]べ", "ちゃった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "ケーキを全部食べちゃった。",
+      "meaning_id": "Kuenya habis termakan."
+    },
+    {
+      "pattern": "V chau / V jau",
+      "question": "___。",
+      "parts": ["花瓶[かびん]を", "割[わ]っ", "ちゃった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "花瓶を割っちゃった。",
+      "meaning_id": "Vasnya pecah."
+    },
+    {
+      "pattern": "V toku",
+      "question": "___。",
+      "parts": ["電気[でんき]を", "消[け]し", "とく"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "電気を消しとく。",
+      "meaning_id": "Matiin lampu dulu."
+    },
+    {
+      "pattern": "V doku",
+      "question": "___。",
+      "parts": ["薬[くすり]を", "飲[の]ん", "どく"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "薬を飲んどく。",
+      "meaning_id": "Minum obat dulu."
+    },
+    {
+      "pattern": "N mitaida / mitaina",
+      "question": "___。",
+      "parts": ["あの雲[くも]は", "綿菓子[わたがし]", "みたいだ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "あの雲は綿菓子みたいだ。",
+      "meaning_id": "Awan itu seperti permen kapas."
+    },
+    {
+      "pattern": "N mitaini",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "魚[さかな]", "みたいに", "泳[およ]げる"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は魚みたいに泳げる。",
+      "meaning_id": "Dia berenang seperti ikan."
+    },
+    {
+      "pattern": "N rashii",
+      "question": "___。",
+      "parts": ["今日[きょう]は", "春[はる]", "らしい", "天気[てんき]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "今日は春らしい天気だ。",
+      "meaning_id": "Cuaca khas musim semi."
+    },
+    {
+      "pattern": "N rashii",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "先生[せんせい]", "らしくない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼は先生らしくない。",
+      "meaning_id": "Dia tidak seperti guru."
+    },
+    {
+      "pattern": "N ppoi",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "子供[こども]", "っぽい"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼は子供っぽい。",
+      "meaning_id": "Dia kekanak-kanakan."
+    },
+    {
+      "pattern": "V ppoi",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "忘[わす]れ", "っぽい"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼女は忘れっぽい。",
+      "meaning_id": "Dia pelupa."
+    },
+    {
+      "pattern": "V yo ni suru",
+      "question": "___。",
+      "parts": ["毎日[まいにち]", "運動[うんどう]する", "ようにしている"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "毎日運動するようにしている。",
+      "meaning_id": "Usahakan olahraga setiap hari."
+    },
+    {
+      "pattern": "V yo ni naru",
+      "question": "___。",
+      "parts": ["一人[ひとり]で", "料理[りょうり]が", "できる", "ようになった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "一人で料理ができるようになった。",
+      "meaning_id": "Jadi bisa masak sendiri."
+    },
+    {
+      "pattern": "V masu you ni (wish)",
+      "question": "___。",
+      "parts": ["試験[しけん]に", "合格[ごうかく]します", "ように"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "試験に合格しますように。",
+      "meaning_id": "Semoga lulus ujian."
+    },
+    {
+      "pattern": "V masen you ni (wish)",
+      "question": "___。",
+      "parts": ["明日[あした]", "雨[あめ]が", "降[ふ]りません", "ように"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "明日雨が降りませんように。",
+      "meaning_id": "Semoga besok tidak hujan."
+    },
+    {
+      "pattern": "V you to omou",
+      "question": "___。",
+      "parts": ["日本[にほん]に", "留学[りゅうがく]しよう", "と思っている"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "日本に留学しようと思っている。",
+      "meaning_id": "Berpikir untuk kuliah di Jepang."
+    },
+    {
+      "pattern": "V you to suru",
+      "question": "___。",
+      "parts": ["ドア[どあ]を", "開[あ]けよう", "とした"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "ドアを開けようとした。",
+      "meaning_id": "Mencoba membuka pintu."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜（ら）れる / 〜させてください / 〜てもらえませんか",
+      "meaning": "Passif / Minta izin / Minta tolong",
+      "structure": "V-nai stem + れる/られる / V-nai stem + させてください / V-te + もらえませんか",
+      "example": "先生[せんせい]に褒[ほ]められた。"
+    },
+    {
+      "title": "〜ないと / 〜なくちゃ / 〜ちゃう/じゃう / 〜とく/どく",
+      "meaning": "Harus / Tidak sengaja / Persiapan (bentuk lisan)",
+      "structure": "V-nai + ないと/なくちゃ / V-te/de + ちゃう/じゃう / V-te/de + とく/どく",
+      "example": "電気[でんき]を消[け]しとく。"
+    },
+    {
+      "title": "〜みたいだ / 〜らしい / 〜っぽい",
+      "meaning": "Seperti / Khas / -ish (keserupaan)",
+      "structure": "N + みたいだ / らしい / っぽい",
+      "example": "彼[かれ]は子供[こども]っぽい。"
+    },
+    {
+      "title": "〜ようにする / 〜ようになる / 〜ますように",
+      "meaning": "Berusaha / Menjadi / Semoga",
+      "structure": "V-ru + ようにする / V-ru + ようになる / V-masu + ように",
+      "example": "毎日[まいにち]運動[うんどう]するようにしている。"
+    },
+    {
+      "title": "〜う/ようと思う / 〜う/ようとする",
+      "meaning": "Berniat / Mencoba",
+      "structure": "V-volitional + と思う / とする",
+      "example": "日本[にほん]に留学[りゅうがく]しようと思っている。"
+    }
+  ]
+}
