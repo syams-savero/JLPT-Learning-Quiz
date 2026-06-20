@@ -1,0 +1,214 @@
+{
+  "week": 1,
+  "day": 2,
+  "goi": [
+    { "kanji": "大さじ", "reading": "おおさじ", "meaning_en": "tablespoon", "meaning_id": "sendok besar (takaran)" },
+    { "kanji": "小さじ", "reading": "こさじ", "meaning_en": "teaspoon", "meaning_id": "sendok teh (takaran)" },
+    { "kanji": "１カップ", "reading": "いちかっぷ", "meaning_en": "one cup", "meaning_id": "satu cangkir (200ml)" },
+    { "kanji": "１リットル", "reading": "いちりっとる", "meaning_en": "one liter", "meaning_id": "satu liter" },
+    { "kanji": "包丁", "reading": "ほうちょう", "meaning_en": "kitchen knife", "meaning_id": "pisau dapur" },
+    { "kanji": "まな板", "reading": "まないた", "meaning_en": "cutting board", "meaning_id": "talenan" },
+    { "kanji": "１００グラム", "reading": "ひゃくぐらむ", "meaning_en": "100 grams", "meaning_id": "100 gram" },
+    { "kanji": "秤", "reading": "はかり", "meaning_en": "scale", "meaning_id": "timbangan" },
+    { "kanji": "夕食のおかず", "reading": "ゆうしょくのおかず", "meaning_en": "dinner side dish", "meaning_id": "lauk makan malam" },
+    { "kanji": "調味料", "reading": "ちょうみりょう", "meaning_en": "seasoning", "meaning_id": "bumbu dapur" },
+    { "kanji": "栄養のバランスを考える", "reading": "えいようのばらんすをかんがえる", "meaning_en": "consider nutritional balance", "meaning_id": "memikirkan keseimbangan gizi" },
+    { "kanji": "酒", "reading": "さけ", "meaning_en": "alcohol / sake", "meaning_id": "alkohol / sake" },
+    { "kanji": "カロリーが高い食品", "reading": "かるりーがたかいしょくひん", "meaning_en": "high-calorie food", "meaning_id": "makanan tinggi kalori" },
+    { "kanji": "酢", "reading": "す", "meaning_en": "vinegar", "meaning_id": "cuka" },
+    { "kanji": "秤で測る", "reading": "はかりではかる", "meaning_en": "measure with a scale", "meaning_id": "mengukur dengan timbangan" },
+    { "kanji": "サラダ油", "reading": "さらだあぶら", "meaning_en": "salad oil", "meaning_id": "minyak salad" },
+    { "kanji": "塩を少々入れる", "reading": "しおをしょうしょういれる", "meaning_en": "add a pinch of salt", "meaning_id": "tambahkan sedikit garam" },
+    { "kanji": "天ぷら油", "reading": "てんぷらあぶら", "meaning_en": "tempura oil", "meaning_id": "minyak goreng tempura" },
+    { "kanji": "皮をむく", "reading": "かわをむく", "meaning_en": "peel the skin", "meaning_id": "mengupas kulit" },
+    { "kanji": "味噌汁がぬるくなる", "reading": "みそしるがぬるくなる", "meaning_en": "miso soup gets lukewarm", "meaning_id": "sup miso jadi hangat" },
+    { "kanji": "材料を刻む", "reading": "ざいりょうをきざむ", "meaning_en": "chop ingredients", "meaning_id": "mencincang bahan" },
+    { "kanji": "ラップをかぶせる", "reading": "らっぷをかぶせる", "meaning_en": "cover with plastic wrap", "meaning_id": "menutup dengan plastik wrap" },
+    { "kanji": "大きめに切る", "reading": "おおきめにきる", "meaning_en": "cut into larger pieces", "meaning_id": "memotong agak besar" },
+    { "kanji": "３センチ切る", "reading": "さんせんちきる", "meaning_en": "cut into 3 cm pieces", "meaning_id": "potong 3 cm" },
+    { "kanji": "ラップでくるむ", "reading": "らっぷでくるむ", "meaning_en": "wrap in plastic wrap", "meaning_id": "membungkus dengan plastik" },
+    { "kanji": "アルミホイル", "reading": "あるみほいる", "meaning_en": "aluminum foil", "meaning_id": "aluminium foil" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V naito",
+      "question": "明日___。",
+      "parts": ["早[はや]く", "起[お]きないと"],
+      "correct_order": [0, 1],
+      "full_sentence": "明日早く起きないと。",
+      "meaning_id": "Besok harus bangun pagi."
+    },
+    {
+      "pattern": "V naito",
+      "question": "___。",
+      "parts": ["宿題[しゅくだい]を", "出[だ]さないと"],
+      "correct_order": [0, 1],
+      "full_sentence": "宿題を出さないと。",
+      "meaning_id": "Harus kumpulin PR."
+    },
+    {
+      "pattern": "V naito",
+      "question": "___。",
+      "parts": ["薬[くすり]を", "飲[の]まないと"],
+      "correct_order": [0, 1],
+      "full_sentence": "薬を飲まないと。",
+      "meaning_id": "Harus minum obat."
+    },
+    {
+      "pattern": "V naito",
+      "question": "___。",
+      "parts": ["勉強[べんきょう]しないと", "試験[しけん]に", "受[う]からない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "勉強しないと試験に受からない。",
+      "meaning_id": "Kalau tidak belajar, tidak lulus ujian."
+    },
+    {
+      "pattern": "V nakucha",
+      "question": "___。",
+      "parts": ["行[い]か", "なくちゃ"],
+      "correct_order": [0, 1],
+      "full_sentence": "行かなくちゃ。",
+      "meaning_id": "Harus pergi."
+    },
+    {
+      "pattern": "V nakucha",
+      "question": "___。",
+      "parts": ["お金[かね]を", "払[はら]わ", "なくちゃ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "お金を払わなくちゃ。",
+      "meaning_id": "Harus bayar."
+    },
+    {
+      "pattern": "V nakucha",
+      "question": "___。",
+      "parts": ["ご飯[はん]を", "食[た]べ", "なくちゃ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "ご飯を食べなくちゃ。",
+      "meaning_id": "Harus makan."
+    },
+    {
+      "pattern": "V nakucha",
+      "question": "___。",
+      "parts": ["部屋[へや]を", "掃除[そうじ]し", "なくちゃ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "部屋を掃除しなくちゃ。",
+      "meaning_id": "Harus bersihin kamar."
+    },
+    {
+      "pattern": "V chau / V jau",
+      "question": "___。",
+      "parts": ["宿題[しゅくだい]を", "忘[わす]れ", "ちゃった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "宿題を忘れちゃった。",
+      "meaning_id": "Aduh, lupa PR."
+    },
+    {
+      "pattern": "V chau / V jau",
+      "question": "___。",
+      "parts": ["ケーキ[けーき]を", "全部[ぜんぶ]", "食[た]べ", "ちゃった"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "ケーキを全部食べちゃった。",
+      "meaning_id": "Kuenya habis termakan."
+    },
+    {
+      "pattern": "V chau / V jau",
+      "question": "___。",
+      "parts": ["花瓶[かびん]を", "割[わ]っ", "ちゃった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "花瓶を割っちゃった。",
+      "meaning_id": "Aduh, vasnya pecah."
+    },
+    {
+      "pattern": "V chau / V jau",
+      "question": "___。",
+      "parts": ["友達[ともだち]と", "遊[あそ]ん", "じゃった"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "友達と遊んじゃった。",
+      "meaning_id": "(Akhirnya) main sama teman."
+    },
+    {
+      "pattern": "V toku",
+      "question": "___。",
+      "parts": ["電気[でんき]を", "消[け]し", "とく"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "電気を消しとく。",
+      "meaning_id": "Matiin lampu dulu."
+    },
+    {
+      "pattern": "V toku",
+      "question": "___。",
+      "parts": ["明日[あした]の", "準備[じゅんび]を", "し", "とく"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "明日の準備をしとく。",
+      "meaning_id": "Siapin untuk besok."
+    },
+    {
+      "pattern": "V toku",
+      "question": "___。",
+      "parts": ["肉[にく]を", "冷蔵庫[れいぞうこ]に", "入[い]れ", "とく"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "肉を冷蔵庫に入れとく。",
+      "meaning_id": "Simpan daging di kulkas dulu."
+    },
+    {
+      "pattern": "V toku",
+      "question": "___。",
+      "parts": ["窓[まど]を", "開[あ]け", "とく"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "窓を開けとく。",
+      "meaning_id": "Buka jendela dulu."
+    },
+    {
+      "pattern": "V doku",
+      "question": "___。",
+      "parts": ["友達[ともだち]を", "呼[よ]ん", "どく"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "友達を呼んどく。",
+      "meaning_id": "Panggil teman dulu."
+    },
+    {
+      "pattern": "V doku",
+      "question": "___。",
+      "parts": ["薬[くすり]を", "飲[の]ん", "どく"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "薬を飲んどく。",
+      "meaning_id": "Minum obat dulu."
+    },
+    {
+      "pattern": "V doku",
+      "question": "___。",
+      "parts": ["明日[あした]", "までに", "本[ほん]を", "読[よ]ん", "どく"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "明日までに本を読んどく。",
+      "meaning_id": "Baca buku sampai besok."
+    },
+    {
+      "pattern": "V doku",
+      "question": "___。",
+      "parts": ["ゆっくり", "休[やす]ん", "どく"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "ゆっくり休んどく。",
+      "meaning_id": "Istirahat dulu."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜ないと / 〜なくちゃ",
+      "meaning": "Harus... / Kalau tidak... maka... (bentuk lisan singkat)",
+      "structure": "V-nai stem + ないと / V-nai stem + なくちゃ (dari 〜ないといけない / 〜なくちゃいけない)",
+      "example": "早[はや]く起[お]きないと。"
+    },
+    {
+      "title": "〜ちゃう / 〜じゃう",
+      "meaning": "Melakukan dengan tidak sengaja / Melakukan sepenuhnya (bentuk lisan 〜てしまう)",
+      "structure": "V-te + ちゃう / V-de + じゃう (G1: 読む→読んじゃう, G2: 食べる→食べちゃう, G3: する→しちゃう, 来る→来ちゃう)",
+      "example": "宿題[しゅくだい]を忘[わす]れちゃった。"
+    },
+    {
+      "title": "〜とく / 〜どく",
+      "meaning": "Melakukan sesuatu untuk persiapan / Melakukan di muka (bentuk lisan 〜ておく)",
+      "structure": "V-te + とく / V-de + どく (G1: 読む→読んどく, G2: 食べる→食べとく, G3: する→しとく, 来る→来とく)",
+      "example": "電気[でんき]を消[け]しとく。"
+    }
+  ]
+}
