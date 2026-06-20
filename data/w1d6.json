@@ -1,0 +1,222 @@
+{
+  "week": 1,
+  "day": 6,
+  "goi": [
+    { "kanji": "可愛らしい", "reading": "かわいらしい", "meaning_en": "lovely / cute", "meaning_id": "manis / imut" },
+    { "kanji": "可哀想な", "reading": "かわいそうな", "meaning_en": "pitiful", "meaning_id": "kasihan" },
+    { "kanji": "行儀がいい", "reading": "ぎょうぎがいい", "meaning_en": "well-behaved", "meaning_id": "sopan santun" },
+    { "kanji": "利口な / 賢い", "reading": "りこうな / かしこい", "meaning_en": "smart / clever", "meaning_id": "pintar / cerdik" },
+    { "kanji": "人懐っこい", "reading": "ひとなつっこい", "meaning_en": "friendly / affectionate", "meaning_id": "ramah / akrab" },
+    { "kanji": "わがままな", "reading": "わがままな", "meaning_en": "selfish / spoiled", "meaning_id": "manja / egois" },
+    { "kanji": "生意気な", "reading": "なまいきな", "meaning_en": "cheeky / impudent", "meaning_id": "sombong / kurang ajar" },
+    { "kanji": "生意気な態度", "reading": "なまいきなたいど", "meaning_en": "cheeky attitude", "meaning_id": "sikap sombong" },
+    { "kanji": "吠える", "reading": "ほえる", "meaning_en": "bark", "meaning_id": "menggonggong" },
+    { "kanji": "尻尾を振る", "reading": "しっぽをふる", "meaning_en": "wag the tail", "meaning_id": "mengibas-ngibaskan ekor" },
+    { "kanji": "人に慣れる", "reading": "ひとになれる", "meaning_en": "get used to people", "meaning_id": "akrab dengan orang" },
+    { "kanji": "唸る", "reading": "うなる", "meaning_en": "growl", "meaning_id": "menggeram" },
+    { "kanji": "穴を掘る", "reading": "あなをほる", "meaning_en": "dig a hole", "meaning_id": "menggali lubang" },
+    { "kanji": "穴を埋める", "reading": "あなをうめる", "meaning_en": "fill a hole", "meaning_id": "mengisi lubang" },
+    { "kanji": "甘やかす", "reading": "あまやかす", "meaning_en": "spoil / pamper", "meaning_id": "memanjakan" },
+    { "kanji": "可愛がる", "reading": "かわいがる", "meaning_en": "love / dote on", "meaning_id": "menyayangi" },
+    { "kanji": "おんぶする", "reading": "おんぶする", "meaning_en": "carry on one's back", "meaning_id": "menggendong di punggung" },
+    { "kanji": "抱っこする", "reading": "だっこする", "meaning_en": "hold in one's arms", "meaning_id": "menggendong di depan" },
+    { "kanji": "育児", "reading": "いくじ", "meaning_en": "childcare", "meaning_id": "pengasuhan anak" },
+    { "kanji": "偉い", "reading": "えらい", "meaning_en": "great / admirable", "meaning_id": "hebat / baik" },
+    { "kanji": "幼児（幼い子供）", "reading": "ようじ（おさないこども）", "meaning_en": "toddler / small child", "meaning_id": "balita / anak kecil" },
+    { "kanji": "頭を撫でる", "reading": "あたまをなでる", "meaning_en": "pat one's head", "meaning_id": "mengusap kepala" },
+    { "kanji": "子供が成長する", "reading": "こどもがせいちょうする", "meaning_en": "child grows up", "meaning_id": "anak tumbuh besar" },
+    { "kanji": "わがままに育つ", "reading": "わがままにそだつ", "meaning_en": "grow up spoiled", "meaning_id": "tumbuh manja" },
+    { "kanji": "尻を叩く / 打つ", "reading": "しりをたたく / ぶつ", "meaning_en": "spank the bottom", "meaning_id": "memukul bokong" },
+    { "kanji": "いたずらをする", "reading": "いたずらをする", "meaning_en": "play pranks", "meaning_id": "berbuat nakal" },
+    { "kanji": "いたずらな", "reading": "いたずらな", "meaning_en": "naughty / mischievous", "meaning_id": "nakal" },
+    { "kanji": "手を繋ぐ", "reading": "てをつなぐ", "meaning_en": "hold hands", "meaning_id": "bergandengan tangan" },
+    { "kanji": "放す", "reading": "はなす", "meaning_en": "let go / release", "meaning_id": "melepas" },
+    { "kanji": "子供が迷子になる", "reading": "こどもがまいごになる", "meaning_en": "child gets lost", "meaning_id": "anak tersesat" },
+    { "kanji": "子供が母親の後を追っていく", "reading": "こどもがははおやのあとをおっていく", "meaning_en": "child follows mother", "meaning_id": "anak mengikuti ibu" },
+    { "kanji": "犬を飼う", "reading": "いぬをかう", "meaning_en": "keep a dog", "meaning_id": "memelihara anjing" },
+    { "kanji": "散歩に連れていく", "reading": "さんぽにつれていく", "meaning_en": "take for a walk", "meaning_id": "mengajak jalan-jalan" },
+    { "kanji": "犬に餌をやる / 与える", "reading": "いぬにえさをやる / あたえる", "meaning_en": "feed the dog", "meaning_id": "memberi makan anjing" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "V you to omou",
+      "question": "___。",
+      "parts": ["明日[あした]", "勉強[べんきょう]しよう", "と思う"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "明日勉強しようと思う。",
+      "meaning_id": "Saya berniat belajar besok."
+    },
+    {
+      "pattern": "V you to omou",
+      "question": "___。",
+      "parts": ["日本[にほん]に", "留学[りゅうがく]しよう", "と思っている"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "日本に留学しようと思っている。",
+      "meaning_id": "Saya berpikir untuk kuliah di Jepang."
+    },
+    {
+      "pattern": "V you to omou",
+      "question": "___。",
+      "parts": ["新しい", "仕事[しごと]を", "探[さが]そう", "と思う"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "新しい仕事を探そうと思う。",
+      "meaning_id": "Saya berniat cari kerja baru."
+    },
+    {
+      "pattern": "V you to omou",
+      "question": "___。",
+      "parts": ["今夜[こんや]", "早[はや]く", "寝[ね]よう", "と思う"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "今夜早く寝ようと思う。",
+      "meaning_id": "Saya berniat tidur awal malam ini."
+    },
+    {
+      "pattern": "V you to omou",
+      "question": "___。",
+      "parts": ["車[くるま]を", "買[か]おう", "と思っている"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "車を買おうと思っている。",
+      "meaning_id": "Saya berpikir untuk beli mobil."
+    },
+    {
+      "pattern": "V you to omou",
+      "question": "___。",
+      "parts": ["彼[かれ]を", "食事[しょくじ]に", "誘[さそ]おう", "と思う"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼を食事に誘おうと思う。",
+      "meaning_id": "Saya berniat ajak dia makan."
+    },
+    {
+      "pattern": "V you to omou",
+      "question": "___。",
+      "parts": ["明日[あした]", "電話[でんわ]しよう", "と思う"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "明日電話しようと思う。",
+      "meaning_id": "Saya berniat telepon besok."
+    },
+    {
+      "pattern": "V you to suru",
+      "question": "___。",
+      "parts": ["ドア[どあ]を", "開[あ]けよう", "とした"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "ドアを開けようとした。",
+      "meaning_id": "Mencoba membuka pintu."
+    },
+    {
+      "pattern": "V you to suru",
+      "question": "___。",
+      "parts": ["電車[でんしゃ]に", "乗[の]ろう", "とした"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "電車に乗ろうとした。",
+      "meaning_id": "Mencoba naik kereta."
+    },
+    {
+      "pattern": "V you to suru",
+      "question": "___。",
+      "parts": ["朝[あさ]", "起[お]きよう", "とした", "けど"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "朝起きようとしたけど。",
+      "meaning_id": "Mau bangun pagi tapi..."
+    },
+    {
+      "pattern": "V you to suru",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "何[なに]かを", "言[い]おう", "とした"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は何かを言おうとした。",
+      "meaning_id": "Dia mencoba mengatakan sesuatu."
+    },
+    {
+      "pattern": "V you to suru",
+      "question": "___。",
+      "parts": ["子供[こども]が", "犬[いぬ]に", "触[さわ]ろう", "とした"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "子供が犬に触ろうとした。",
+      "meaning_id": "Anak itu mau menyentuh anjing."
+    },
+    {
+      "pattern": "V you to suru",
+      "question": "___。",
+      "parts": ["窓[まど]を", "閉[し]めよう", "とした", "時[とき]"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "窓を閉めようとした時。",
+      "meaning_id": "Waktu mau menutup jendela."
+    },
+    {
+      "pattern": "V you to suru",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "出[で]かけよう", "としている"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼女は出かけようとしている。",
+      "meaning_id": "Dia sedang mau pergi."
+    },
+    {
+      "pattern": "V you to shinai",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "勉強[べんきょう]しよう", "としない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼は勉強しようとしない。",
+      "meaning_id": "Dia tidak mau belajar."
+    },
+    {
+      "pattern": "V you to shinai",
+      "question": "___。",
+      "parts": ["子供[こども]が", "言[い]うことを", "聞[き]こう", "としない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "子供が言うことを聞こうとしない。",
+      "meaning_id": "Anak tidak mau dengar kata."
+    },
+    {
+      "pattern": "V you to shinai",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "謝[あやま]ろう", "としない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼女は謝ろうとしない。",
+      "meaning_id": "Dia tidak mau minta maaf."
+    },
+    {
+      "pattern": "V you to shinai",
+      "question": "___。",
+      "parts": ["犬[いぬ]が", "言[い]うことを", "聞[き]こう", "としない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "犬が言うことを聞こうとしない。",
+      "meaning_id": "Anjing tidak mau nurut."
+    },
+    {
+      "pattern": "V you to shinai",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "自分[じぶん]の", "間違[まちが]いを", "認[みと]めよう", "としない"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "彼は自分の間違いを認めようとしない。",
+      "meaning_id": "Dia tidak mau akui kesalahan."
+    },
+    {
+      "pattern": "V you to shinai",
+      "question": "___。",
+      "parts": ["娘[むすめ]は", "部屋[へや]を", "片付[かたづ]けよう", "としない"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "娘は部屋を片付けようとしない。",
+      "meaning_id": "Anak perempuan tidak mau rapi."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜う/ようと思う",
+      "meaning": "Berniat / Berpikir akan melakukan",
+      "structure": "V-volitional + と思う (niat sesaat) / と思っている (niat berkelanjutan)",
+      "example": "日本[にほん]に留学[りゅうがく]しようと思っている。"
+    },
+    {
+      "title": "〜う/ようとする",
+      "meaning": "Mencoba melakukan / Hampir / Akan",
+      "structure": "V-volitional + とする (usaha) / としている (sedang akan)",
+      "example": "ドア[どあ]を開[あ]けようとした。"
+    },
+    {
+      "title": "〜う/ようとしない",
+      "meaning": "Tidak mau / Tidak berniat melakukan (sikap negatif)",
+      "structure": "V-volitional + としない (menolak / tidak berusaha)",
+      "example": "彼[かれ]は勉強[べんきょう]しようとしない。"
+    }
+  ]
+}
