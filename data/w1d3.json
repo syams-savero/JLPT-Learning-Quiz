@@ -1,0 +1,224 @@
+{
+  "week": 1,
+  "day": 3,
+  "goi": [
+    { "kanji": "蓋", "reading": "ふた", "meaning_en": "lid", "meaning_id": "tutup" },
+    { "kanji": "お玉", "reading": "おたま", "meaning_en": "ladle", "meaning_id": "sendok sayur" },
+    { "kanji": "鍋", "reading": "なべ", "meaning_en": "pot", "meaning_id": "panci" },
+    { "kanji": "フライ返し", "reading": "ふらいがえし", "meaning_en": "spatula (turner)", "meaning_id": "sutil" },
+    { "kanji": "フライパン", "reading": "ふらいぱん", "meaning_en": "frying pan", "meaning_id": "teflon / wajan dadar" },
+    { "kanji": "しゃもじ", "reading": "しゃもじ", "meaning_en": "rice paddle", "meaning_id": "centong nasi" },
+    { "kanji": "炊飯器", "reading": "すいはんき", "meaning_en": "rice cooker", "meaning_id": "penanak nasi" },
+    { "kanji": "湯を沸かす", "reading": "ゆをわかす", "meaning_en": "boil water (transitive)", "meaning_id": "merebus air" },
+    { "kanji": "湯を冷ます", "reading": "ゆをさます", "meaning_en": "cool water (transitive)", "meaning_id": "mendinginkan air" },
+    { "kanji": "湯が沸く", "reading": "ゆがわく", "meaning_en": "water boils (intransitive)", "meaning_id": "air mendidih" },
+    { "kanji": "湯が冷める", "reading": "ゆがさめる", "meaning_en": "water cools (intransitive)", "meaning_id": "air mendingin" },
+    { "kanji": "鍋を火にかける", "reading": "なべをひにかける", "meaning_en": "put pot on the stove", "meaning_id": "meletakkan panci di api" },
+    { "kanji": "水を切る", "reading": "みずをきる", "meaning_en": "drain water", "meaning_id": "meniriskan air" },
+    { "kanji": "ご飯を炊く", "reading": "ごはんをたく", "meaning_en": "cook rice", "meaning_id": "menanak nasi" },
+    { "kanji": "混ぜる", "reading": "まぜる", "meaning_en": "mix", "meaning_id": "mengaduk" },
+    { "kanji": "油を熱する", "reading": "あぶらをねっする", "meaning_en": "heat oil", "meaning_id": "memanaskan minyak" },
+    { "kanji": "焦げる", "reading": "こげる", "meaning_en": "burn / scorch", "meaning_id": "gosong" },
+    { "kanji": "油で揚げる", "reading": "あぶらであげる", "meaning_en": "deep-fry", "meaning_id": "menggoreng (deep fry)" },
+    { "kanji": "ひっくり返す", "reading": "ひっくりかえす", "meaning_en": "flip over", "meaning_id": "membalik" },
+    { "kanji": "打ち返す", "reading": "うちかえす", "meaning_en": "turn over / flip", "meaning_id": "membalikkan" },
+    { "kanji": "煮る", "reading": "にる", "meaning_en": "simmer", "meaning_id": "merebus" },
+    { "kanji": "茹でる", "reading": "ゆでる", "meaning_en": "boil", "meaning_id": "merebus (air)" },
+    { "kanji": "炒める", "reading": "いためる", "meaning_en": "stir-fry", "meaning_id": "menumis" },
+    { "kanji": "蒸す", "reading": "むす", "meaning_en": "steam", "meaning_id": "mengukus" },
+    { "kanji": "味を付ける", "reading": "あじをつける", "meaning_en": "season", "meaning_id": "memberi bumbu" },
+    { "kanji": "塩を加える", "reading": "しおをくわえる", "meaning_en": "add salt", "meaning_id": "menambahkan garam" },
+    { "kanji": "胡椒を振る", "reading": "こしょうをふる", "meaning_en": "sprinkle pepper", "meaning_id": "menaburkan merica" },
+    { "kanji": "味見をする", "reading": "あじみをする", "meaning_en": "taste test", "meaning_id": "mencicipi" },
+    { "kanji": "味を見る", "reading": "あじをみる", "meaning_en": "check the taste", "meaning_id": "mencek rasa" },
+    { "kanji": "味が濃い", "reading": "あじがこい", "meaning_en": "strong flavor", "meaning_id": "rasa kuat" },
+    { "kanji": "辛い", "reading": "からい", "meaning_en": "spicy", "meaning_id": "pedas" },
+    { "kanji": "塩辛い", "reading": "しおからい", "meaning_en": "salty", "meaning_id": "asin" },
+    { "kanji": "酸っぱい", "reading": "すっぱい", "meaning_en": "sour", "meaning_id": "asam" },
+    { "kanji": "出来上がる", "reading": "できあがる", "meaning_en": "be completed", "meaning_id": "selesai jadi" },
+    { "kanji": "味が薄い", "reading": "あじがうすい", "meaning_en": "bland flavor", "meaning_id": "rasa hambar" },
+    { "kanji": "出来上がり", "reading": "できあがり", "meaning_en": "finishing touch", "meaning_id": "hasil jadi" }
+  ],
+  "bunpou": [
+    {
+      "pattern": "N mitaida",
+      "question": "___。",
+      "parts": ["あの雲[くも]は", "綿菓子[わたがし]", "みたいだ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "あの雲は綿菓子みたいだ。",
+      "meaning_id": "Awan itu seperti permen kapas."
+    },
+    {
+      "pattern": "N mitaini",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "魚[さかな]", "みたいに", "泳[およ]げる"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は魚みたいに泳げる。",
+      "meaning_id": "Dia berenang seperti ikan."
+    },
+    {
+      "pattern": "N mitaina",
+      "question": "___。",
+      "parts": ["犬[いぬ]", "みたいな", "顔[かお]"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "犬みたいな顔。",
+      "meaning_id": "Wajah seperti anjing."
+    },
+    {
+      "pattern": "N mitaida",
+      "question": "___。",
+      "parts": ["この味[あじ]は", "プロ[ぷろ]", "みたいだ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "この味はプロみたいだ。",
+      "meaning_id": "Rasa ini seperti profesional."
+    },
+    {
+      "pattern": "N mitaini",
+      "question": "___。",
+      "parts": ["子供[こども]", "みたいに", "騒[さわ]ぐ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "子供みたいに騒ぐ。",
+      "meaning_id": "Berisik seperti anak-anak."
+    },
+    {
+      "pattern": "N mitaida",
+      "question": "___。",
+      "parts": ["まるで", "夢[ゆめ]", "みたいだ"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "まるで夢みたいだ。",
+      "meaning_id": "Seperti mimpi."
+    },
+    {
+      "pattern": "N mitaina",
+      "question": "___。",
+      "parts": ["新[あたら]しい", "スマホ[すまほ]", "みたいな", "デザイン[でざいん]"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "新しいスマホみたいなデザイン。",
+      "meaning_id": "Desain seperti HP baru."
+    },
+    {
+      "pattern": "N mitaini",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "男[おとこ]", "みたいに", "話[はな]す"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼女は男みたいに話す。",
+      "meaning_id": "Dia bicara seperti laki-laki."
+    },
+    {
+      "pattern": "N rashii",
+      "question": "___。",
+      "parts": ["今日[きょう]は", "春[はる]", "らしい", "天気[てんき]だ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "今日は春らしい天気だ。",
+      "meaning_id": "Cuaca khas musim semi."
+    },
+    {
+      "pattern": "N rashii",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "学生[がくせい]", "らしく", "勉強[べんきょう]している"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼は学生らしく勉強している。",
+      "meaning_id": "Dia belajar seperti mahasiswa."
+    },
+    {
+      "pattern": "N rashii",
+      "question": "___。",
+      "parts": ["あの", "言[い]い方[かた]は", "女[おんな]", "らしい"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あの言い方は女らしい。",
+      "meaning_id": "Cara bicara itu feminin."
+    },
+    {
+      "pattern": "N rashii",
+      "question": "___。",
+      "parts": ["今日[きょう]は", "夏[なつ]", "らしい", "暑[あつ]さだ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "今日は夏らしい暑さだ。",
+      "meaning_id": "Panas khas musim panas."
+    },
+    {
+      "pattern": "N rashii",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "先生[せんせい]", "らしくない"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼は先生らしくない。",
+      "meaning_id": "Dia tidak seperti guru."
+    },
+    {
+      "pattern": "N rashii",
+      "question": "___。",
+      "parts": ["あそこは", "観光地[かんこうち]", "らしい", "ところだ"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あそこは観光地らしいところだ。",
+      "meaning_id": "Tempat yang khas wisata."
+    },
+    {
+      "pattern": "N/V ppoi",
+      "question": "___。",
+      "parts": ["彼[かれ]は", "子供[こども]", "っぽい"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼は子供っぽい。",
+      "meaning_id": "Dia kekanak-kanakan."
+    },
+    {
+      "pattern": "V ppoi",
+      "question": "___。",
+      "parts": ["彼女[かのじょ]は", "忘[わす]れ", "っぽい"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "彼女は忘れっぽい。",
+      "meaning_id": "Dia pelupa."
+    },
+    {
+      "pattern": "A ppoi",
+      "question": "___。",
+      "parts": ["あの", "店[みせ]の", "商品[しょうひん]は", "安[やす]", "っぽい"],
+      "correct_order": [0, 1, 2, 3, 4],
+      "full_sentence": "あの店の商品は安っぽい。",
+      "meaning_id": "Barang di toko itu kelihatan murahan."
+    },
+    {
+      "pattern": "N ppoi",
+      "question": "___。",
+      "parts": ["彼[かれ]の", "服[ふく]は", "女[おんな]", "っぽい"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "彼の服は女っぽい。",
+      "meaning_id": "Bajunya feminin."
+    },
+    {
+      "pattern": "N ppoi",
+      "question": "___。",
+      "parts": ["水[みず]", "っぽい", "味[あじ]"],
+      "correct_order": [0, 1, 2],
+      "full_sentence": "水っぽい味。",
+      "meaning_id": "Rasa seperti air (encer)."
+    },
+    {
+      "pattern": "N ppoi",
+      "question": "___。",
+      "parts": ["あの", "言[い]い方[かた]は", "嘘[うそ]", "っぽい"],
+      "correct_order": [0, 1, 2, 3],
+      "full_sentence": "あの言い方は嘘っぽい。",
+      "meaning_id": "Cara bicaranya seperti bohong."
+    }
+  ],
+  "grammar_list": [
+    {
+      "title": "〜みたいだ / 〜みたいに / 〜みたいな",
+      "meaning": "Seperti / Bagai (keserupaan)",
+      "structure": "N + みたいだ (pred.) / N + みたいに (adv.) / N + みたいな + N (attr.)",
+      "example": "まるで夢[ゆめ]みたいだ。"
+    },
+    {
+      "title": "〜らしい",
+      "meaning": "Khas / Seperti layaknya (memiliki sifat yang sesuai)",
+      "structure": "N + らしい (mengandung sifat yang ideal dari N)",
+      "example": "今日[きょう]は春[はる]らしい天気[てんき]だ。"
+    },
+    {
+      "title": "〜っぽい",
+      "meaning": "Kelihatannya / Cenderung / -ish (kesan subjektif)",
+      "structure": "N + っぽい / V-masu stem + っぽい / A-stem + っぽい",
+      "example": "彼[かれ]は忘[わす]れっぽい。"
+    }
+  ]
+}
